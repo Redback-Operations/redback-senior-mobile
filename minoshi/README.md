@@ -2,7 +2,7 @@
 
 These files contain yearly health expenditure data in Australia, downloaded from the Australian Institute of Health and Welfare (AIHW).
 
-Each file corresponds to a specific financial year (e.g., 2010–11, 2011–12, etc.) and is in `.xls` or `.xlsx` format.
+Each file corresponds to a specific financial year (Eg:2010–11, 2011–12, etc.) and is in `.xls` or `.xlsx` format.
 
 ## Files Included
 - Heath Expenditure Australia 2010-11.xls

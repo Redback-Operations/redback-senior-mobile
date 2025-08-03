@@ -1,4 +1,4 @@
-Year,Region,Low1,High1,Low2,High2,Low3,High3,Low4,High4,Low5,High5
+Year,Region,actual1,adjusted1,actual2,adjusted2,actual3,adjusted3,actual4,adjusted4,actual5,adjusted5
 2003,Aus,0.1,0.12,0.11,0.13,0.12,0.14,0.13,0.15,0.14,0.16
 2004,Aus,0.11,0.13,0.12,0.14,0.13,0.15,0.14,0.16,0.15,0.17
 2005,Aus,0.12,0.14,0.13,0.15,0.14,0.16,0.15,0.17,0.16,0.18

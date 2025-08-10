@@ -1,0 +1,9 @@
+treatment_name,State,avg_cost,avg_outcome,cases,cost_per_outcome
+Hip Replacement,QLD,22000.0,0.84,1,26190.47619047619
+Hip Replacement,TAS,21000.0,0.8,1,26250.0
+Hip Replacement,NT,20500.0,0.78,1,26282.05128205128
+Hip Replacement,ACT,24500.0,0.92,1,26630.434782608696
+Hip Replacement,NSW,24000.0,0.9,1,26666.666666666664
+Hip Replacement,VIC,23500.0,0.88,1,26704.545454545456
+Hip Replacement,WA,23000.0,0.86,1,26744.18604651163
+Hip Replacement,SA,22500.0,0.83,1,27108.43373493976

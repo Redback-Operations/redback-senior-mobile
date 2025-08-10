@@ -1,0 +1,9 @@
+State,Treatment,Average_Cost_AUD,Outcome_Score
+NSW,Hip Replacement,24000,0.9
+VIC,Hip Replacement,23500,0.88
+QLD,Hip Replacement,22000,0.84
+WA,Hip Replacement,23000,0.86
+SA,Hip Replacement,22500,0.83
+TAS,Hip Replacement,21000,0.8
+ACT,Hip Replacement,24500,0.92
+NT,Hip Replacement,20500,0.78

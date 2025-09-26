@@ -1,0 +1,9 @@
+Category,Subcategory,Boys_Overweight_not_obese_Percent,Boys_Overweight_not_obese_95CI,Boys_Obese_Percent,Boys_Obese_95CI,Boys_Overweight_or_obese_Percent,Boys_Overweight_or_obese_95CI,Girls_Overweight_not_obese_Percent,Girls_Overweight_not_obese_95CI,Girls_Obese_Percent,Girls_Obese_95CI,Girls_Overweight_or_obese_Percent,Girls_Overweight_or_obese_95CI,All_children_Overweight_not_obese_Percent,All_children_Overweight_not_obese_95CI,All_children_Obese_Percent,All_children_Obese_95CI,All_children_Overweight_or_obese_Percent,All_children_Overweight_or_obese_95CI
+Remoteness area,Major cities,18.6,15.6-21.5,8.2,6.5-9.8,26.7,23.5-30.0,17.7,14.6-20.9,6.5,4.7-8.2,24.2,21.0-27.5,18.2,16.1-20.2,7.3,6.2-8.5,25.5,23.1-27.8
+Remoteness area,Inner regional areas,18.2,11.1-25.4,11.0,4.5-17.4,29.2,20.7-37.7,22.0,14.0-30.0,6.7,2.9-10.4,28.6,19.6-37.6,20.0,14.4-25.6,9.0,5.2-12.7,28.9,22.6-35.3
+Remoteness area,Outer regional and remote areas,14.1,7.6-20.6,8.1,2.4-13.7,22.2,13.6-30.7,19.4,7.8-31.0,17.1,6.3-28.0,36.5,22.8-50.3,16.5,10.4-22.6,12.2,6.1-18.2,28.6,21.2-36.0
+Socioeconomic areas,Group 1 (most disadvantaged areas),15.1,9.9-20.4,17.9,12.6-23.2,33.0,26.8-39.2,23.8,17.4-30.2,10.8,5.2-16.4,34.6,27.6-41.6,19.1,15.0-23.3,14.6,11.1-18.2,33.8,29.4-38.1
+Socioeconomic areas,Group 2,17.3,10.2-24.5,7.3,3.8-10.7,24.6,16.9-32.3,19.7,12.0-27.4,9.4,4.3-14.5,29.1,20.9-37.4,18.5,13.3-23.6,8.3,5.3-11.3,26.8,21.5-32.1
+Socioeconomic areas,Group 3,16.2,11.7-20.7,7.3,3.4-11.3,23.5,18.2-28.8,17.9,11.4-24.3,9.8,5.0-14.6,27.7,21.5-33.9,17.1,13.3-20.9,8.6,5.7-11.8,25.7,21.6-29.8
+Socioeconomic areas,Group 4,21.7,16.4-27.1,5.5,2.4-8.6,27.2,21.6-32.8,19.3,12.0-26.7,4.2,1.9-6.5,23.6,16.2-30.9,20.6,16.2-25.0,4.9,2.7-7.1,25.5,20.7-30.2
+Socioeconomic areas,Group 5 (least disadvantaged areas),19.2,13.3-25.1,6.0,3.1-8.9,25.2,18.7-31.7,13.0,8.3-17.7,3.7,1.4-5.9,16.7,12.0-21.4,16.3,12.4-20.1,4.9,3.0-6.7,21.1,16.4-25.8

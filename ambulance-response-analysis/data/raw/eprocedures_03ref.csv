@@ -1,0 +1,2088 @@
+eProcedures_03,ProcedureCodeDescr
+102957003,Neurological finding
+103579009,Race
+103698003,Patient referral to non-physician provider
+103715008,Removal of catheter
+103720008,Elevation
+103744005,Administration of intravenous fluids
+103973002,"A,B blood group antibody identification"
+104092009,"Hemogram, automated, with red blood cell, white blood cell, hemoglobin, hematocrit, Indices, Platelet count, and automated partial white blood cell differential"
+10442004,Splint maintenance
+104589004,"Chloride measurement, blood"
+104598001,Chymopapain measurement
+104613001,Creatine kinase MB isoenzyme measurement
+104686004,"Glucose measurement, blood, test strip"
+104690002,"Glucose measurement, post glucose dose"
+1048003,Capillary specimen collection
+104847001,Oxygen saturation measurement
+105000003,Troponin measurement
+105382002,Cooling the patient
+105723007,Body temperature finding
+105787005,"Belt/binder, device"
+1058004,"Helicopter, device"
+106066004,Cardiac rhythm AND/OR rate finding
+106205006,Hemostasis related substance
+107411000119108,Female genital mutilation type 4
+10756001,Product containing haloperidol
+107724000,Patient transfer
+108051000119101,Mandibular laterognathia
+108252007,Laboratory procedure
+108283006,Ultrasound procedure on cardiovascular system
+108418007,Product containing ondansetron
+10849003,Removal of foreign body
+108512006,Product containing ketorolac
+108624006,Product containing ipratropium
+109006003,Product containing tranexamic acid
+10904000,Orthostatic body position
+11115001,Thromboxane A>2<
+11140008,"Respiratory assist, manual"
+112115002,Oxytocin
+112798008,Insertion of endotracheal tube
+113018007,Cardioassist
+113152007,Application of ice
+113435002,Arthrobacter crystallopoietes
+1137581004,Nose clip
+1141760009,Continuous positive airway pressure bilevel positive airway pressure face mask
+11429006,Consultation
+1149092001,Positive pressure airway ventilation
+1156871006,Wellness record
+115979005,Stabilization
+116154003,Patient
+116328000,Physical examination maneuver related to cervical spine
+116332006,Physical examination maneuver related to the spine
+116762002,Administration of blood product
+116795008,Transfusion of cryoprecipitate
+116859006,Transfusion of blood product
+116861002,Transfusion of fresh frozen plasma
+116863004,Transfusion of red blood cells
+116865006,Administration of albumin
+116867003,Blood product unit disposition transfused
+117007006,Titration method
+117010004,Urine culture
+118185001,Finding related to pregnancy
+118216002,Labor finding
+118227000,Vital signs finding
+118246004,Laboratory test finding
+118414001,"Pressure dressing, device"
+118416004,"Wound packing material, device"
+118431008,Fluid for intravenous administration
+118481004,Strapping procedure
+1186618000,Bilevel artificial ventilation
+118669005,Procedure on respiratory system
+118702008,Procedure on upper extremity
+118797008,Procedure on heart
+118884004,Procedure on spinal cord
+118885003,Procedure on brain
+119265000,Assisting
+119297000,Blood specimen
+119711004,Nose closure
+122494005,Structure of cervical vertebral column
+122545008,Stimulation procedure
+122555007,Venous blood specimen
+122869004,Measurement procedure
+122944000,Reduction of dislocation
+1230043004,Positioning of head
+1230102001,Moving subject to standing position
+1251443007,Construction of stoma of thorax
+1254763003,Carbon dioxide sampling nasal cannula
+1255879001,Administration of nitric oxide
+1259025002,Heated and humidified high flow oxygen therapy using nasal cannula
+1268297002,Umbilical venous catheter
+127584007,Adjustment of stabilizing device
+127606004,Therapeutic phlebotomy
+128538000,Removal of device
+1287359005,Rapid Arterial Occlusion Evaluation Scale
+12891006,Application of knee immobilizer
+128962004,Hemodynamic physiologic challenge
+128968000,Vagal stimulation physiologic challenge
+129007004,Feeding
+1290630003,Immobilization of spine using spine board
+129090007,Carotid sinus massage procedure phase
+129112001,Aspiration of trachea
+129113006,"Intra-aortic balloon pump, device"
+129121000,"Tracheostomy tube, device"
+129236007,Open approach - access
+129265001,Evaluation - action
+129326001,Injection - action
+129332006,Irrigation - action
+129411004,Traction - action
+129415008,Extraction - action
+131148009,Bleeding
+13142009,Direct laryngoscopy with insertion of obturator
+1333003,"Emesis basin, device"
+133879001,Monitoring of patient temperature
+133880003,Induction of emesis
+133901003,Burn care
+133905007,Delivery room care
+133909001,Maintenance of device
+133918004,Comfort measures
+133921002,Emotional support
+133936004,Adult
+13569004,Transfusion of plasma
+135840009,Blood pressure monitoring
+135877001,Stroke risk
+1366004,Inhalation therapy procedure
+13855007,"Pillow, device"
+14089001,Red blood cell count
+14106009,"Cardiac pacemaker, device"
+14152002,Intravenous infusion
+14393002,Wedge pressure determination
+14431003,"Electrocardiogram, single lead"
+1461000205102,Digital thermometer
+14734007,Administrative procedure
+14766002,Aspiration
+156009,"Spine board, device"
+15631002,"Application of dressing, minor"
+158967008,Consultant physician
+159205002,Aeronautical engineer - trainee
+159513002,Parking/toll fee collector
+16076005,Prescription
+16100001,Death diagnosis (contextual qualifier)
+162498009,Symptom not changed
+16254007,Lipid panel
+162673000,General examination of patient
+162674006,Depth of general examination
+16310003,Ultrasonography
+163497009,Obstetric examination
+16378004,Platelet
+164780005,Jugular vein catheterization
+164783007,Ambulatory blood pressure recording
+164931005,ST elevation
+165077006,Intracardiac pressure
+166312007,Blood chemistry
+16650009,"Splint, device"
+166888009,Blood glucose method
+166900001,Glucometer blood sugar
+166921001,Blood glucose within reference range
+167018008,Blood gas measurement
+167252002,Urine pregnancy test
+168504009,Radiology in X-ray department
+168759005,Abdominal obstetric X-ray
+16883004,"Endotracheal intubation, emergency procedure"
+169064005,Computed tomography normal
+169069000,Computed tomography of chest
+169072007,Computed tomography scan - whole body
+16912001,Hazardous physical site
+169836001,Birth of child
+170099002,Child examination - birth
+170497006,Isolation because of infection
+170499009,Isolation of infection contact
+170512001,Control of bedbugs
+170516003,Notification of disease
+170600009,Stroke monitoring
+170677006,Psychiatric disorder monitoring
+170753006,Understands diet - diabetes
+170798000,Treatment of obesity changed
+170988002,Relative counseled
+171007003,Counseling for bereavement
+17102003,"Nasogastric tube, device"
+171397002,Medical examination for suspected condition
+172819009,Packing of cavity of nose
+173067007,Cricothyroidotomy
+173280002,Replantation of tooth
+173765009,Attention to gastrostomy tube
+17404008,"Cardiac compression board, device"
+175097002,Endocardial excision of arrhythmogenic focus
+175180005,Decompression of cardiac tamponade
+175852005,Flushing of central line
+175853000,Removal of central venous line
+17636008,Specimen collection
+177184002,Normal delivery procedure
+179208004,Apply Thomas splint traction
+180207008,Intravenous blood transfusion of packed cells
+180208003,Intravenous blood transfusion of platelets
+180333002,Body temperature modification and control
+18038006,Protection of surroundings from individual
+180640008,Approach via tracheostomy
+18207002,Blood urea nitrogen/creatinine ratio
+182524008,Attention to urinary catheter
+182525009,Clamping of urinary catheter
+182531007,Dressing of wound
+18255002,Structure of middle phalanx of third toe
+182555002,Application of bandage
+182556001,Pelvic sling
+182557005,Immobilization by bandaging
+182558000,Immobilization by sling
+182561004,Immobilization of wound
+182605004,Packing for hemorrhage
+182656008,General body warming therapy
+182660006,Cold therapy
+182661005,Local cooling therapy
+182682004,Emergency laryngeal intubation
+182686001,Endotracheal respiratory assistance
+182692007,Nasopharyngeal airway insertion
+182705007,Tension pneumothorax relief
+182709001,Laryngeal intubation for inhalation
+182771004,Informed consent for procedure
+182777000,Monitoring of patient
+182796001,Intracranial pressure monitoring regime
+182803009,Cardiac emergency monitoring
+182810003,Intensive care monitoring
+182814007,Emergency dressing
+182832007,Procedure related to management of drug administration
+182833002,Medication given
+182878004,Medication increased
+182879007,Medication decreased
+182970005,Pain relief
+183094000,Tender loving care
+183189003,Rigid collar
+183190007,Flexible collar
+183192004,Shoulder abduction brace
+183463008,Trauma emergency hospital admission
+184085002,Patient moved in area
+184300000,Found dead at accident site
+184966003,Police request to attend
+185004005,Medical report received
+185087000,Notifications
+185317003,Telephone encounter
+185381007,Repeat medication check
+18540005,Suction of newborn
+185406000,Ambulance request for patient
+185467006,Home visit for acute condition
+185468001,Home visit for chronic condition
+185494005,In-house ultrasound
+185685007,Adult immunization - first call
+18590009,Cardiac pacing
+18629005,Administration of drug or medicament
+18649001,Rectal temperature taking
+18723003,Demand pacing
+1912002,Fall
+19227008,Foreign body
+19257004,"Defibrillator, device"
+19314006,Seal
+19328000,"Blanket, device"
+19433002,Direct laryngoscopy with foreign body removal
+19821003,Carboxyhemoglobin measurement
+19861002,Intermittent positive pressure breathing treatment with nebulized medication
+199746004,Obstructed labor
+20135006,Screening procedure
+20568009,"Urinary catheter, device"
+20655006,Application of tourniquet
+20762007,Application of electric heating pad
+21079000,"Carbon monoxide analyzer, device"
+21641000175100,Adult not examined
+21943005,Hot water bath hydrotherapy
+22206003,"Application of dressing, occlusive plastic"
+22298006,Myocardial infarction
+223438000,Recommendation to discontinue a procedure
+223451005,Recommendation to report signs and symptoms
+223454002,Assisting with activity
+223458004,Informing
+223461003,Informing about what is happening
+223484005,Discussion about treatment
+224887004,Hospital waiting room
+224965009,Grief finding
+225065004,Flushing of central venous catheter by injection of heparin
+225066003,Removal of intravenous cannula
+225078004,Checking position of nasogastric tube
+225088003,Insertion of indwelling urethral catheter
+225113003,Timed urine collection
+225116006,Irrigation of wound
+225150002,Cleaning wound
+225153000,Application of adhesive skin closure
+225157004,Intraosseous injection
+225158009,Auscultation of the fetal heart
+225170008,Applying hemostatic swab
+225216003,Acknowledging anxiety
+225219005,Verbal communication interventions
+225284006,Transfusing whole blood under pressure
+225285007,Giving oral fluid
+225286008,Alternating the patient's position
+225287004,Procedures relating to positioning and support
+225288009,Environmental care procedure
+225313009,Supervision
+225317005,Restriction of movement
+225343006,Assessment of needs
+225358003,Wound care
+225372007,Total parenteral nutrition
+225378006,Ongoing assessment of behavior
+225390008,Triage
+225391007,Injury assessment
+225395003,Wound assessment
+225398001,Neurological assessment
+225399009,Pain assessment
+225606002,Abnormal movement
+225622001,Breathalyser test
+225692006,Applying eye pad and bandage
+225696009,Applying eye shield
+225697000,Covering eye
+225708008,Precordial thump
+225711009,Collection of nasal pharyngeal aspirate
+225713007,Removal of vomit from airway
+225715000,Endotracheal tube suction
+225716004,Reposition endotracheal tube
+225717008,Check endotracheal tube is secure
+225718003,Checking position of endotracheal tube
+225885004,Health assessment
+225886003,Medical assessment
+225994009,Placing patient in comfortable position
+225998007,Application of occlusive dressing to pressure injury
+226003000,Maintaining patient's safety
+226004006,Medical equipment assessment
+226005007,Care of central line
+226051008,Provision of lift
+22633006,"Vaginal delivery, medical personnel present"
+2267008,Changing tracheostomy tube
+22778000,Venipuncture
+228261003,Buckle
+228597006,Provision of collar
+228603009,Adjusting of splint
+228604003,Checking of splint
+228615008,Provision of transport
+228621007,Provision of environmental control system
+229059009,Report
+229238007,Moving between two positions
+229408004,Mobilization of the spine
+229409007,Mobilization of the cervical spine
+229548005,Stretch splinting
+229571007,Heat pad treatment
+229578001,Ice bath treatment
+229583009,Chemically-activated ice pack treatment
+229585002,Cold pack treatment
+229824005,Positioning patient
+229914003,Nasogastric feeding
+230040009,Airway suction technique
+230114001,Central line feeding
+230690007,Cerebrovascular accident
+230937006,Procedure for monitoring intracranial pressure
+231061006,Cerebrospinal fluid collection
+231107005,Acupressure
+231155005,Common digital nerve block in the hand
+231361000,Attention to catheter
+23248003,Taking swab for microbiology
+232574005,Removal of foreign body from larynx
+232613003,Attention to tracheostomy
+232663008,Airway procedure
+232664002,Manual establishment of airway
+232665001,Chin lift
+232666000,Jaw thrust
+232667009,Airway obtained by head extension
+232670008,Nasal laryngoscopy
+232673005,Obturator airway insertion
+232674004,Orotracheal intubation
+232675003,Oral intubation awake
+232678001,Orotracheal fiberoptic intubation
+232679009,Nasotracheal intubation
+232680007,Nasal intubation awake
+232681006,Blind nasal intubation
+232683009,Cricothyroidotomy tube insertion
+232685002,Insertion of tracheostomy tube
+232686001,Insertion of tracheal T-tube
+232689008,Percutaneous cricothyroidotomy
+232690004,Percutaneous dilatational cricothyroidotomy
+232692007,Open cricothyroidotomy
+232694008,Deflation of tube cuff
+232701003,Nasopharyngeal suction
+232702005,Orotracheal suction
+232703000,Tracheal suction via tracheostomy
+232706008,Airway clearance by finger sweep
+232707004,Removal of foreign body from airway
+232708009,Removal of device from airway
+232711005,Removal of airway
+232967006,Implantation of left cardiac ventricular assist device
+232969009,Cardiac support using extracorporeal membrane oxygenation circuitry
+233169004,Automatic defibrillator procedure
+233175008,Temporary cardiac pacemaker procedure
+233176009,Direct temporary cardiac pacemaker procedure
+233178005,Insertion of endocardial electrode for temporary cardiac pacing
+233181000,Transthoracic cardiac pacing procedure
+233397000,Division of subclavian artery
+233419004,Application of direct pressure to artery
+233441004,Adjustment of venous stent
+233516009,Femoral artery cannula insertion
+233519002,Umbilical artery cannula insertion
+233520008,Insertion of peripheral venous cannula into peripheral vein
+233526002,Insertion of peripheral venous cannula into scalp vein
+233527006,Central venous cannula insertion
+233533002,Central venous cannula insertion via umbilical vein
+233550000,Cannulation of subcutaneous reservoir
+233562001,Intra-osseous infusion
+233573008,Extracorporeal membrane oxygenation
+233645004,Tension pneumothorax
+233838001,Acute posterior myocardial infarction
+235159007,Percutaneous endoscopic insertion of gastrostomy tube
+235422004,Insertion of nasoduodenal tube
+235423009,Insertion of nasojejunal tube
+235425002,Insertion of orogastric tube
+235439002,Removal of orogastric tube
+235444009,Attention to gastrointestinal tract tube
+235448007,Attention to orogastric tube
+23562009,"Household ventilator, device"
+236239008,Urethral catheter procedure
+23667007,Term pregnancy delivered
+23690002,Abdominal thrust
+236973005,Delivery procedure
+236994008,Placental delivery procedure
+236995009,Uterine massage
+236996005,Abdominal uterine fundal massage
+237623001,Acute hyperglycemia
+238150007,Sepsis syndrome
+238181003,Procedure on spine
+238247000,Umbilical cord procedure
+238248005,Umbilical cord clamping
+238327005,Chest wall procedure
+23852006,Cardiac monitoring
+2386002,Reduction of closed patellar dislocation
+239516002,Monitoring procedure
+239644006,Application of pelvic traction
+239655006,Application of skeletal traction to lower limb
+239656007,Application of skeletal traction via the femur
+239659000,Adjustment of traction system
+239693001,Application of triangular sling
+239694007,Application of collar and cuff sling
+23973005,"Indwelling urinary catheter, device"
+24099007,Oxygen
+241019003,Packing of wound
+241026003,Procedures to drains
+241276008,Injection of indwelling catheter
+241578008,Computed tomography of cervical spine
+241689008,Rapid sequence induction
+241695009,Maintenance of general anesthesia
+241702005,Induction of neuromuscular blockade
+241704006,Induction of sedation
+241716000,Patient controlled analgesia
+241722009,Application of lubricant to eye
+241725006,Preoxygenation
+241726007,Application of cricoid pressure
+241730005,Tourniquet procedure
+241736004,Manual tourniquet application
+241737008,Tourniquet release
+241740008,Active warming of patient
+241741007,Active cooling of patient
+241744004,Reduction of heat loss by insulation
+242987005,Injury of unknown intent due to motor vehicle crash
+243132000,Inhaled drug administration
+243140006,Lung inflation by intermittent compression of reservoir bag
+243141005,Mechanically assisted spontaneous ventilation
+243142003,Dual pressure spontaneous ventilation support
+243150007,Assist control ventilation
+243153009,High frequency positive pressure ventilation
+243161004,Positive end expiratory pressure increased
+243162006,Positive end expiratory pressure increased to optimal positive end expiratory pressure
+243164007,Positive end expiratory pressure reduced
+243179000,Basic life support
+243180002,Expired air ventilation
+243184006,Ventilation with self-inflating bag
+243185007,Advanced life support
+243222002,Oral rehydration therapy
+243781005,Blood sampling from extracorporeal membrane oxygenation circuit
+243788004,Child examination
+24456005,Injection of soft tissue
+245581009,Emergency examination for triage
+245857005,Stoma
+246106000,Control
+246273001,Patient position
+246482009,Gel used
+246508008,Temperature
+24727006,Temperature gradient studies
+248242009,General physical finding
+248264000,No complaints
+248553004,No obstruction of airway
+248753002,Capillary refill
+248983002,Obstetric history
+24932003,Exposure to (contextual qualifier)
+249344003,Variation in patency of nasal airway
+249366005,Bleeding from nose
+249954005,Movement against gravity
+250373003,Blood transfusion finding
+250410007,Test temperature
+250417005,"Glucose concentration, test strip measurement"
+250546000,Measurement of partial pressure of oxygen in blood
+250554003,Measurement of oxygen saturation at periphery
+250555002,Blood oxygen concentration measurement
+250564007,Measurement of partial pressure of carbon dioxide in blood
+250568005,Measurement of transcutaneous partial pressure of carbon dioxide
+250774007,Inspired oxygen concentration
+250779002,Oxygen concentration in equipment
+250784008,End tidal carbon dioxide concentration
+250788006,Expired carbon dioxide tension
+250790007,End tidal carbon dioxide tension
+250825003,Ambient temperature
+250854009,Positive end expiratory pressure
+250863006,Capnograph waveform
+250870006,Ventilator finding
+250874002,Ventilator delivered tidal volume
+250875001,Ventilator delivered minute volume
+250876000,Ventilator rate
+250882002,Intravenous fluid warmer temperature
+250980009,Cardioversion
+25104002,Haloperidol measurement
+251076008,Non-invasive arterial pressure
+251149006,Cardiac rhythm type
+251285001,Extracorporeal gas exchange finding
+251586001,Pain threshold
+251992000,Fluid intake
+252090008,Rewarming time (tissue perfusion)
+252275004,Hematology test
+252398009,Culture - general
+252417001,24 Hour electrocardiogram
+252465000,Pulse oximetry
+25265005,Did not receive therapy or drug for (contextual qualifier)
+252663003,Carbon dioxide breath test
+2528003,Viremia
+252832004,Intraocular pressure test
+255407002,Neonatal
+255560000,Intravenous
+255765007,Fluid
+256395009,Platelet product
+256401009,Cryoprecipitate
+257245000,Yankauer suction catheter
+257268009,Laryngeal mask
+257279004,Single lumen catheter
+257280001,Double lumen catheter
+257294000,Thomas splint
+257307004,Esophageal obturator airway
+257369004,Single lumen tube
+257371004,Replogle tube
+257381000,Safety equipment
+257391006,Head restraint
+257393009,Child seat held by adult belt
+257462007,Tracheal tube
+257467001,Electrocardiogram lead
+257883005,Lubrication
+257884004,Immobilization - action
+258110002,Saline method
+258141001,Lifting
+258144009,Position change
+258150004,Transmission
+258181008,Electrocardiogram analysis
+258500001,Nasopharyngeal swab
+258633000,Swan-Ganz catheter tip
+258643002,Chest drain
+259268001,Isopropyl alcohol
+260317009,Roman numeral IV
+260413007,None
+260414001,Nothing
+260507000,Access
+260549005,Orogastric
+260617000,Intranasal approach
+260915005,Inspiratory/expiratory ratio
+260999003,Closed-circuit suction catheter
+261039008,Valsalva maneuver
+261169004,Posterolateral thoracotomy
+261241001,Arterial line
+261258006,Extracorporeal membrane oxygenation circuit
+26128008,"Bougie, device"
+261327007,Bulk carrier
+261352009,Face mask
+261365000,Hemostatic gauze
+261382003,Mask
+261492007,Anterolateral thoracotomy
+261512006,Cooling of intravenous fluid
+261754007,Continuous infusion
+262139008,Sensory
+262278000,Warming intravenous fluid technique
+263536004,Communication
+263699000,Cardiac activity
+26370007,Medicinal product acting as hemostatic
+263703002,Changed status
+263720003,Compression - action
+263904004,Traumatic
+264012001,Gastrogastric
+26412008,"Endotracheal tube, device"
+264224004,Supraglottic
+264598005,Oximetry
+264957007,Insertion of pleural tube drain
+265548004,Attention to central venous catheter
+26604007,Complete blood count
+266686005,Procedures relating to splintage and immobilization
+266687001,Bandaging and sling support
+266694003,Heat therapy
+266700009,Assisted breathing
+266706003,Continuous electrocardiogram monitoring
+266765001,Indwelling catheter inserted
+266768004,Indwelling catheter removed
+266815003,Intramuscular drug injection
+268400002,12 lead electrocardiogram
+268445003,Ultrasound scan - obstetric
+268565007,Adult health examination
+268970009,Central nervous system examination
+26906007,"Application of dressing, pressure"
+269944001,Nasal swab taken
+270115005,Unexpected death-Coroner told
+270352002,Medical examinations/reports
+27036008,"Bed board, device"
+27051004,"pH measurement, arterial"
+270982000,Serum lactate measurement
+271061004,Random blood glucose measurement
+271062006,Fasting blood glucose measurement
+271280005,Removal of endotracheal tube
+27171005,Urinalysis
+271921002,Electrocardiogram finding
+271924005,Neurological test finding
+272189001,Ventilator equipment
+272379006,Event
+273288008,Assessment of motor and process skills
+273346002,Assessment scales Ca-De
+273459009,FIRST screening test
+273633002,Motor assessment scale
+273749007,Respiratory index
+274414006,Laryngoscopy to remove object
+274450004,Dislocated shoulder reduction
+274456005,Reduction of dislocation of patella
+274475000,Pneumatic splinting
+274486003,Cervical collar neck traction
+274488002,Fracture - traction
+274491002,Nasal packing for control of hemorrhage
+274504000,Umbilical vessel catheterization
+274508002,Postoperative hemorrhage control
+274663001,Acute pain
+274767007,No abnormality detected on examination of spine
+274969000,Anterior tracheostomy
+275069007,Maintenance of drainage tube of kidney
+27509001,Safety inspection
+275641000,Arrange care by others
+275810004,BM stix glucose measurement
+275931000,Administration of prophylactic aspirin for ischemic heart disease
+276021004,Ultrasonography of carotid artery
+276272002,Catheter procedure
+27638005,Product containing alteplase
+276732005,Apneic oxygenation
+277337007,Surface landmark technique
+277360004,Massive blood transfusion
+277381004,Stroke index
+277762005,Lumbar puncture
+277917001,Thoracic impedance cardiography
+277923006,Pulse oximetry waveform
+277971006,Extracorporeal circuit equipment
+278211009,Printed material
+278292003,Ultrasound imaging - action
+278296000,Drainage of pleural cavity
+278297009,Blood gas analysis
+278414003,Pain management
+278417005,Control of room temperature
+278450005,Finger-prick sampling
+278505005,Application of padding
+27929005,Arteriovenous fistulization
+27991004,"Thermometer, device"
+280361007,Tracheostomy stoma
+281078001,Education about alcohol consumption
+281420003,Bilateral lung ventilation
+281568006,Fetal heart monitoring
+281572005,Direct current cardiac shock
+281582006,Pneumothorax relief
+281613004,Decompression - action
+281789004,Antibiotic therapy
+281790008,Intravenous antibiotic therapy
+281800008,Intravenous fluid replacement
+282201001,Difficulty walking down stairs
+282390008,Unit of whole blood analysis
+28261000,Beta-glucosidase measurement
+282628002,Does roll on to side
+28400003,"Passive ventilation, function"
+284019003,Airway pressure monitoring
+284021008,Electrocardiogram automated dysrhythmia monitoring
+284026003,Core temperature monitoring
+284029005,Respired carbon dioxide monitoring
+284034009,Pulse oximetry monitoring
+284036006,Equipment monitoring
+284366008,Examination of body system
+284394000,Examination of spine
+284405008,Examination of cervical spine
+284646009,Spitting at other person
+285034004,Able to manage medication
+28520004,Venipuncture for blood test
+285403007,Mechanical compression
+28651003,Orthostatic hypotension
+286861005,Suprapubic catheter
+287331001,Esophageal foreign body removal by manipulation
+28760000,Laryngoscopy
+287630006,Immobilization by splinting
+288144001,Splinting of fracture
+288161003,Orthopedic device application
+288170000,Packed blood cell transfusion
+288176006,Circulation maintenance
+288335007,Difficulty lifting
+288795007,Unable to ask questions
+288883002,Ability to eat
+288969000,Able to spit
+289133003,Button gastrostomy feeding
+289909005,"Labor, function"
+289971007,Ventilator component
+291005,"Atomizer, device"
+29190006,Fentanyl citrate
+29303009,Electrocardiographic procedure
+297109004,Magill breathing circuit
+297236007,Removal of object
+297751002,Infusion of saline solution
+298391004,Cervical spine deformity
+298488000,Cervical spine stress test positive
+298489008,Cervical spine stress test negative
+299403002,Stroke test positive
+299404008,Stroke test negative
+300237004,Tooth problem
+30088009,Blood culture
+301113001,Finding of heart rate
+301151001,Peripheral pulse present
+301153003,Carotid pulse present
+301163006,Carotid pulse absent
+301784005,Ileostomy operation
+301842006,Intravenous blood transfusion
+302083008,Finding of Apgar score
+302108003,Tracheostomy present
+302109006,Gastrostomy present
+302111002,Ileostomy present
+302112009,Colostomy present
+302113004,Urostomy present
+302204005,Ultrasound - action
+302353008,Attention to jejunostomy
+302421003,Removal of foreign body from skin
+302488007,Application of traction using a traction device
+302776009,Central venous cannula insertion via jugular vein
+302789003,Capillary blood glucose measurement
+303122009,Crewmember
+303653007,Computed tomography of head
+303727009,Arterial catheter
+303728004,Venous catheter
+303806006,Assessment of burn injuries
+30381006,Bleeding precautions
+304114006,Spinal approach
+304342003,Normal range of cervical spine movement
+304495004,"Monitoring of blood pressure, temperature, pulse rate and respiratory rate"
+304561000,Informing health care professional
+304562007,Informing doctor
+304577004,Humidified oxygen therapy
+304631003,Head position finding
+304867008,Secure attachment
+305060004,Patient care statuses
+305398007,Admission to the mortuary
+305400006,Admission to psychiatry department
+305406000,Admission to radiology department
+30549001,Removal of suture
+306090001,Referral by social worker
+306151002,Referral to public health service
+306200004,Referral to trauma surgery service
+306226009,Referral to mental health counseling service
+306238000,Referral to Social Services
+306802002,Referral to stroke service
+307521008,Intravenous infusion of thrombolytic
+307928008,Death administrative procedure
+308005007,Language interpreter
+308113006,Self-monitoring of blood glucose
+308292007,Transfer of care
+308561006,Report procedure
+308721008,Suction clearance of nasal cavity
+308739004,Repositioning
+308813009,Notification status
+308842001,Direct current defibrillation
+309164002,Upper respiratory swab specimen
+309433007,Patient warming therapy
+309630000,Child referral-social services
+309812005,Extubation of trachea
+309845005,"Arm, brace or splint"
+309849004,Pericardiocentesis
+309912009,Medical department
+310125001,Radiology service
+310137004,Stroke service
+310403001,Temperature control education
+310411006,Administrative checking procedure
+310583000,Suction clearance of tracheostomy tube
+310813001,Observational assessment
+3112006,Restraint removal
+311446006,Closed reduction of fracture and traction
+3116009,Blood coagulation panel
+311786004,Control of saliva technique
+311787008,Management of choking
+31198006,Tube thoracostomy with water seal
+312199007,Communications equipment
+312364000,Ultrasound scan of lower limb arteries
+312452009,Administration of prophylactic aspirin
+312469006,Blood sodium measurement
+312668007,Abnormal fetal heart rate
+312831006,Arterial cannula procedure
+312880001,Taking throat swab
+312882009,Taking nasal swab
+3130004,Monitoring of cardiac output by electrocardiogram
+313006001,Doppler ultrasonography of fetal heart for heart sounds
+313334002,Blood sample taken
+313335001,Urine sample obtained
+313418004,Continuous infusion of normal saline
+313420001,Assisting with toileting
+313637002,30 minute blood glucose measurement
+313995005,Hemoglobin A measurement
+314271007,Induction of conscious sedation
+31542002,Carbon dioxide content measurement
+315639002,Initial patient assessment
+32352000,Jackson Pratt maintenance
+32472009,"Medical helicopter, device"
+32564009,Arterial specimen collection for laboratory test
+32650004,"Language fluency, function"
+32667006,Oropharyngeal airway device
+3286006,"Patient status determination, greatly improved"
+32908001,Assessment and interpretation of higher cerebral function
+33230000,Activation test
+3333006,"Application of short arm splint, forearm to hand, static"
+333847008,Product containing ketamine
+33388001,"Carbon dioxide analyzer, device"
+33389009,Transfusion of whole blood
+334416001,Sterile dressing pack
+334438004,Absorbent cotton gauze
+33463005,Liquid substance
+334688000,Hydrogel dressing
+334830004,Hemostatic gauze product
+334940000,Arm sling
+334941001,Adjustable web arm sling
+334947002,Nebulizer
+335084006,Elastic adhesive bandage
+335125007,Heavy cotton and rubber elastic bandage
+335339000,Absorbent bandage
+336167007,Non-adherent dressing
+336602003,Oxygen mask
+336623009,Oxygen nasal cannula
+33686008,"Stylet, device"
+33697008,Geriatric counseling
+337388004,Blood glucose testing strips
+337414009,Blood glucose meter
+33747003,"Glucose measurement, blood"
+33879002,Administration of vaccine to produce active immunity
+3390006,Verification routine
+34106002,Trendelenburg position
+34193001,Closed drainage of chest
+3421000175104,Video screen time assessment
+34475007,Intraaortic balloon pump maintenance
+3457005,Patient referral
+346447007,Fresh frozen plasma
+34955007,Revision of automatic implantable cardioverter/defibrillator
+350785008,Gauzes
+354068006,Blood glucose monitoring equipment
+35497000,Restraint maintenance
+35683002,Phototherapy of newborn
+35807001,Control of hemorrhage of nose
+35963001,Removal of staples
+359962006,Turning patient in bed
+359965008,Moving a patient in bed
+359986008,"Bilirubin, total measurement"
+360004001,Radio
+360056009,Automatic cardiac defibrillator
+360064003,Ventricular assist device
+360066001,Left ventricular assist device
+360078002,Intracranial pressure catheter
+360152008,Monitoring - action
+360204007,Product containing opioid receptor agonist
+360239007,Termination - action
+360300001,Transport
+360304005,Lift
+36048009,Glucose measurement
+360742002,Movement facilitation
+361140007,Cardiac assist implant
+36125001,Trauma center
+361935003,Entire supreme nasal turbinate
+362972006,Disorder of labor / delivery
+363001008,Cardiovascular education
+363049002,Death notification
+363332000,Ultrasonography by mode
+363563002,Entrapment
+363659002,Pacing - action
+364035002,Nasal airway feature
+36421003,Carbon monoxide diffusing capacity measurement
+364399002,Measure of fluid intake
+364507005,Stroke test response
+364592005,Component of Apgar score
+36576007,Infusion
+365811003,Finding of glucose level
+365812005,Finding of blood glucose level
+366199006,Pulse finding
+366212008,Finding of jugular venous pulse characteristics
+366380009,Finding of cervical spine - range of movement
+366609000,Stroke test finding
+36708009,External fetal monitor surveillance
+367408005,Incision of thorax
+370125004,MOVED TO
+370532003,Head tilt
+370771002,Maintenance of invasive device
+370775006,Application of safety device
+370778008,Assessment of pain control
+370782005,Assessment of susceptibility for infection
+370807008,Evaluation of response to medications
+370814005,Identification of presence of implantable cardiac devices
+370863009,Activity care assessment
+370904000,Patient death or serious disability associated with intravascular air embolism that occurs while being cared for in a healthcare facility
+371040005,Thrombotic stroke
+371361000119107,Comprehensive metabolic panel
+371524004,Clinical report
+371525003,Clinical procedure report
+371580005,Assessment of past history
+371585000,Psychosocial assessment
+371785003,Ambu bag
+371786002,Pressure support ventilator
+371802008,Tip manometer
+371818002,Patient on intra-aortic balloon pump assist
+371819005,Patient on circulatory assist
+371820004,Patient ventilated
+371852004,Angioplasty inflation duration
+371907003,Oxygen administration by nasal cannula
+371908008,Oxygen administration by mask
+371911009,Measurement of blood pressure using cuff method
+372033006,Hypothermia risk assessment
+372034000,Implementation of hemostasis techniques
+372038002,Advocacy
+372040007,Confirming patient identity prior to procedure
+372045002,Application of chemical hemostatic agents
+372057006,Assessment of baseline neurological status
+372114004,Assessment of hypovolemia risk factors
+372487007,Ondansetron
+372502001,Nicardipine
+372518007,Ipratropium
+372742009,Thrombolytic agent
+372745006,Terbutaline
+372750000,Labetalol
+372821002,Amiodarone
+372826007,Metoprolol
+372877000,Heparin
+372890007,Naloxone
+372897005,Salbutamol
+372918000,Age-specific patient education
+372919008,Patient education based on identified need
+373106001,Patient paced
+373110003,Emergency procedure
+373464007,Ketamine
+373492002,Fentanyl
+373529000,Morphine
+37353002,Application of hot water bottle
+373606000,Occlusive stroke
+373671009,Specific ultrasound studies
+373675000,Application of pressure bandage
+373766008,Hypertonic saline
+373784005,Dispensing medication
+373787003,Treatment delay - patient choice
+37400007,Product containing magnesium sulfate
+37411004,Tissue plasminogen activator
+37874008,"Continuing positive airway pressure unit, device"
+37931006,Auscultation
+38141007,"Tourniquet, device"
+384745002,Maintenance of gastrointestinal tract tube
+384762007,Transportation procedure
+385432009,Not applicable
+385487005,Surgical procedure on thorax
+385659006,"Tocodynamometer, device"
+385664005,"Fetal monitor, device"
+385671000,Unsuccessful
+385676005,Outcome of action
+385699009,Maintenance of immobilizer
+385714005,Cardiac care assessment
+385728004,Spiritual comfort
+385750003,Intake and output measurement management
+385754007,Intravenous care assessment
+385756009,Intravenous care management
+385757000,Venous catheter care
+385775004,Informing nurse
+385778002,Nursing status report
+385799004,Allergic reaction control assessment
+385807002,Gastrostomy/nasogastric tube care assessment
+385809004,Gastrostomy/nasogastric tube care management
+385810009,Gastrostomy/nasogastric tube insertion assessment
+385812001,Gastrostomy/nasogastric tube insertion management
+385822007,Universal precautions
+385857005,Ventilator care and adjustment
+385858000,Tracheostomy care
+385869002,Safety precautions assessment
+385873004,Environmental safety management
+385895000,Comfort care assessment
+385897008,Comfort care management
+385941006,Wound care assessment
+385942004,Wound care management
+385944003,Maintenance of drainage tube
+385949008,Dressing change management
+385981004,Safety education
+386053000,Evaluation procedure
+386216000,"Human parturition, function"
+386220001,Control of wound hemorrhage
+386230005,Case management
+386235000,Childbirth preparation
+386237008,Circulatory care: mechanical assist device
+386240008,Cardiopulmonary resuscitation management
+386284008,Environmental management: comfort
+386328006,Hypoglycemia management
+386329003,Treatment of hypothermia
+386335003,Infection protection
+386340006,Intravenous therapy
+386341005,Invasive hemodynamic monitoring
+386344002,Laboratory data interpretation
+386356001,Administration of drug or medicament via intramuscular route
+386357005,Administration of drug or medicament via intraosseous route
+386358000,Administration of drug or medicament via intravenous route
+386359008,Administration of drug or medicament via oral route
+386362006,Administration of drug or medicament via subcutaneous route
+386423001,Physical restraint
+386444001,Spiritual support
+386451005,Substance use treatment: overdose
+386472008,Telephone consultation
+386482009,Maintenance of umbilical catheter
+386483004,Tube care: urinary
+386484005,Ventriculostomy/lumbar drain care
+386493006,Venous access device maintenance
+386495004,Vomiting management
+386508008,Airway insertion and stabilization
+386509000,Airway management
+386510005,Amputation care
+386518003,Artificial airway management
+386519006,Aspiration precautions
+386521001,Bedside laboratory testing
+386533006,Invasive blood pressure
+386534000,Arterial blood pressure
+386554004,Glasgow coma scale
+386609006,Procedure on vein
+386725007,Body temperature
+386741008,Maintenance of tube
+386812007,Safety precautions
+386960009,Tranexamic acid
+387377009,Calcium chloride
+387404004,Glyceryl trinitrate
+387423006,Propofol
+387440002,Acetylcysteine
+387517004,Paracetamol
+387641007,Thoracectomy
+3895009,Application of dressing
+390809004,Emergency mental health assessment
+390812001,Secure and high-dependency mental health care
+391034007,Refer for falls assessment
+391281002,Mental health assessment
+391395002,Blood oxygen saturation (calculated)
+391682002,Elastic conforming bandage
+392020005,Peripherally inserted central catheter care
+392230005,Catheterization of vein
+392231009,Intravenous cannulation
+392247006,Insertion of catheter into artery
+392248001,Arterial cannula insertion
+392570002,Blood pressure finding
+392571003,Finding of arterial pulse pressure
+3926003,Lactic acid measurement
+394618009,Hospital nurse
+394696007,Discussed with doctor
+394819004,Blood transfusion (specialty)
+394903005,Intravenous administration of treatment
+394906002,Procedure started
+394908001,Procedure stopped
+395008009,Medication stopped - contra-indication
+395087001,Pain and symptom management
+395170001,Medication monitoring
+395321006,Foley catheter long term use
+395683001,Born by normal vaginal delivery
+396073008,Medication administration assessment
+396074002,Medication administration education
+396540005,Phlebotomy
+396543007,Blood draw via femoral vein
+396550006,Blood test
+397798009,Creatine kinase measurement
+397799001,Tourniquet off
+397804006,Intubation of esophagus
+397814002,Mode of ventilation monitoring
+397815001,Administration of cardiovascular drug to increase oxygen delivery
+397832002,Transcranial cerebral oximetry
+397844004,Hydrotherapy with hot packs or compresses
+397849009,Dialysis catheter
+397874007,Endotracheal or endobronchial tube change over tube exchange catheter
+397892004,Retrograde intubation
+397901004,Pre-existing line accessed
+397957008,Mechanical assistance to circulation to increase oxygen delivery
+397958003,Accessing of implantable venous access port
+397964005,Bronchial suction via tracheostomy
+397970004,Triple lumen catheter
+397982008,Insertion of device into airway
+398041008,Cervical spine immobilization
+398074008,Thermotherapy with hot packs
+398084009,Rapid infusion catheter
+398142004,Emergency cricothyroidotomy
+398176008,Peripherally inserted central catheter
+398213004,Log roll
+398215006,Timestamp
+398251004,Intubating laryngeal mask airway
+398292008,Positive end-expiratory pressure monitoring
+398299004,Time of death
+398740003,Colostomy
+399009009,B mode ultrasound
+399052009,Aortic balloon pump operation
+399064001,Two dimensional mode ultrasound - action
+399208008,Plain X-ray of chest
+399217008,Cardioassist by aortic balloon pump
+399488007,Midline
+4003003,Disease caused by Alphavirus
+40043006,Bottle feeding of patient
+401061005,Mental health review
+401069007,Blood glucose control education
+401135008,Asthma education
+401303003,Acute ST segment elevation myocardial infarction
+401304009,Service of nebulizer
+40174006,Isolation procedure
+401932007,Blood glucose colorimetric testing strips
+40199007,Supine body position
+404229004,Activation function
+404684003,Clinical finding
+404915007,Vacuum assisted skin closure
+404996007,Airway patency status
+405015004,Thermoregulation status: newborn
+405022007,Neurological status: central motor control
+405176005,Blood glucose status
+405260009,Mode of ventilation monitoring features
+405262001,Point of care testing
+405425001,Catheterization of internal jugular vein
+405427009,Catheterization of external jugular vein
+405428004,Removal of catheter from external jugular vein
+405429007,Catheterization of vein of upper limb
+405430002,Catheterization of subclavian vein
+405436008,Catheterization of vein of lower limb
+405442007,Catheterization of common femoral vein
+405592006,Insertion of subcutaneous intravenous access reservoir
+405604008,Airway device cuff herniation
+405616002,Airway event
+405628005,Physician consent obtained
+405639008,Inadvertent tracheal extubation
+405640005,Airway device insertion event
+405657009,Intravenous induction by target-controlled infusion
+405677002,Rapid infusion device
+405682009,Supervisory status
+405688008,Legal physical restraint procedure
+405689000,Legal physical restraint performed
+405690009,Placing handcuffs for legal restraint
+405691008,Handcuffs placed for legal restraint
+405802009,Initial coronary reperfusion decision maker
+405805006,Cardiac resuscitation outcome
+40594005,Taking arterial blood pressure
+406141002,Discussion with family about decision
+406148008,Site of intravenous insertion
+406149000,Medication declined
+406152008,Admission assessment
+406164000,Chemical restraint
+40617009,Artificial ventilation
+406172003,Administration of drug or medicament via nasal route
+406173008,Phlebotomy: cannulated vessel
+406185000,Trauma therapy
+406187008,Sedation management
+407574002,Informing partner
+408014001,Soft foam cervical collar
+408097009,Strip
+408099007,Suture
+408259000,Serum pro-brain natriuretic peptide level
+408344008,Generic prescribing checked
+408452007,Behavioral intervention team
+408478003,Critical care medicine
+408589008,Falls assessment
+408806008,Fetal heart monitoring using hand held Doppler
+408819007,Delivery of placenta by maternal effort
+408867002,Taking respiratory rate
+408879002,Gastric care management
+408919008,Psychosocial care
+408950005,Acute pain control
+408951009,Acute pain control management
+408952002,Acute pain control assessment
+408974008,Neurovascular care assessment
+408987002,Newborn care assessment
+408989004,Newborn care management
+408990008,Child care assessment
+408994004,Adult care assessment
+408998001,Adolescent care assessment
+409006000,Delivery care
+409012005,Delivery care assessment
+409014006,Delivery care management
+409022004,Dispensing medication management
+409025002,Ventilator care
+409073007,Education
+409088002,Tube care: endotracheal
+409378005,Product containing nitric oxide
+409522005,Standard precautions
+409524006,Airborne precautions
+409525007,Respiratory secretion precautions
+409526008,Personal protective equipment
+409527004,Protective cover gown
+409528009,Surgical face mask
+409529001,Contact precautions
+409530006,Decontamination
+409542001,Level C personal protective equipment
+409583003,Transmission-based precautions
+409611004,Aerobic blood culture
+409612006,Anaerobic blood culture
+409685000,Hospital decontamination room
+410011004,Administration of anesthesia AND/OR sedation
+410024004,Catheterization of urinary bladder
+410025003,Application of clamp
+410075001,Patient transfer assessment
+410099001,Reality orientation assessment
+410103006,Stress control education
+410109005,Venous catheter care management
+410140003,Physician contact assessment
+410141004,Physician contact education
+410142006,Physician contact management
+410143001,Medical regimen orders assessment
+410145008,Medical regimen orders management
+410181006,Universal precautions management
+410188000,Taking patient vital signs assessment
+410189008,Taking patient vitals signs education
+410191000,Temperature taking assessment
+410193002,Temperature taking management
+410196005,Pulse taking management
+410202008,Oxygen therapy assessment
+410204009,Oxygen therapy management
+410207002,Respiratory care management
+410208007,Ventilator care assessment
+410210009,Ventilator care management
+410211008,Tracheostomy care assessment
+410213006,Tracheostomy care management
+410251006,Urinary catheter care assessment
+410253009,Urinary catheter care management
+410254003,Urinary catheter insertion assessment
+410256001,Urinary catheter insertion management
+410321003,"Wellness health education, guidance, and counseling"
+410330006,Dressing change/wound care case management
+410366007,Wellness case management
+410394004,Lab findings surveillance
+410429000,Cardiac arrest
+410537005,Action status unknown
+410617001,Adjustment
+41157002,"Immobilizer, device"
+412928005,Blood glucose series
+413292001,Assessment for referral
+413293006,Patient to initiate further contact
+413311005,Patient non-compliant - declined intervention / support
+413433006,Active monitoring
+41351007,Suction and cleaning of tracheostomy tube
+413815006,Chest imaging
+413899004,Compression bandaging
+414039005,Distraction
+414191008,Fall risk assessment
+414273009,Fluorescein staining of eye
+414547000,Product containing isopropyl alcohol
+414925007,Obtaining consent
+415045008,Patient monitoring equipment check
+415682000,Surgical time out
+415699004,T piece with bag and adjustable pressure-limiting valve
+415882003,Estimated core body temperature measured in axillary region
+415922000,Temperature of forehead
+415974002,Core body temperature measured at tympanic membrane
+416115001,Confirming patient identity by direct questioning
+416237000,Procedure not done
+416238005,Intubation technique
+416287007,Confirming patient identity by guardian interview
+416406003,Procedure discontinued
+416524004,Time of illness onset
+416539003,Cannula procedure
+416608005,Drug therapy
+416811008,Tidal volume setting
+417255000,Intraosseous route
+417336003,Confirming patient identity by wristband
+417746004,Traumatic injury
+418114005,Intravenous central route
+418243009,Education reinforced
+418389000,Blood sugar management
+418394000,Ultrasound scan of abdomen and pelvis
+418441008,Orogastric route
+418473002,Physician notified
+418613003,Tracheal intubation through a laryngeal mask airway
+418976004,Ultrasound scan of cardiac vessels
+419183001,Practitioner decision status
+419394006,Computed tomography of abdomen and pelvis
+419620001,Death
+419663003,Airway device present
+419991009,Endotracheal tube present
+419993007,Intravenous peripheral route
+420135007,Whole blood
+420404007,Urinary catheterization status
+420416001,Inflatable splint device
+420572009,Forced air warming blanket
+420620005,Push - dosing instruction imperative
+420673005,Magill type endotracheal tube
+420717009,Finding of pulse taking by doppler
+421335007,Warming blanket
+42149003,Special care of wound
+421585002,Warming mattress
+421634004,Pelvic splint device
+421685007,Product containing ipratropium and salbutamol
+421925007,Extrication splint device
+422223008,Traction splint device
+422390002,Injury caused by taser
+422440002,Adult continuous physical assessment
+422618004,Continuous physical assessment
+422649009,"Community outreach worker services education, guidance, and counseling"
+422744007,Arterial catheter care
+422779009,Elevation of affected extremity
+422797001,"Magill forceps, device"
+422865007,"Interpreter/translator services education, guidance, counseling"
+422952004,Cardiac telemetry
+423171007,Elevation of head of bed
+423184003,Adult pain assessment
+423191000,Cardiac arrest due to cardiac disorder
+423212001,Trendelenburg positioning
+42340005,Pulmonary artery wedge pressure monitoring
+423401003,Pediatric pain assessment
+423479002,Pediatric admission assessment
+423508006,Maintenance of percutaneous endoscopic gastrostomy tube
+423509003,"Medication coordination/ordering education, guidance, counseling"
+423558004,Neurovascular assessment
+423564006,Provider instructions for treatment
+423589000,Newborn continuous physical assessment
+423652009,Determination of resuscitation status
+423687009,Peripheral intravenous catheter care
+423736003,Color Doppler ultrasound
+423765009,Taser
+423827005,Endoscopy
+423850004,Pediatric continuous physical assessment
+423877008,Peripheral catheter care
+423895006,Adult admission assessment
+423954007,Peripheral catheter
+424067002,Genitourinary assessment
+424128006,Decompression
+424172009,Dual pressure spontaneous ventilation support weaning protocol
+424287005,Removal of peripheral intravenous catheter
+424411004,Peripheral pulse taking
+424432007,Epidural catheter maintenance
+42451009,"Blood warmer, device"
+424979004,Laryngeal mask airway insertion
+424985006,Infection precautions surveillance
+425058005,Taking orthostatic vital signs
+425074000,Conversion of intravenous infusion to saline lock
+425196008,Insertion of peripherally inserted central catheter
+425315000,Cardiac assessment
+425401001,Pain intensity rating scale
+425478008,Blow by oxygen mask
+425490005,Protective equipment used
+42550007,Catheterization of umbilical vein
+425519007,Cardiopulmonary resuscitation discontinued due to medical control order
+425529000,Cardiomemo electrocardiographic monitoring
+425543005,Digital respired carbon dioxide monitoring
+425598000,Central pulses present
+425604002,Case management follow up
+425696007,Manual respiratory assistance using bag and mask
+425808002,18 lead electrocardiographic monitoring
+425863008,Endotracheal tube negative pressure monitoring
+425921008,Cardiopulmonary resuscitation discontinued due to do not resuscitate order
+425934009,Cardioverter defibrillator procedure
+426152002,Active radiant warming of infant
+426153007,Insertion of artificial airway
+426160001,Oxygen ventilator
+426220008,External ventricular defibrillation
+426347000,Thrombolytic therapy
+426408003,Semi-Fowler's position
+426426000,Emergency foil blanket
+426498007,Stabilization of spine
+426509009,Removal of ring from digit of hand
+426518006,Transfusion of granulocytes
+426730003,Computed tomography angiography of thorax with contrast
+426792009,Cervical spine normal
+426851007,Aerosol oxygen mask
+426854004,High flow oxygen nasal cannula
+426865009,3D mode ultrasound
+426961001,Biphasic cardioversion procedure
+426970003,Cardiopulmonary resuscitation discontinued due to return of spontaneous circulation
+426999008,Cardiopulmonary resuscitation discontinued due to signs of death
+427035008,Nitrous oxide and oxygen gas analgesia
+427054008,Non-rigid stabilization of spine
+427064004,Continuous pulse oximetry
+427206005,Post fall assessment
+427277002,Application of gauze swab
+427331009,Digital assisted intubation
+427561002,Modified jaw thrust
+427569000,Cardiopulmonary resuscitation discontinued as per protocol
+427591007,Nonrebreather oxygen mask
+427753009,Insertion of esophageal tracheal double lumen supraglottic airway
+427996005,Application of vacuum splint
+428070008,Vacuum splint
+42825003,Cannulation
+42826002,Systemic arterial pressure monitoring
+428285009,Venturi mask
+428348004,Cardiopulmonary resuscitation not attempted
+428413005,Death verification
+428426009,Notification of physician
+428482009,Colorimetric respired carbon dioxide monitoring
+428626000,Securing endotracheal tube using tape
+428632005,Transportation request
+428672001,Bag - unit of product usage
+428803005,3 lead electrocardiographic monitoring
+428909008,Biphasic defibrillation procedure
+429091008,Dependence on biphasic positive airway pressure ventilation
+429161001,Insertion of endotracheal tube using laryngoscope
+429163003,15 lead electrocardiographic monitoring
+429184008,Securing endotracheal tube using holder
+429202003,Transfer of care to hospital
+429253002,Oxygen administration by Venturi mask
+429283006,Mechanically assisted chest compression
+429375002,Esophageal tracheal double lumen supraglottic airway device
+429500007,Monophasic defibrillation
+42953002,Infestation of genitourinary system caused by fly larvae
+429618000,Manual securing of endotracheal tube
+429705000,Insertion of esophageal tracheal combitube
+429723008,Procedure involving urinary catheter
+429734006,Intubation using medication
+429858000,Computed tomography of head and neck
+430033006,Infusion pump
+430191008,Management of noninvasive mechanical ventilation
+430193006,Medication reconciliation
+430354007,Application of upper extremity splint
+430362004,Application of lower extremity splint
+430365002,Application of short leg splint
+430531002,Tamponade of anterior nasal bleeding using nasal tampon
+43060002,Intravenous injection
+430715008,Bariatric operative procedure
+430824005,Intraosseous cannulation
+431069006,Packed red blood cells
+431182000,Placing subject in prone position
+431201000124107,"Semi-occlusive dressing, device"
+431208008,Active core warming of subject
+431267001,Advanced cardiac life support
+431393006,Administration of intravenous fluid bolus
+431414003,Management of external defibrillation
+431463004,Administration of aspirin
+431503003,Application of shoulder immobilizer
+431774007,Active external cooling of subject
+431807005,Body temperature taken with digital thermometer
+431917004,Active core cooling of subject
+431949004,Active external warming of subject
+432028000,Checking position of endotracheal tube by auscultation
+432138007,Handoff communication
+432370003,Computed tomography of abdomen and pelvis with contrast
+432701000124107,Medication therapy changed
+432987005,Checking position of endotracheal tube using exhaled carbon dioxide
+433066006,Administration of substance via sublingual route
+433111008,Computed tomography of brain perfusion
+433215005,Administration of drug or medicament by intravenous push
+433236007,Transthoracic echocardiography
+433295009,Infusion pump for enteral feeding
+433296005,Infusion pump for intravenous fluids
+433340000,Application of long arm splint
+433341001,Application of long leg splint
+433695001,Warming subject using infusion of warm intravenous fluid
+433795008,Cooling subject by infusion of cold intravenous fluid
+433853007,Infusion of drug or medicament via intravenous drip
+43396009,Hemoglobin A1c measurement
+434111000124102,Suspected cerebrovascular accident
+434912009,Blood glucose concentration
+434941000124101,Not provided
+435551000124105,Counseling about physical activity
+435611000124105,"Multivitamin, multimineral supplement therapy"
+43725001,Airway device
+43770009,Doppler device
+438227006,Product containing naloxone in parenteral dose form
+438810005,Adjustment of arm sling
+438886009,Active external warming of subject using heat pad
+439114007,Giving cool drink
+439302009,Control of anterior nasal bleeding
+439417007,Closed manual reduction - action
+439472009,Passive cooling of patient
+439535000,Application of short arm splint
+439569004,Resuscitation
+439742002,Respiratory isolation
+439864002,Focused assessment with ultrasonography for trauma
+439926003,Ambulatory continuous glucose monitoring of interstitial tissue fluid
+440001000,Insertion of vascular cannula for prolonged extracorporeal circulation
+440009003,Insertion of needle for intraosseous infusion
+440141007,Active external warming of subject using electric blanket
+440142000,Cardioversion using medication
+440311000,Suprapubic urinary catheter in situ
+440699009,Control of posterior nasal bleeding
+440942004,Decrease temperature of infant incubator
+441300002,Increase temperature of infant incubator
+441441000124106,Management of flushing of feeding tube
+441550005,Urinalysis with reflex to microscopy and culture
+441893003,Active compression decompression cardiopulmonary resuscitation with use of inspiratory impedance threshold device
+441898007,Consented
+441965001,Measurement of methemoglobin
+442013003,Measurement of corrected end-tidal carbon monoxide
+442309004,Insertion of tunneled venous catheter
+442339009,Measurement of pH in vaginal fluid specimen using nitrazine yellow for detection of rupture of amniotic membrane
+442392002,Ambulance transport to hospital declined
+442477002,Monitoring of cardiac output using pulse contour analysis
+442544003,Deformity of spine due to injury
+44324008,Hemodynamic measurements
+443245006,Estimated weight using Broselow Luten pediatric weight estimation
+443272003,Puncture of peripheral vein using ultrasound guidance
+443325000,Automatic implantable cardiac defibrillator in situ
+443390004,Declined
+443448006,Application of intermittent pneumatic compression device
+443533003,Irrigation and suction of endotracheal tube
+443693006,Assessment of self medication
+443848000,Apgar score at 15 minutes
+443849008,Apgar score at 20 minutes
+444063009,Broselow Luten color coding system for pediatric weight estimation
+444637000,Removal of pressure bandage
+444679006,Positioning subject in recovery position
+444713005,Assessment of catheter entry site
+444714004,Assessment of consciousness level
+444821009,Assessment of chest pain
+445034001,Provision of emesis basin
+44508008,Hydromorphone
+445099008,Assessment of wound drain device
+445127001,Application of elastic adhesive bandage
+445141005,Administration of medication using nebulizer mask
+445191009,Care of suprapubic urinary catheter
+445314006,Assessment of skin color
+445392009,Obtaining airway by head extension
+445450000,Encounter by short message service text messaging
+445536008,Assessment using assessment scale
+445611009,Assessment of peripheral intravenous catheter site
+445666005,Faxed report
+445668006,Telephoned report
+445674006,Verbal report
+445719003,Assessment using visual analog pain scale
+445818000,Assessment using childhood health assessment questionnaire
+445828009,Assessment using functional capacity evaluation
+445970000,Moving subject from bed to chair
+44613004,"Ground transport ambulance, device"
+446131002,Blood specimen obtained for blood culture
+446476009,Umbilical catheter
+446573003,Continuous positive airway pressure titration
+446583004,Insertion of indwelling catheter into urinary bladder
+446661000124101,Death pronouncement
+44668000,"Pump, device"
+446760004,Assessment using Westmead home safety assessment
+446847002,Drainage of pleural cavity via chest tube
+447033006,Vagal nerve stimulator
+447056002,Occlusive dressing technique
+447113005,12 lead electrocardiogram at rest
+447114004,12 lead electrocardiogram during exercise
+447214008,Ligation of umbilical cord of fetus
+447243000,Bilevel positive airway pressure titration
+44738004,"Laryngoscope, device"
+447686008,Application of pressure to wound
+447755005,Finding of oxygen saturation
+447837008,Non-invasive positive pressure ventilation
+447963004,Intravenous push technique
+447973002,Measurement of temperature using forehead thermometer
+447996002,Intubation of respiratory tract
+44806002,"Esophageal bougie, device"
+448093005,Measurement of temperature using tympanic thermometer
+448094004,Venous access patent
+448235007,Modified rapid sequence induction
+448334008,Carotid sinus massage test
+448337001,Telemedicine consultation with patient
+448348008,Airway exchange catheter
+448442005,Transtracheal jet ventilation
+448464001,Assessment of airway device cuff pressure
+448590001,Maintenance of intravenous cardiac pacemaker system
+448678005,Application of ambulatory blood pressure monitor
+448681000124107,Involuntary patient transfer to psychiatric hospital
+448703006,Pulse oximeter
+448713003,Intravenous catheter in situ
+448720005,Peripherally inserted central venous access patent
+448826009,Brief operative note
+448907002,Videolaryngoscope
+448916003,Skin strip thermometer
+448970001,Application of pressure trouser
+449071006,Mechanical ventilator
+449107008,Care of central venous catheter
+449137004,Intravenous piggyback technique
+449199004,Manual inline stabilization of cervical spine
+449229004,Therapeutic suctioning of trachea via tracheostomy
+449231008,Ensuring use of infusion pump within safe parameters
+449237007,Measurement of temperature using skin strip thermometer
+449239005,Central venous catheter in situ
+449286009,Gum elastic bougie
+449301000,Endotracheal ventilation catheter
+449399005,Application of personal protective equipment
+449641000124107,Primary care physician notified of procedure
+449842009,Nasogastric tube in situ
+449859004,Nontunneled central venous catheter
+450475007,For cardiopulmonary resuscitation
+450571000124105,Single lumen supraglottic airway device
+450581000124108,Short spinal immobilization device
+450591000124106,Immobilization using long board
+450601000124103,Orotracheal intubation using bougie device
+450611000124100,Insertion of single lumen supraglottic airway device
+450651000124104,Automatic external cardiac defibrillator
+450661000124102,Defibrillation using automated external cardiac defibrillator
+450673008,Application of gauze support bandage
+450741005,National Institutes of Health stroke scale
+450742003,Assessment using National Institutes of Health stroke scale
+450866001,Hemodialysis catheter
+450871008,Attention to colostomy
+451031000124108,Immobilization using short extrication splint
+451741000124100,Development of medication care plan with patient
+45211000,Catheterization
+45236006,Emergency administration of medication
+453611000124108,Referral for high risk medication monitoring
+453661000124106,Referral to care coordinator
+45444009,"Ventilation, function"
+45555007,Norepinephrine
+457441000124102,Richmond Agitation-Sedation Scale
+457971000124101,Assessment using American Spinal Injury Association impairment scale
+461851000124103,Poison control center report
+46223001,"Application of finger splint, static"
+462292009,Infrared-light vein locator
+462451003,"Patient transfer system, manual"
+4625008,Apical pulse taking
+462506001,Patient positioning vacuum mattress
+462514007,Arterial blood pressure catheter
+462554009,Ankle restraint
+462585000,Hot therapy pack heating unit
+462722003,Patient lifting system stretcher
+462739001,Pulse Co-oximeter
+462863001,"Hospital stretcher, manual"
+463006002,"Hospital stretcher, powered"
+463073009,"Patient monitoring system module, electrocardiographic"
+463194009,"Non-rechargeable public semi-automated external defibrillator electrode, adult"
+463235004,"Pressure infusor, manual"
+463587004,Rebreathing oxygen face mask
+463629006,Physiologic-monitoring defibrillation system
+46364009,"Clamp, device"
+463688000,Orthopedic stretcher
+463975000,Portable stretcher
+464002006,"Portable ventilator, electric"
+464038004,Pneumatic tourniquet system
+464051009,Esophageal temperature monitor probe
+464213004,Oxygen administration enhancement device
+464240004,Nasal suction system
+464244008,Assistive passenger lift
+464428002,Moisture chamber face mask
+464446008,Oxygen administration tubing
+464578003,Oxygen administration face tent
+464582001,Moist-heat pack
+464658002,Vacuum mouldable splint
+464916003,Assistive automobile child safety seat
+464922007,Assistive automobile seatbelt/harness
+465060008,Stair chair
+465414001,Scultetus bandage
+465477004,Ventilator application software
+465652008,Rechargeable professional automated external defibrillator
+465717007,Transport infant incubator
+465839001,"Tracheostomy mask, oxygen"
+465849003,Rechargeable public semi-automated external defibrillator
+465913003,Skin staple
+466274003,"Woven gauze pad, non-sterile"
+46634008,Repositioning of cardioverter/defibrillator leads
+46641002,Application of eye pad
+466677003,Blood/fluid warmer air/foam detector
+466713001,Basic nasal oxygen cannula
+466725003,Blanket/pad infant phototherapy unit
+466870003,Wrist restraint
+466875008,"Woven gauze pad, sterile"
+467031000,"Blanket warming cabinet, dry-heat"
+467221000,Cervical spine immobilization frame
+467227001,"Convection blood/fluid warmer, high-flow"
+467260003,Cardiotocography telemetric monitoring system transmitter
+467328009,Cotton burn sheet
+467394004,Active-support bandage
+467609009,Cardiopulmonary resuscitator
+467635005,Cold therapy pack chilling unit
+467645007,Continuous positive airway pressure nasal oxygen cannula
+467764008,Catheter introducer
+467843003,Conduction blood/fluid warmer
+467878003,Chair lift/transporter
+46797008,Bathing patient in isolette
+467995005,Carbon dioxide monitor
+468016007,Convection blood/fluid warmer
+468049003,Carbon-dioxide-sampling nasal oxygen cannula
+468132007,Carbon monoxide compressed air/gas monitor
+468247007,Electrocardiography telemetric monitoring system transmitter
+46825001,Electrocardiographic monitoring
+468315000,Adult limb restraint
+468350008,"Airway pressure monitor, powered"
+468369003,External defibrillator electrode pad
+468414000,"Aerosol face mask, non-rebreathing"
+468601005,Endotracheal tube holder
+468971006,Demand valve
+469039009,Adult whole-body immobilizer
+469055002,Emesis bag
+469103001,Electrocardiography telemetric monitoring system
+469122005,Airway obstruction forceps
+469366000,Manual emergency suction system
+469412009,Manual cardiac resuscitator
+469413004,Intravenous line clamp
+469422003,First aid gauze/bandage
+469467005,Low-pressure suction system
+46973005,Blood pressure taking
+469761007,Extracorporeal bubble oxygenator
+469863002,Manual external defibrillator
+469883001,Manual patient lifting belt/harness
+469919007,Flexible video laryngoscope
+470174002,Heat/moisture exchanger insertable filter
+470187008,"Gauze roll, sterile"
+470189006,Gauze packer
+470320000,Anesthesia ventilator
+470361000,"General-purpose suction system, vacuum"
+470379001,"Gauze roll, non-sterile"
+470406006,Infant bed restraint
+470478008,"General-purpose implantable infusion pump, programmable"
+470575008,General-purpose infusion pump
+470635008,General-purpose patient lifting system sling/harness
+473411007,External ventricular drain tip submitted as specimen
+47451004,Administration of electrolytes
+47545007,Continuous positive airway pressure ventilation treatment
+48035000,Traction maintenance
+49062001,Device
+49077009,Flexible fiberoptic laryngoscopy
+49288009,Irrigation of anterior chamber of eye
+49634009,Miscellaneous
+49689007,Application of cervical collar
+49999004,Irrigation of eye proper
+50015006,Closure by staple
+50072001,Monitoring of pulse
+50357006,Evaluation and management of patient at home
+50373000,Body height measure
+50629008,"Cervical dilatation, function"
+50723001,Blood pressure taking education
+50863008,Plasma
+51241000,Control of hemorrhage
+51308000,"Thrombolysis, function"
+51353003,Application of pressure binder
+51717002,Expired carbon dioxide concentration
+51765001,Carbon monoxide
+51883004,"Sling, device"
+52037006,Application of sling
+52124006,"Central venous catheter, device"
+52260009,Nasogastric tube maintenance
+52495005,"Blood drawing chair, device"
+52653008,Respiratory sounds
+52685006,Administration of analgesic
+52765003,Intubation
+53923005,Medical consultation on inpatient
+53950000,Respiratory therapy
+54395008,Patient referral for medical consultation
+5447007,Transfusion
+54550000,Electroencephalogram
+54638004,"Towel, device"
+54654001,Measurement of central venous pressure
+54790000,Transfusion of blood component
+5531000179105,Nursing report
+5556001,Manually assisted spontaneous delivery
+55628002,Maintenance of thoracic drain
+56251003,Nebulizer therapy
+56342008,Temperature taking
+56469005,Moving a patient
+56620000,Delivery of placenta following delivery of infant outside of hospital
+56783008,Incision AND drainage
+56961003,"Cardiac transvenous pacemaker, device"
+57054005,Acute myocardial infarction
+57188001,"Biological transport, function"
+57395004,"Physical restraint equipment, device"
+57485005,Oxygen therapy
+58000006,Patient discharge
+58091002,Independent of
+58253008,"Suction catheter, device"
+58715004,Moving a patient to a stretcher
+5880005,Physical examination procedure
+58825001,Closed reduction of dislocation
+58828004,"Application of dressing, sterile"
+58938008,Wheelchair device
+5902003,"History and physical examination, complete"
+59058001,General physician
+59102007,"Ice bag, device"
+59108006,Injection
+59218006,Temporary transcutaneous pacing
+5930003,Cardiac monitor removal
+59427005,Synchronized intermittent mandatory ventilation
+59573005,Potassium measurement
+59900003,Manual and mechanical traction
+59941008,Product containing diltiazem
+60054005,"Seat belt, device"
+60112009,Drug addiction counseling
+60117003,Transmitted by
+60151004,Neonatal screening
+60170009,Analysis of arterial blood gases and pH
+6041000124105,Medication regimen review
+60815008,Grade not determined
+61167004,Thyroid stimulating hormone measurement
+6125005,Change of gastrostomy tube
+61330002,Nasopharyngeal airway device
+61746007,Taking patient vital signs
+61928009,Platelet count
+62972009,Extraction
+63061008,Measuring intake and output
+63267000,Alcohol measurement
+63332003,History AND physical examination
+63476009,Prostate specific antigen measurement
+63562005,"Cervical collar, device"
+63933000,Ventriculostomy
+63994009,Infection prevention education
+63995005,"Bandage, device"
+64255007,"Esophageal balloon, device"
+64373007,Placing bedrails
+64461008,Seizure precautions
+65011002,Blood and fluids precautions
+65149000,Exhaled air
+65653002,Pulse taking
+65677008,Pulmonary catheterization with Swan-Ganz catheter
+66190008,Victim of trauma with multiple injuries
+66618001,Decreased general body function
+66656000,Phytomenadione
+66861000,Intubation of larynx
+67079006,Glucose
+670991000124102,Referral to community paramedicine program
+673005,Indirect laryngoscopy
+67405006,"Patient status determination, slightly improved"
+6745008,Indirect laryngoscopy with removal of foreign body
+67664000,Laboratory calculation
+67780002,Has assessment
+67879005,"History and physical examination, limited"
+67889009,Irrigation
+68187007,Tracheobronchial suctioning
+68322007,Administration of antibiotic
+6853008,Nasogastric tube aspiration
+68664003,Glasgow coma testing and evaluation
+68776005,Released
+68894007,Placing restraint
+68978004,Hyperventilation
+68994006,Measurement of total hemoglobin concentration and hematocrit
+69779005,Cardiac resuscitation
+697953001,Maintenance of automatic cardiac defibrillator
+697979005,Airway care management
+698314001,Consultation for treatment
+698472009,Blood glucose monitoring
+698822002,Airway plateau pressure
+699126008,Arterial catheter care assessment
+700000006,Vaginal delivery of fetus
+700151002,Temporary implantation of left cardiac ventricular assist device
+70040003,"Glasgow coma scale, 15"
+700416004,Pediatric care
+700452000,Able to participate in telemedicine consultation
+700558003,Exothermic heat therapy pack
+700597006,"Ambulance stretcher, manual"
+700630004,High-flow heated respiratory humidifier
+700643004,"Infrared patient thermometer, ear"
+700790005,Portable pneumatic ventilator
+700792002,Assistive lifting/tilting positioning system
+700804001,"Pressure bandage, non-sterile"
+700886002,Transport electric ventilator
+70106000,Lipid
+701097007,Chitosan hemostatic agent
+701380006,Spine self-molding splint system
+701434005,Viral filter
+701578004,Absorbent wound compression pad
+701695003,Cardiopulmonary resuscitation inspiratory impedance valve
+701708003,"Instrument management bag, non-sterile"
+701755008,"Pressure bandage, sterile"
+70177008,Escharotomy
+701978009,"Cardiopulmonary resuscitation feedback device, electronic"
+702080003,"Ambulance stretcher, electrohydraulic"
+702082006,Ambulance stretcher docking device
+702115003,IV line/syringe Luer connector
+702216005,Endothermic cold therapy pack
+702430003,Computed tomography angiography of head and neck with contrast
+703427001,Refusal of treatment by patient against dental advice
+703985001,Chest thrust
+704130006,Shockable heart rhythm detected by automated external defibrillator
+704341004,Conflicting attitude towards medication management
+704718009,CPAP/BPAP oral mask
+704932002,Contamination barrier sock
+704991006,Anchoring of endotracheal tube
+705027007,Assessment using stroke impact scale version 3.0
+705184004,Hot/Cold therapy pack
+705185003,Cold compression therapy wrap
+70549008,Insertion of catheter for central venous pressure monitoring
+705541005,Rectal catheter
+705591009,Transporter
+705681006,Burn dressing
+705688000,Gauze dressing
+705706008,Scoop
+705937000,Public access defibrillator
+705938005,Defibrillator electrode
+705940000,External defibrillator electrode
+706013009,Intubation laryngoscope
+706093005,Emergency suction system
+706126006,Heating/cooling pad system
+706172005,Ventilator
+706173000,Intensive-care ventilator
+706175007,Ventilator breathing circuit
+706208003,Laryngeal airway
+706226000,Continuous positive airway pressure/Bilevel positive airway pressure mask
+706240004,Patient positioning system
+706521006,Cover
+707076002,Epistaxis care
+707739007,Ambulating with assistance of one person
+707741008,Ambulating with assistance of team of people
+707765006,On ventilator
+707794004,Immobilization using extrication splint
+707799009,Non-shockable heart rhythm detected by automated external defibrillator
+708010003,Intraosseous access care management
+708172000,Cardiac ultrasound service
+708409001,Home nebulizer therapy
+70862002,Contact person
+70901006,Creatinine measurement
+710059009,Management of withdrawal symptom
+710107001,Maintenance of wound drain
+710352006,Extrication procedure
+710354007,Rapid extrication
+710574004,Demonstrating medication administration
+710802005,Assisting health care provider
+710803000,Assistance with mobility
+710824005,Assessment of health and social care needs
+710839006,Assessment of cardiac status using monitoring device
+710925007,Provision of food
+710960001,Moving patient using transfer technique
+710961002,Use of supportive positioning
+710971000,Maintaining clear airway
+711008001,Assessment of substance withdrawal
+711036006,Moving patient using transfer technique with lifting apparatus
+711037002,Use of de-escalation technique
+711133000,Administration of fluid therapy
+711139001,Evaluation of tubes and drains
+711176003,Provision of orthopedic stretcher
+711232001,Computed tomography of head with contrast
+711300004,MRI-patient physiologic monitoring system
+711410007,Signs of return of spontaneous circulation
+712003,Closed chest suction
+712991000,Management of safety
+713108007,Provide status report to multidisciplinary team
+713133005,Assessment following possible exposure to contagion
+713134004,Assessment of peripheral neurovascular function
+713147009,Application of hemostatic agent
+713246009,Procedure discontinued by healthcare professional
+713400007,Referral to medical rapid response team
+713442009,Referral to cardiac rapid response team
+713535007,Supraglottic airway
+71388002,Procedure
+714072003,Hot/cold therapy pack/compression therapy system
+714351009,Assessment using Young Child Outcome Rating Scale
+714700001,Bilevel positive airway pressure unit hand held
+714713007,Abdominal and/or thoracic port and catheter
+714740007,Laryngeal mask airway with posterior cuff and drainage lumen
+71493000,Transfusion of packed red blood cells
+715537001,Transportation by ambulance
+715540001,Transportation by helicopter air ambulance
+715541002,Transportation by fixed wing air ambulance
+715542009,Transportation by emergency ambulance
+715740004,Product containing naloxone in nasal dose form
+715933006,Provision of medical patient escort
+716333005,Blue-light phototherapy lamp
+716428005,Able to move in cot
+716731005,Provision of bariatric transport
+716733008,Provision of ambulance with stretcher facility
+716734002,Provision of helicopter air ambulance
+716754001,Arterial catheter care management
+716777001,Hemodynamic monitoring
+716800008,Face Arm Speech Test score
+71707006,Critical judgement
+717142004,"Cardiac resuscitator, battery-powered"
+717278002,Burn care management
+717295005,First aid limb splint
+717309008,"Cardiopulmonary resuscitation impedance valve, inspiratory/expiratory"
+71786000,Intranasal oxygen therapy
+718021000,Education about take home naloxone for opiate overdose intervention
+718864008,Assessment using Lower Extremity Functional Scale
+719410009,Consultation via video conference
+719705009,Capnography oxygen mask
+72027000,Radial pulse taking
+720649006,Introduction of urinary catheter
+720849008,Education about cerebrovascular accident
+722440006,Management of central venous catheter
+723429008,External hemorrhage clamp
+723438005,Left cardiac ventricle to aorta assist device in situ
+7241007,"Application of dressing, major"
+72641008,Administration of sedative
+726649002,"Oxygen/air breathing gas mixer, emergency"
+72705000,Mother
+73027007,"Infant incubator, device"
+73368009,Foley catheter
+733696008,Capnography sampling adaptor
+733864003,Assessment of fine motor function
+733919004,Assessment of body movement
+733925000,Application of ointment
+734227007,Specimen decontamination
+734944000,Video intubation laryngoscope handle/monitor
+735346000,Control of hemorrhage by application of direct pressure
+736158002,Insertion of gastrostomy tube
+736165005,Nasogastric tube care management
+736186005,Ability to self-administer medication
+736762004,Provision of personal protective equipment
+736766001,Control and restraint management
+73957001,"Air transport ambulance, device"
+74094004,"Belt, device"
+741679001,American Heart Association advanced cardiac life support protocol
+74188005,Medical
+74300007,"Sanitary pad, device"
+7443007,Insertion of oropharyngeal airway
+74500006,Cardiac enzymes/isoenzymes measurement
+74596007,Resuscitation with artificial ventilation
+74691006,Pacing up and down
+74964007,Other
+74996004,Confirmation of (contextual qualifier)
+75192006,"Arterial cannula, device"
+75313008,Orthotic splinting
+75367002,Blood pressure
+7606004,"Methemoglobin measurement, qualitative"
+762226007,Urinary retention care management
+762238003,Attention to nasogastric tube
+763700006,Assessment using Clinical Opiate Withdrawal Scale
+763781008,Adult health examination declined
+76388001,ST segment elevation
+765054000,External cardiac electrode
+765172009,Doppler ultrasound
+76571007,Septic shock
+76601001,Intramuscular injection
+767002,White blood cell count
+767693007,Pelvic binder
+76879002,Operation on spinal cord
+769351005,Cold water
+771554000,Monitoring of intravenous infusion
+771555004,Monitoring of continuous bladder irrigation
+77248004,Infection control procedure
+77370004,Lactic acid
+77406008,Confirmatory medical consultation
+77477000,Computed tomography
+77671006,Vasopressin
+77938009,"Arterial pressure monitoring, invasive method"
+78086002,Holding patient
+78121007,Direct laryngoscopy
+78421000,Intramuscular route
+78533007,Irrigation of urinary bladder
+78534001,Body fluid replacement
+785905003,Cannula cricothyroidotomy
+78766008,Insertion of nasogastric tube for intestinal decompression
+7922000,General treatment
+79321009,Application of splint
+79467005,Removal of nasal pack
+79724003,Administration of antivenom
+79821001,Maintenance of cervical collar
+80051000119107,Stroke care management
+80402001,Insertion of implantable venous access port
+80617005,"Analyzer, device"
+80970002,"Medical evaluation, quality of care, review of exception case"
+81011003,Nasogastric tube removal
+81295004,"Phonocardiogram with electrocardiogram lead, interpretation and report"
+81375008,Physical assessment
+81533008,Sling maintenance
+82078001,Collection of blood specimen for laboratory
+82449006,"Peripheral intravenous catheter, device"
+82879008,"Safety belt, device"
+83059008,"Tube, device"
+83418008,Entire fetus
+83729008,Vitamin D measurement
+83887000,"Rescue vehicle, device"
+8390008,Routine care of newborn
+83905007,No treatment required for (contextual qualifier)
+84252002,Obstetrical
+84728005,Neurological examination
+84856008,Oropharyngeal suctioning
+8499008,"Pulse, function"
+85403009,"Delivery, medical personnel present"
+85624009,Closed reduction of dislocation of shoulder
+8594000,Operation of Ambu resuscitator
+86184003,"Electrocardiographic monitor and recorder, device"
+86198006,Administration of vaccine product containing only Influenza virus antigen
+86265008,Central venous pressure monitoring
+86453006,"Defibrillator paddle, device"
+86508006,High humidity
+866145009,General patient record note
+866146005,Serum metabolic panel
+86768006,"Balloon pump, device"
+868184008,Telemedicine consultation with provider
+870380006,Lung ultrasound surface wave elastography
+870384002,Point of care diagnostic ultrasonography
+870386000,Vasopressor therapy
+870441004,Screening for sepsis
+870533002,Heated and humidified high flow oxygen therapy
+870581009,Video intubation endotracheal tube
+87515005,Ileostomy management and care
+87612001,Blood
+87710003,"Physical restraint structure, device"
+87750000,Insertion of nasogastric tube
+879788006,Channeled video intubation laryngoscope
+88140007,Cardiac monitor surveillance
+88480006,Potassium
+88532006,Cold water bath hydrotherapy
+88628008,Ultrasonography of lung
+88645003,Bicarbonate measurement
+89003005,Oral temperature taking
+89018006,Product containing naloxone
+89149003,"Stretcher, device"
+89187006,Airway structure
+89666000,Cardiopulmonary resuscitation
+89925002,Canceled
+901005,Helicopter-based care
+9049009,Insertion of needle into artery of extremity
+90660004,Application of dressing for burn
+90964006,Removal of cervical collar
+91161007,Pedal pulse taking
+91302008,Sepsis
+91602002,Thoracentesis
+9263008,Application of elastic bandage
+9421007,Bougienage
+9564003,"Complete blood count with white cell differential, automated"
+9704004,Computed tomography limited studies
+972002,"Air filter, device"

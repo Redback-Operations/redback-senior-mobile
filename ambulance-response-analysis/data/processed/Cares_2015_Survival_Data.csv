@@ -1,0 +1,28 @@
+ ,Total N (%),Sustained ROSC (%),Survival to hospital admission (%),Survival to hospital discharge (%),Survival to discharge with CPC 1 or 2 (%)
+Total,53637,17581 (32.8),15527 (28.9),5704 (10.6),4602 (8.6)
+Location of Arrest,,,,,
+    Home/Residence,37372 (69.7),11545 (30.9),10090 (27.0),3296 (8.8),2590 (6.9)
+    Nursing Home,5712 (10.6),1552 (27.2),1077 (18.9),250 (4.4),127 (2.2)
+    Public Setting,10553 (19.7),4484 (42.5),4360 (41.3),2158 (20.4),1885 (17.9)
+Arrest Witnessed Status,,,,,
+    Unwitnessed,27412 (51.1),6041 (22.0),5152 (18.8),1269 (4.6),932 (3.4)
+    Bystander witnessed,19756 (36.8),8650 (43.8),7624 (38.6),3231 (16.4),2702 (13.7)
+    911 Responder witnessed,6467 (12.1),2889 (44.7),2750 (42.5),1204 (18.6),968 (15.0)
+Bystander CPR*,,,,,
+    Bystander CPR,21746 (46.1),7491 (34.4),6431 (29.6),2639 (12.1),2205 (10.1)
+    No Bystander CPR,25415 (53.9),7200 (28.3),6345 (25.0),1861 (7.3),1429 (5.6)
+    Bystander CPR (excludes nursing home/healthcare facility events),15743 (39.6),5654 (35.9),5052 (32.1),2243 (14.2),1929 (12.3)
+    No Bystander CPR (excludes nursing home/healthcare facility events),24039 (60.4),6838 (28.4),6088 (25.3),1796 (7.5), 1393 (5.8)
+Initial Arrest Rhythm,,,,,
+    Shockable,10772 (20.1),5400 (50.1),5239 (48.6),3139 (29.1),2783 (25.8)
+    Non-shockable,42856 (79.9),12176 (28.4),10284 (24.0),2563 (6.0),1817 (4.2)
+AED Use,,,,,
+    Bystander AED use*,2890 (6.1),1173 (40.6),1020 (35.3),515 (17.8),438 (15.2)
+    Bystander AED use* (excludes nursing home/healthcare facility events),994 (2.5),518 (52.1),489 (49.2),325 (32.7),297 (29.9)
+    Trained provider (First Responder) AED use,12901 (24.1),4103 (31.8),3475 (26.9),1263 (9.8),1049 (8.1)
+Utstein,,,,,
+    Witnessed and shockable,7580 (14.1),4185 (55.2),4093 (54.0),2617 (34.5),2361 (31.1)
+    Bystander witnessed and shockable,6366 (11.9),3488 (54.8),3407 (53.5),2136 (33.6),1913 (30.1)
+Hypothermia,,,,,
+    Field hypothermia,5590 (10.4),3667 (65.6),2878 (51.5),972 (17.4),727 (13.0)
+    In-hospital hypothermia (among admitted patients),6683 (43.0),--,--,2273 (34.0),1759 (26.3)

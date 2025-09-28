@@ -1,0 +1,63 @@
+Data,National
+Data,N=146924
+Age,N=146891
+  Mean,61.9
+  Median,64.0
+Gender (%),N=146918
+  Female,55012 (37.4)
+  Male,91864 (62.5)
+Race (%),N=146922
+  American-Indian/Alaskan,525 (0.4)
+  Asian,3645 (2.5)
+  Black/African-American,31938 (21.7)
+  Hispanic/Latino,12593 (8.6)
+  Native Hawaiian/Pacific Islander,802 (0.5)
+  White,73319 (49.9)
+  Multi-racial,500 (0.3)
+  Unknown,23600 (16.1)
+Location of Arrest (%),N=146922
+  Home/Residence,108245 (73.7)
+  Nursing Home,14754(10.0)
+  Public Setting,23923 (16.3)
+Arrest witnessed (%),N=146916
+  Bystander Witnessed,55064 (37.5)
+  Witnessed by 911 Responder,17845 (12.1)
+  Unwitnessed,74007 (50.4)
+Who Initiated CPR? (%),N=146920
+  Not Applicable,62 (0.0)
+  Bystander,59738 (40.7)
+  First Responder,45464 (30.9)
+  Emergency Medical Services (EMS),41656 (28.4)
+Was an AED applied prior to EMS arrival? (%),N=146922
+  Yes,40753 (27.7)
+  No,106169 (72.3)
+Who first applied automated external defibrillator? (%),N=40728
+  Bystander,8422 (20.7)
+  First Responder,32306 (79.3)
+Who first defibrillated the patient?* (%),N=145919
+  Not Applicable,104038 (71.3)
+  Bystander,1911 (1.3)
+  First Responder,7940 (5.4)
+  Responding EMS Personnel,32030 (22.0)
+First Arrest Rhythm (%),N=146895
+  Vfib/Vtach/Unknown Shockable Rhythm,24083 (16.4)
+  Asystole,77581 (52.8)
+  Idioventricular/PEA,32544 (22.2)
+  Unknown Unshockable Rhythm,12687 (8.6)
+Sustained ROSC (%),N=146864
+  Yes,39820 (27.1)
+  No,107044 (72.9)
+Was hypothermia care provided in the field? (%),N=146914
+  Yes,4127 (2.8)
+  No,142787 (97.2)
+Pre-hospital Outcome (%),N=146924
+  Pronounced in the Field,62260 (42.4)
+  Pronounced in ED,14711 (10.0)
+  Ongoing Resuscitation in ED,69953 (47.6)
+Overall Survival (%),N=146924
+  Overall Survival to Hospital Admission,36294 (24.7)
+  Overall Survival to Hospital Discharge,13403 (9.1)
+  With Good or Moderate Cerebral Performance,10532 (7.2)
+  Missing hospital outcome,305
+Utstein¹ Survival (%),N=14251
+Utstein Bystander² Survival (%),N=8370

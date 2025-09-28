@@ -1,0 +1,535 @@
+year,section,metric,count,percent
+2013,Age,Mean,623,
+2013,Age,Median,650,
+2013,Sex (%),Female,433479,37.6
+2013,Sex (%),Male,718280,62.4
+2013,Race (%),American-Indian/Alaskan,4639,0.4
+2013,Race (%),Asian,27651,2.4
+2013,Race (%),Black/African-American,252653,21.9
+2013,Race (%),Hispanic/Latino,87209,7.6
+2013,Race (%),Native Hawaiian/Pacific Islander,5456,0.5
+2013,Race (%),White,571333,49.6
+2013,Race (%),Multi-racial,2418,0.2
+2013,Race (%),Unknown,200243,17.4
+2013,Location of Arrest (%),Home/Residence,823491,71.5
+2013,Location of Arrest (%),Nursing Home,121692,10.6
+2013,Location of Arrest (%),Public Setting,206643,17.9
+2013,Arrest witnessed (%),Bystander Witnessed,428910,37.2
+2013,Arrest witnessed (%),Witnessed by 911 Responder,140580,12.2
+2013,Arrest witnessed (%),Unwitnessed,582306,50.6
+2013,Who Initiated CPR? (%),Not Applicable,629,0.1
+2013,Who Initiated CPR? (%),Bystander,470010,40.8
+2013,Who Initiated CPR? (%),First Responder,340888,29.6
+2013,Who Initiated CPR? (%),Emergency Medical Services (EMS),339922,29.5
+2013,Was an AED applied prior to EMS arrival? (%),Yes,326184,28.3
+2013,Was an AED applied prior to EMS arrival? (%),No,825635,71.7
+2013,Who first applied automated external defibrillator? (%),Bystander,68870,21.1
+2013,Who first applied automated external defibrillator? (%),First Responder,257821,78.9
+2013,Who first defibrillated the patient?* (%),Not Applicable,792527,69.8
+2013,Who first defibrillated the patient?* (%),Bystander,17647,1.6
+2013,Who first defibrillated the patient?* (%),First Responder,67791,6.0
+2013,Who first defibrillated the patient?* (%),Responding EMS Personnel,258044,22.7
+2013,First Arrest Rhythm (%),Vfib/Vtach/Unknown Shockable Rhythm,207007,18.0
+2013,First Arrest Rhythm (%),Asystole,584507,50.8
+2013,First Arrest Rhythm (%),Idioventricular/PEA,253079,22.0
+2013,First Arrest Rhythm (%),Unknown Unshockable Rhythm,107089,9.3
+2013,Sustained ROSC (%),Yes,332164,28.8
+2013,Sustained ROSC (%),No,819301,71.2
+2013,Was hypothermia care provided in the field? (%),Yes,52288,4.5
+2013,Was hypothermia care provided in the field? (%),No,1099431,95.5
+2013,Pre-hospital Outcome (%),Pronounced in the Field,451796,39.2
+2013,Pre-hospital Outcome (%),Pronounced in ED,137645,11.9
+2013,Pre-hospital Outcome (%),Ongoing Resuscitation in ED,562404,48.8
+2013,Overall Survival (%),Overall Survival to Hospital Admission,304916,26.5
+2013,Overall Survival (%),Overall Survival to Hospital Discharge,116069,10.1
+2013,Overall Survival (%),With Good or Moderate Cerebral Performance,92288,8.0
+2013,Overall Survival (%),Missing hospital outcome,2461,
+2014,Age,Mean,629,
+2014,Age,Median,65,
+2014,Gender (%),Female,17696,38.9
+2014,Gender (%),Male,27800,61.1
+2014,Race (%),American-Indian/Alaskan,257,0.6
+2014,Race (%),Asian,830,1.8
+2014,Race (%),Black/African-American,9543,21.0
+2014,Race (%),Hispanic/Latino,2597,5.7
+2014,Race (%),Native Hawaiian/Pacific Islander,238,0.5
+2014,Race (%),White,21067,46.3
+2014,Race (%),Unknown,10942,24.1
+2014,Location of Arrest (%),Home/Residence,31830,70.0
+2014,Location of Arrest (%),Nursing Home,4805,10.6
+2014,Location of Arrest (%),Public Setting,8862,19.5
+2014,Arrest witnessed (%),Bystander Witnessed,17133,37.7
+2014,Arrest witnessed (%),Witnessed by 911 Responder,5499,12.1
+2014,Arrest witnessed (%),Unwitnessed,22864,50.3
+2014,Who Initiated CPR? (%),Not Applicable,56,0.1
+2014,Who Initiated CPR? (%),Bystander,18360,40.4
+2014,Who Initiated CPR? (%),First Responder,12198,26.8
+2014,Who Initiated CPR? (%),Emergency Medical Services (EMS),14886,32.7
+2014,Was an AED applied prior to EMS arrival? (%),Yes,12316,27.1
+2014,Was an AED applied prior to EMS arrival? (%),No,33183,72.9
+2014,Who first applied automated external defibrillator? (%),Bystander,2238,18.2
+2014,Who first applied automated external defibrillator? (%),First Responder,10070,81.7
+2014,Who first defibrillated the patient?* (%),Not Applicable,28707,66.8
+2014,Who first defibrillated the patient?* (%),Bystander,688,1.6
+2014,Who first defibrillated the patient?* (%),First Responder,2641,6.1
+2014,Who first defibrillated the patient?* (%),Responding EMS Personnel,10935,25.4
+2014,First Arrest Rhythm (%),Vfib/Vtach/Unknown Shockable Rhythm,9293,20.4
+2014,First Arrest Rhythm (%),Asystole,20760,45.6
+2014,First Arrest Rhythm (%),Idioventricular/PEA,9740,21.4
+2014,First Arrest Rhythm (%),Unknown Unshockable Rhythm,5707,12.5
+2014,Sustained ROSC (%),Yes,14609,32.2
+2014,Sustained ROSC (%),No,30825,67.8
+2014,Was hypothermia care provided in the field? (%),Yes,5523,12.1
+2014,Was hypothermia care provided in the field? (%),No,39971,87.9
+2014,Pre-hospital Outcome (%),Pronounced in the Field,12593,27.7
+2014,Pre-hospital Outcome (%),Pronounced in ED,7627,16.8
+2014,Pre-hospital Outcome (%),Ongoing Resuscitation in ED,25281,55.6
+2014,Overall Survival (%),Overall Survival to Hospital Admission,12878,28.3
+2014,Overall Survival (%),Overall Survival to Hospital Discharge,4903,10.8
+2014,Overall Survival (%),With Good or Moderate Cerebral Performance,3849,8.5
+2014,Overall Survival (%),Missing hospital outcome,216,
+2015,Age,Mean,623,
+2015,Age,Median,64,
+2015,Gender (%),Female,20991,39.0
+2015,Gender (%),Male,32838,61.0
+2015,Race (%),American-Indian/Alaskan,245,0.5
+2015,Race (%),Asian,1096,2.0
+2015,Race (%),Black/African-American,11284,21.0
+2015,Race (%),Hispanic/Latino,3020,5.6
+2015,Race (%),Native Hawaiian/Pacific Islander,257,0.5
+2015,Race (%),White,25372,47.1
+2015,Race (%),Unknown,12551,23.3
+2015,Location of Arrest (%),Home/Residence,37474,69.6
+2015,Location of Arrest (%),Nursing Home,5718,10.6
+2015,Location of Arrest (%),Public Setting,10639,19.8
+2015,Arrest witnessed (%),Bystander Witnessed,19839,36.9
+2015,Arrest witnessed (%),Witnessed by 911 Responder,6502,12.1
+2015,Arrest witnessed (%),Unwitnessed,27488,51.1
+2015,Who Initiated CPR? (%),Not Applicable,39,0.1
+2015,Who Initiated CPR? (%),Bystander,21848,40.6
+2015,Who Initiated CPR? (%),First Responder,15197,28.2
+2015,Who Initiated CPR? (%),Emergency Medical Services (EMS),16742,31.1
+2015,Was an AED applied prior to EMS arrival? (%),Yes,15865,29.5
+2015,Was an AED applied prior to EMS arrival? (%),No,37965,70.5
+2015,Who first applied automated external defibrillator? (%),Bystander,2910,18.3
+2015,Who first applied automated external defibrillator? (%),First Responder,12933,81.5
+2015,Who first defibrillated the patient?* (%),Not Applicable,34383,66.5
+2015,Who first defibrillated the patient?* (%),Bystander,888,1.7
+2015,Who first defibrillated the patient?* (%),First Responder,3323,6.4
+2015,Who first defibrillated the patient?* (%),Responding EMS Personnel,13112,25.4
+2015,First Arrest Rhythm (%),Vfib/Vtach/Unknown Shockable Rhythm,10836,20.1
+2015,First Arrest Rhythm (%),Asystole,25349,47.1
+2015,First Arrest Rhythm (%),Idioventricular/PEA,11361,21.1
+2015,First Arrest Rhythm (%),Unknown Unshockable Rhythm,6276,11.7
+2015,Sustained ROSC (%),Yes,17707,32.9
+2015,Sustained ROSC (%),No,36118,67.1
+2015,Was hypothermia care provided in the field? (%),Yes,5605,10.4
+2015,Was hypothermia care provided in the field? (%),No,48208,89.6
+2015,Pre-hospital Outcome (%),Pronounced in the Field,16333,30.3
+2015,Pre-hospital Outcome (%),Pronounced in ED,8797,16.3
+2015,Pre-hospital Outcome (%),Ongoing Resuscitation in ED,28701,53.3
+2015,Overall Survival (%),Overall Survival to Hospital Admission,15541,28.9
+2015,Overall Survival (%),Overall Survival to Hospital Discharge,5704,10.6
+2015,Overall Survival (%),With Good or Moderate Cerebral Performance,4602,8.5
+2015,Overall Survival (%),Missing hospital outcome,194,
+2016,Age,Mean,622,
+2016,Age,Median,64,
+2016,Gender (%),Female,23606,38.3
+2016,Gender (%),Male,38039,61.7
+2016,Race (%),American-Indian/Alaskan,271,0.4
+2016,Race (%),Asian,1319,2.1
+2016,Race (%),Black/African-American,12663,20.5
+2016,Race (%),Hispanic/Latino,3362,5.5
+2016,Race (%),Native Hawaiian/Pacific Islander,263,0.4
+2016,Race (%),White,29401,47.7
+2016,Race (%),Unknown,14350,23.3
+2016,Location of Arrest (%),Home/Residence,42221,68.5
+2016,Location of Arrest (%),Nursing Home,6487,10.5
+2016,Location of Arrest (%),Public Setting,12938,21.0
+2016,Arrest witnessed (%),Bystander Witnessed,23011,37.3
+2016,Arrest witnessed (%),Witnessed by 911 Responder,7445,12.1
+2016,Arrest witnessed (%),Unwitnessed,31189,50.6
+2016,Who Initiated CPR? (%),Not Applicable,51,0.1
+2016,Who Initiated CPR? (%),Bystander,25110,40.7
+2016,Who Initiated CPR? (%),First Responder,17498,28.4
+2016,Who Initiated CPR? (%),Emergency Medical Services (EMS),18987,30.8
+2016,Was an AED applied prior to EMS arrival? (%),Yes,17604,28.6
+2016,Was an AED applied prior to EMS arrival? (%),No,44040,71.4
+2016,Who first applied automated external defibrillator? (%),Bystander,3516,20.0
+2016,Who first applied automated external defibrillator? (%),First Responder,14075,80.0
+2016,Who first defibrillated the patient?* (%),Not Applicable,39575,66.2
+2016,Who first defibrillated the patient?* (%),Bystander,1021,1.7
+2016,Who first defibrillated the patient?* (%),First Responder,3691,6.2
+2016,Who first defibrillated the patient?* (%),Responding EMS Personnel,15518,25.9
+2016,First Arrest Rhythm (%),Vfib/Vtach/Unknown Shockable Rhythm,12217,19.8
+2016,First Arrest Rhythm (%),Asystole,29151,47.3
+2016,First Arrest Rhythm (%),Idioventricular/PEA,13268,21.5
+2016,First Arrest Rhythm (%),Unknown Unshockable Rhythm,7004,11.4
+2016,Sustained ROSC (%),Yes,20071,32.6
+2016,Sustained ROSC (%),No,41573,67.4
+2016,Was hypothermia care provided in the field? (%),Yes,3775,6.1
+2016,Was hypothermia care provided in the field? (%),No,57870,93.9
+2016,Pre-hospital Outcome (%),Pronounced in the Field,19968,32.4
+2016,Pre-hospital Outcome (%),Pronounced in ED,9233,15.0
+2016,Pre-hospital Outcome (%),Ongoing Resuscitation in ED,32446,52.6
+2016,Overall Survival (%),Overall Survival to Hospital Admission,17803,28.9
+2016,Overall Survival (%),Overall Survival to Hospital Discharge,6670,10.8
+2016,Overall Survival (%),With Good or Moderate Cerebral Performance,5498,8.9
+2016,Overall Survival (%),Missing hospital outcome,124,
+2017,Age,Mean,620,
+2017,Age,Median,640,
+2017,Gender (%),Female,28962,38.0
+2017,Gender (%),Male,47248,62.0
+2017,Race (%),American-Indian/Alaskan,270,0.4
+2017,Race (%),Asian,1518,2.0
+2017,Race (%),Black/African-American,17307,22.7
+2017,Race (%),Hispanic/Latino,4111,5.4
+2017,Race (%),Native Hawaiian/Pacific Islander,304,0.4
+2017,Race (%),White,36339,47.7
+2017,Race (%),Unknown,16325,21.4
+2017,Location of Arrest (%),Home/Residence,53240,69.9
+2017,Location of Arrest (%),Nursing Home,8668,11.4
+2017,Location of Arrest (%),Public Setting,14307,18.8
+2017,Arrest witnessed (%),Bystander Witnessed,27887,36.6
+2017,Arrest witnessed (%),Witnessed by 911 Responder,9380,12.3
+2017,Arrest witnessed (%),Unwitnessed,38948,51.1
+2017,Who Initiated CPR? (%),Not Applicable,48,0.1
+2017,Who Initiated CPR? (%),Bystander,30063,39.4
+2017,Who Initiated CPR? (%),First Responder,22309,29.3
+2017,Who Initiated CPR? (%),Emergency Medical Services (EMS),23795,31.2
+2017,Was an AED applied prior to EMS arrival? (%),Yes,22056,28.9
+2017,Was an AED applied prior to EMS arrival? (%),No,54154,71.1
+2017,Who first applied automated external defibrillator? (%),Bystander,4595,20.9
+2017,Who first applied automated external defibrillator? (%),First Responder,17441,79.1
+2017,Who first defibrillated the patient?* (%),Not Applicable,52196,69.7
+2017,Who first defibrillated the patient?* (%),Bystander,1178,1.6
+2017,Who first defibrillated the patient?* (%),First Responder,4244,5.7
+2017,Who first defibrillated the patient?* (%),Responding EMS Personnel,17273,23.1
+2017,First Arrest Rhythm (%),Vfib/Vtach/Unknown Shockable Rhythm,14019,18.4
+2017,First Arrest Rhythm (%),Asystole,38237,50.2
+2017,First Arrest Rhythm (%),Idioventricular/PEA,16146,21.2
+2017,First Arrest Rhythm (%),Unknown Unshockable Rhythm,7807,10.2
+2017,Sustained ROSC (%),Yes,24249,31.8
+2017,Sustained ROSC (%),No,51965,68.2
+2017,Was hypothermia care provided in the field? (%),Yes,3871,5.1
+2017,Was hypothermia care provided in the field? (%),No,72343,94.9
+2017,Pre-hospital Outcome (%),Pronounced in the Field,27219,35.7
+2017,Pre-hospital Outcome (%),Pronounced in ED,11006,14.4
+2017,Pre-hospital Outcome (%),Ongoing Resuscitation in ED,37990,49.8
+2017,Overall Survival (%),Overall Survival to Hospital Admission,21414,28.1
+2017,Overall Survival (%),Overall Survival to Hospital Discharge,7949,10.4
+2017,Overall Survival (%),With Good or Moderate Cerebral Performance,6392,8.4
+2017,Overall Survival (%),Missing hospital outcome,173,
+2018,Age,Mean,622,
+2018,Age,Median,640,
+2018,Gender (%),Female,31010,37.9
+2018,Gender (%),Male,50852,62.1
+2018,Race (%),American-Indian/Alaskan,321,0.4
+2018,Race (%),Asian,1811,2.2
+2018,Race (%),Black/African-American,19456,23.8
+2018,Race (%),Hispanic/Latino,5122,6.3
+2018,Race (%),Native Hawaiian/Pacific Islander,359,0.4
+2018,Race (%),White,40880,49.9
+2018,Race (%),Unknown,13900,17.0
+2018,Location of Arrest (%),Home/Residence,57476,70.2
+2018,Location of Arrest (%),Nursing Home,9116,11.1
+2018,Location of Arrest (%),Public Setting,15272,18.7
+2018,Arrest witnessed (%),Bystander Witnessed,30568,37.3
+2018,Arrest witnessed (%),Witnessed by 911 Responder,10246,12.5
+2018,Arrest witnessed (%),Unwitnessed,41048,50.1
+2018,Who Initiated CPR? (%),Not Applicable,51,0.1
+2018,Who Initiated CPR? (%),Bystander,32776,40.0
+2018,Who Initiated CPR? (%),First Responder,23708,29.0
+2018,Who Initiated CPR? (%),Emergency Medical Services (EMS),25329,30.9
+2018,Was an AED applied prior to EMS arrival? (%),Yes,24100,29.4
+2018,Was an AED applied prior to EMS arrival? (%),No,57763,70.6
+2018,Who first applied automated external defibrillator? (%),Bystander,5207,21.6
+2018,Who first applied automated external defibrillator? (%),First Responder,18885,78.4
+2018,Who first defibrillated the patient?* (%),Not Applicable,56042,69.6
+2018,Who first defibrillated the patient?* (%),Bystander,1403,1.7
+2018,Who first defibrillated the patient?* (%),First Responder,4668,5.8
+2018,Who first defibrillated the patient?* (%),Responding EMS Personnel,18396,22.8
+2018,First Arrest Rhythm (%),Vfib/Vtach/Unknown Shockable Rhythm,15088,18.4
+2018,First Arrest Rhythm (%),Asystole,41187,50.3
+2018,First Arrest Rhythm (%),Idioventricular/PEA,17811,21.8
+2018,First Arrest Rhythm (%),Unknown Unshockable Rhythm,7766,9.5
+2018,Sustained ROSC (%),Yes,25491,31.1
+2018,Sustained ROSC (%),No,56373,68.9
+2018,Was hypothermia care provided in the field? (%),Yes,3409,4.2
+2018,Was hypothermia care provided in the field? (%),No,78455,95.8
+2018,Pre-hospital Outcome (%),Pronounced in the Field,29200,35.7
+2018,Pre-hospital Outcome (%),Pronounced in ED,11881,14.5
+2018,Pre-hospital Outcome (%),Ongoing Resuscitation in ED,40783,49.8
+2018,Overall Survival (%),Overall Survival to Hospital Admission,23083,28.2
+2018,Overall Survival (%),Overall Survival to Hospital Discharge,8490,10.4
+2018,Overall Survival (%),With Good or Moderate Cerebral Performance,6729,8.2
+2018,Overall Survival (%),Missing hospital outcome,158,
+2019,Age,Mean,624,
+2019,Age,Median,650,
+2019,Gender (%),Female,38128,37.8
+2019,Gender (%),Male,62822,62.2
+2019,Race (%),American-Indian/Alaskan,384,0.4
+2019,Race (%),Asian,2134,2.1
+2019,Race (%),Black/African-American,22750,22.5
+2019,Race (%),Hispanic/Latino,6803,6.7
+2019,Race (%),Native Hawaiian/Pacific Islander,439,0.4
+2019,Race (%),White,50985,50.5
+2019,Race (%),Unknown,17419,17.3
+2019,Location of Arrest (%),Home/Residence,71109,70.4
+2019,Location of Arrest (%),Nursing Home,10991,10.9
+2019,Location of Arrest (%),Public Setting,18855,18.7
+2019,Arrest witnessed (%),Bystander Witnessed,38344,38.0
+2019,Arrest witnessed (%),Witnessed by 911 Responder,12605,12.5
+2019,Arrest witnessed (%),Unwitnessed,50006,49.5
+2019,Who Initiated CPR? (%),Not Applicable,51,0.1
+2019,Who Initiated CPR? (%),Bystander,41962,41.6
+2019,Who Initiated CPR? (%),First Responder,28207,27.9
+2019,Who Initiated CPR? (%),Emergency Medical Services (EMS),30728,30.4
+2019,Was an AED applied prior to EMS arrival? (%),Yes,29104,28.8
+2019,Was an AED applied prior to EMS arrival? (%),No,71849,71.2
+2019,Who first applied automated external defibrillator? (%),Bystander,6552,22.5
+2019,Who first applied automated external defibrillator? (%),First Responder,22517,77.5
+2019,Who first defibrillated the patient?* (%),Not Applicable,68516,68.8
+2019,Who first defibrillated the patient?* (%),Bystander,1729,1.7
+2019,Who first defibrillated the patient?* (%),First Responder,6017,6.0
+2019,Who first defibrillated the patient?* (%),Responding EMS Personnel,23360,23.4
+2019,First Arrest Rhythm (%),Vfib/Vtach/Unknown Shockable Rhythm,19084,18.9
+2019,First Arrest Rhythm (%),Asystole,50281,49.8
+2019,First Arrest Rhythm (%),Idioventricular/PEA,22382,22.2
+2019,First Arrest Rhythm (%),Unknown Unshockable Rhythm,9196,9.1
+2019,Sustained ROSC (%),Yes,31029,30.7
+2019,Sustained ROSC (%),No,69907,69.3
+2019,Was hypothermia care provided in the field? (%),Yes,3395,3.4
+2019,Was hypothermia care provided in the field? (%),No,97559,96.6
+2019,Pre-hospital Outcome (%),Pronounced in the Field,36730,36.4
+2019,Pre-hospital Outcome (%),Pronounced in ED,13392,13.3
+2019,Pre-hospital Outcome (%),Ongoing Resuscitation in ED,50831,50.4
+2019,Overall Survival (%),Overall Survival to Hospital Admission,28188,27.9
+2019,Overall Survival (%),Overall Survival to Hospital Discharge,10641,10.5
+2019,Overall Survival (%),With Good or Moderate Cerebral Performance,8569,8.5
+2019,Overall Survival (%),Missing hospital outcome,174,
+2020,Age,Mean,623,
+2020,Age,Median,650,
+2020,Gender (%),Female,48256,37.9
+2020,Gender (%),Male,79109,62.1
+2020,Race (%),American-Indian/Alaskan,503,0.4
+2020,Race (%),Asian,2917,2.3
+2020,Race (%),Black/African-American,29572,23.2
+2020,Race (%),Hispanic/Latino,10229,8.0
+2020,Race (%),Native Hawaiian/Pacific Islander,583,0.5
+2020,Race (%),White,64949,51.0
+2020,Race (%),Multi-racial,32,0.0
+2020,Race (%),Unknown,18540,14.6
+2020,Location of Arrest (%),Home/Residence,94556,74.2
+2020,Location of Arrest (%),Nursing Home,13588,10.7
+2020,Location of Arrest (%),Public Setting,19230,15.1
+2020,Arrest witnessed (%),Bystander Witnessed,47206,37.1
+2020,Arrest witnessed (%),Witnessed by 911 Responder,16344,12.8
+2020,Arrest witnessed (%),Unwitnessed,63820,50.1
+2020,Who Initiated CPR? (%),Not Applicable,56,0.0
+2020,Who Initiated CPR? (%),Bystander,51906,40.8
+2020,Who Initiated CPR? (%),First Responder,35977,28.2
+2020,Who Initiated CPR? (%),Emergency Medical Services (EMS),39427,31.0
+2020,Was an AED applied prior to EMS arrival? (%),Yes,33862,26.6
+2020,Was an AED applied prior to EMS arrival? (%),No,93511,73.4
+2020,Who first applied automated external defibrillator? (%),Bystander,7375,21.8
+2020,Who first applied automated external defibrillator? (%),First Responder,26451,78.2
+2020,Who first defibrillated the patient?* (%),Not Applicable,90306,71.6
+2020,Who first defibrillated the patient?* (%),Bystander,1594,1.3
+2020,Who first defibrillated the patient?* (%),First Responder,6474,5.1
+2020,Who first defibrillated the patient?* (%),Responding EMS Personnel,27697,22.0
+2020,First Arrest Rhythm (%),Vfib/Vtach/Unknown Shockable Rhythm,20953,16.5
+2020,First Arrest Rhythm (%),Asystole,67749,53.2
+2020,First Arrest Rhythm (%),Idioventricular/PEA,28196,22.1
+2020,First Arrest Rhythm (%),Unknown Unshockable Rhythm,10461,8.2
+2020,Sustained ROSC (%),Yes,34524,27.1
+2020,Sustained ROSC (%),No,92810,72.9
+2020,Was hypothermia care provided in the field? (%),Yes,4530,3.6
+2020,Was hypothermia care provided in the field? (%),No,122846,96.4
+2020,Pre-hospital Outcome (%),Pronounced in the Field,54015,42.4
+2020,Pre-hospital Outcome (%),Pronounced in ED,15287,12.0
+2020,Pre-hospital Outcome (%),Ongoing Resuscitation in ED,58074,45.6
+2020,Overall Survival (%),Overall Survival to Hospital Admission,30608,24.0
+2020,Overall Survival (%),Overall Survival to Hospital Discharge,11419,9.0
+2020,Overall Survival (%),With Good or Moderate Cerebral Performance,9063,7.1
+2020,Overall Survival (%),Missing hospital outcome,196,
+2021,Age,Mean,619,
+2021,Age,Median,640,
+2021,Gender (%),Female,55012,37.4
+2021,Gender (%),Male,91864,62.5
+2021,Race (%),American-Indian/Alaskan,525,0.4
+2021,Race (%),Asian,3645,2.5
+2021,Race (%),Black/African-American,31938,21.7
+2021,Race (%),Hispanic/Latino,12593,8.6
+2021,Race (%),Native Hawaiian/Pacific Islander,802,0.5
+2021,Race (%),White,73319,49.9
+2021,Race (%),Multi-racial,500,0.3
+2021,Race (%),Unknown,23600,16.1
+2021,Location of Arrest (%),Home/Residence,108245,73.7
+2021,Location of Arrest (%),Nursing Home,14754,10.0
+2021,Location of Arrest (%),Public Setting,23923,16.3
+2021,Arrest witnessed (%),Bystander Witnessed,55064,37.5
+2021,Arrest witnessed (%),Witnessed by 911 Responder,17845,12.1
+2021,Arrest witnessed (%),Unwitnessed,74007,50.4
+2021,Who Initiated CPR? (%),Not Applicable,62,0.0
+2021,Who Initiated CPR? (%),Bystander,59738,40.7
+2021,Who Initiated CPR? (%),First Responder,45464,30.9
+2021,Who Initiated CPR? (%),Emergency Medical Services (EMS),41656,28.4
+2021,Was an AED applied prior to EMS arrival? (%),Yes,40753,27.7
+2021,Was an AED applied prior to EMS arrival? (%),No,106169,72.3
+2021,Who first applied automated external defibrillator? (%),Bystander,8422,20.7
+2021,Who first applied automated external defibrillator? (%),First Responder,32306,79.3
+2021,Who first defibrillated the patient?* (%),Not Applicable,104038,71.3
+2021,Who first defibrillated the patient?* (%),Bystander,1911,1.3
+2021,Who first defibrillated the patient?* (%),First Responder,7940,5.4
+2021,Who first defibrillated the patient?* (%),Responding EMS Personnel,32030,22.0
+2021,First Arrest Rhythm (%),Vfib/Vtach/Unknown Shockable Rhythm,24083,16.4
+2021,First Arrest Rhythm (%),Asystole,77581,52.8
+2021,First Arrest Rhythm (%),Idioventricular/PEA,32544,22.2
+2021,First Arrest Rhythm (%),Unknown Unshockable Rhythm,12687,8.6
+2021,Sustained ROSC (%),Yes,39820,27.1
+2021,Sustained ROSC (%),No,107044,72.9
+2021,Was hypothermia care provided in the field? (%),Yes,4127,2.8
+2021,Was hypothermia care provided in the field? (%),No,142787,97.2
+2021,Pre-hospital Outcome (%),Pronounced in the Field,62260,42.4
+2021,Pre-hospital Outcome (%),Pronounced in ED,14711,10.0
+2021,Pre-hospital Outcome (%),Ongoing Resuscitation in ED,69953,47.6
+2021,Overall Survival (%),Overall Survival to Hospital Admission,36294,24.7
+2021,Overall Survival (%),Overall Survival to Hospital Discharge,13403,9.1
+2021,Overall Survival (%),With Good or Moderate Cerebral Performance,10532,7.2
+2021,Overall Survival (%),Missing hospital outcome,305,
+2022,Age,Mean,622,
+2022,Age,Median,650,
+2022,Gender (%),Female,55091,37.3
+2022,Gender (%),Male,92606,62.7
+2022,Race (%),American-Indian/Alaskan,577,0.4
+2022,Race (%),Asian,3811,2.6
+2022,Race (%),Black/African-American,31303,21.2
+2022,Race (%),Hispanic/Latino,12193,8.3
+2022,Race (%),Native Hawaiian/Pacific Islander,677,0.5
+2022,Race (%),White,74687,50.6
+2022,Race (%),Multi-racial,584,0.4
+2022,Race (%),Unknown,23904,16.2
+2022,Location of Arrest (%),Home/Residence,106953,72.4
+2022,Location of Arrest (%),Nursing Home,15247,10.3
+2022,Location of Arrest (%),Public Setting,25536,17.3
+2022,Arrest witnessed (%),Bystander Witnessed,54887,37.2
+2022,Arrest witnessed (%),Witnessed by 911 Responder,17085,11.6
+2022,Arrest witnessed (%),Unwitnessed,75760,51.3
+2022,Who Initiated CPR? (%),Not Applicable,60,0.0
+2022,Who Initiated CPR? (%),Bystander,60247,40.8
+2022,Who Initiated CPR? (%),First Responder,47072,31.9
+2022,Who Initiated CPR? (%),Emergency Medical Services (EMS),40354,27.3
+2022,Was an AED applied prior to EMS arrival? (%),Yes,43327,29.3
+2022,Was an AED applied prior to EMS arrival? (%),No,104407,70.7
+2022,Who first applied automated external defibrillator? (%),Bystander,8995,20.8
+2022,Who first applied automated external defibrillator? (%),First Responder,34335,79.2
+2022,Who first defibrillated the patient?* (%),Not Applicable,104746,70.9
+2022,Who first defibrillated the patient?* (%),Bystander,2244,1.5
+2022,Who first defibrillated the patient?* (%),First Responder,9105,6.2
+2022,Who first defibrillated the patient?* (%),Responding EMS Personnel,31619,21.4
+2022,First Arrest Rhythm (%),Vfib/Vtach/Unknown Shockable Rhythm,25081,17.0
+2022,First Arrest Rhythm (%),Asystole,77774,52.7
+2022,First Arrest Rhythm (%),Idioventricular/PEA,32441,22.0
+2022,First Arrest Rhythm (%),Unknown Unshockable Rhythm,12407,8.4
+2022,Sustained ROSC (%),Yes,39408,26.7
+2022,Sustained ROSC (%),No,108296,73.3
+2022,Was hypothermia care provided in the field? (%),Yes,3703,2.5
+2022,Was hypothermia care provided in the field? (%),No,144032,97.5
+2022,Pre-hospital Outcome (%),Pronounced in the Field,64995,44.0
+2022,Pre-hospital Outcome (%),Pronounced in ED,13764,9.3
+2022,Pre-hospital Outcome (%),Ongoing Resuscitation in ED,68977,46.7
+2022,Overall Survival (%),Overall Survival to Hospital Admission,36782,24.9
+2022,Overall Survival (%),Overall Survival to Hospital Discharge,13794,9.3
+2022,Overall Survival (%),With Good or Moderate Cerebral Performance,11110,7.5
+2022,Overall Survival (%),Missing hospital outcome,331,
+2023,Age,Mean,621,
+2023,Age,Median,650,
+2023,Gender (%),Female,51700,37.0
+2023,Gender (%),Male,88079,63.0
+2023,Race (%),American-Indian/Alaskan,546,0.4
+2023,Race (%),Asian,3880,2.8
+2023,Race (%),Black/African-American,30286,21.7
+2023,Race (%),Hispanic/Latino,12177,8.7
+2023,Race (%),Native Hawaiian/Pacific Islander,653,0.5
+2023,Race (%),White,70459,50.4
+2023,Race (%),Multi-racial,619,0.4
+2023,Race (%),Unknown,21200,15.2
+2023,Location of Arrest (%),Home/Residence,99881,71.4
+2023,Location of Arrest (%),Nursing Home,14557,10.4
+2023,Location of Arrest (%),Public Setting,25381,18.2
+2023,Arrest witnessed (%),Bystander Witnessed,51336,36.7
+2023,Arrest witnessed (%),Witnessed by 911 Responder,16540,11.8
+2023,Arrest witnessed (%),Unwitnessed,71946,51.5
+2023,Who Initiated CPR? (%),Not Applicable,63,0.0
+2023,Who Initiated CPR? (%),Bystander,58016,41.5
+2023,Who Initiated CPR? (%),First Responder,43558,31.2
+2023,Who Initiated CPR? (%),Emergency Medical Services (EMS),38173,27.3
+2023,Was an AED applied prior to EMS arrival? (%),Yes,40084,28.7
+2023,Was an AED applied prior to EMS arrival? (%),No,99737,71.3
+2023,Who first applied automated external defibrillator? (%),Bystander,8774,21.9
+2023,Who first applied automated external defibrillator? (%),First Responder,31336,78.1
+2023,Who first defibrillated the patient?* (%),Not Applicable,98064,70.1
+2023,Who first defibrillated the patient?* (%),Bystander,2231,1.6
+2023,Who first defibrillated the patient?* (%),First Responder,8529,6.1
+2023,Who first defibrillated the patient?* (%),Responding EMS Personnel,30976,22.2
+2023,First Arrest Rhythm (%),Vfib/Vtach/Unknown Shockable Rhythm,24517,17.5
+2023,First Arrest Rhythm (%),Asystole,72251,51.7
+2023,First Arrest Rhythm (%),Idioventricular/PEA,30884,22.1
+2023,First Arrest Rhythm (%),Unknown Unshockable Rhythm,12155,8.7
+2023,Sustained ROSC (%),Yes,37902,27.1
+2023,Sustained ROSC (%),No,101884,72.9
+2023,Was hypothermia care provided in the field? (%),Yes,3932,2.8
+2023,Was hypothermia care provided in the field? (%),No,135887,97.2
+2023,Pre-hospital Outcome (%),Pronounced in the Field,59972,42.9
+2023,Pre-hospital Outcome (%),Pronounced in ED,13315,9.5
+2023,Pre-hospital Outcome (%),Ongoing Resuscitation in ED,66535,47.6
+2023,Overall Survival (%),Overall Survival to Hospital Admission,36492,26.1
+2023,Overall Survival (%),Overall Survival to Hospital Discharge,14300,10.2
+2023,Overall Survival (%),With Good or Moderate Cerebral Performance,11376,8.1
+2023,Overall Survival (%),Missing hospital outcome,332,
+2024,Age,Mean,631,
+2024,Age,Median,660,
+2024,Sex (%),Female,50482,36.8
+2024,Sex (%),Male,86624,63.2
+2024,Race (%),American-Indian/Alaskan,560,0.4
+2024,Race (%),Asian,4100,3.0
+2024,Race (%),Black/African-American,29454,21.5
+2024,Race (%),Hispanic/Latino,12726,9.3
+2024,Race (%),Native Hawaiian/Pacific Islander,619,0.5
+2024,Race (%),White,71936,52.5
+2024,Race (%),Multi-racial,712,0.5
+2024,Race (%),Unknown,17006,12.4
+2024,Location of Arrest (%),Home/Residence,97774,71.3
+2024,Location of Arrest (%),Nursing Home,14730,10.7
+2024,Location of Arrest (%),Public Setting,24613,18.0
+2024,Arrest witnessed (%),Bystander Witnessed,51419,37.5
+2024,Arrest witnessed (%),Witnessed by 911 Responder,16859,12.3
+2024,Arrest witnessed (%),Unwitnessed,68840,50.2
+2024,Who Initiated CPR? (%),Not Applicable,42,0.0
+2024,Who Initiated CPR? (%),Bystander,57289,41.9
+2024,Who Initiated CPR? (%),First Responder,42529,31.1
+2024,Who Initiated CPR? (%),Emergency Medical Services (EMS),36926,27.0
+2024,Was an AED applied prior to EMS arrival? (%),Yes,40031,29.2
+2024,Was an AED applied prior to EMS arrival? (%),No,97085,70.8
+2024,Who first applied automated external defibrillator? (%),Bystander,9251,22.8
+2024,Who first applied automated external defibrillator? (%),First Responder,31403,77.2
+2024,Who first defibrillated the patient?* (%),Not Applicable,95677,69.8
+2024,Who first defibrillated the patient?* (%),Bystander,2393,1.7
+2024,Who first defibrillated the patient?* (%),First Responder,9797,7.1
+2024,Who first defibrillated the patient?* (%),Responding EMS Personnel,29242,21.3
+2024,First Arrest Rhythm (%),Vfib/Vtach/Unknown Shockable Rhythm,24747,18.1
+2024,First Arrest Rhythm (%),Asystole,69425,50.6
+2024,First Arrest Rhythm (%),Idioventricular/PEA,30865,22.5
+2024,First Arrest Rhythm (%),Unknown Unshockable Rhythm,12064,8.8
+2024,Sustained ROSC (%),Yes,34752,25.4
+2024,Sustained ROSC (%),No,102319,74.6
+2024,Was hypothermia care provided in the field? (%),Yes,4384,3.2
+2024,Was hypothermia care provided in the field? (%),No,132709,96.8
+2024,Pre-hospital Outcome (%),Pronounced in the Field,59026,43.0
+2024,Pre-hospital Outcome (%),Pronounced in ED,13579,9.9
+2024,Pre-hospital Outcome (%),Ongoing Resuscitation in ED,64514,47.0
+2024,Overall Survival (%),Overall Survival to Hospital Admission,35181,25.7
+2024,Overall Survival (%),Overall Survival to Hospital Discharge,14390,10.5
+2024,Overall Survival (%),With Good or Moderate Cerebral Performance,11280,8.2
+2024,Overall Survival (%),Missing hospital outcome,334,

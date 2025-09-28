@@ -1,0 +1,2590 @@
+eInjury_01,DiagnosisCodeDescr
+T14,Injury of unspecified body region
+T14.8,Other injury of unspecified body region
+T14.8XXA,"Other injury of unspecified body region, initial encounter"
+T14.8XXD,"Other injury of unspecified body region, subsequent encounter"
+T14.8XXS,"Other injury of unspecified body region, sequela"
+T14.9,Unspecified injury
+T14.90,"Injury, unspecified"
+T14.90XA,"Injury, unspecified, initial encounter"
+T14.90XD,"Injury, unspecified, subsequent encounter"
+T14.90XS,"Injury, unspecified, sequela"
+T14.91,Suicide attempt
+T14.91XA,"Suicide attempt, initial encounter"
+T15,Foreign body on external eye
+T15.00,"Foreign body in cornea, unspecified eye"
+T15.01,"Foreign body in cornea, right eye"
+T15.12,"Foreign body in conjunctival sac, left eye"
+T15.80,"Foreign body in other and multiple parts of external eye, unspecified eye"
+T16,Foreign body in ear
+T17.0,Foreign body in nasal sinus
+T17.0XXA,"Foreign body in nasal sinus, initial encounter"
+T17.200,Unspecified foreign body in pharynx causing asphyxiation
+T17.3,Foreign body in larynx
+T17.400A,"Unspecified foreign body in trachea causing asphyxiation, initial encounter"
+T17.420,Food in trachea causing asphyxiation
+T17.520,Food in bronchus causing asphyxiation
+T17.8,Foreign body in other parts of respiratory tract
+T17.920,"Food in respiratory tract, part unspecified causing asphyxiation"
+T18,Foreign body in alimentary tract
+T18.0,Foreign body in mouth
+T18.1,Foreign body in esophagus
+T18.10,Unspecified foreign body in esophagus
+T18.12,Food in esophagus
+T18.120,Food in esophagus causing compression of trachea
+T18.5,Foreign body in anus and rectum
+T20,"Burn and corrosion of head, face, and neck"
+T20.00,"Burn of unspecified degree of head, face, and neck, unspecified site"
+T20.00XA,"Burn of unspecified degree of head, face, and neck, unspecified site, initial encounter"
+T20.20,"Burn of second degree of head, face, and neck, unspecified site"
+T20.23,Burn of second degree of chin
+T20.26,Burn of second degree of forehead and cheek
+T20.37,Burn of third degree of neck
+T21,Burn and corrosion of trunk
+T21.11,Burn of first degree of chest wall
+T21.2,Burn of second degree of trunk
+T21.21,Burn of second degree of chest wall
+T21.22,Burn of second degree of abdominal wall
+T21.24,Burn of second degree of lower back
+T21.25,Burn of second degree of buttock
+T22,"Burn and corrosion of shoulder and upper limb, except wrist and hand"
+T22.11,Burn of first degree of forearm
+T22.122,Burn of first degree of left elbow
+T22.21,Burn of second degree of forearm
+T22.22,Burn of second degree of elbow
+T22.23,Burn of second degree of upper arm
+T22.239,Burn of second degree of unspecified upper arm
+T22.249,Burn of second degree of unspecified axilla
+T22.25,Burn of second degree of shoulder
+T22.252,Burn of second degree of left shoulder
+T23,Burn and corrosion of wrist and hand
+T23.0,Burn of unspecified degree of wrist and hand
+T23.05,Burn of unspecified degree of palm
+T23.15,Burn of first degree of palm
+T23.161,Burn of first degree of back of right hand
+T23.17,Burn of first degree of wrist
+T23.20,"Burn of second degree of hand, unspecified site"
+T23.201,"Burn of second degree of right hand, unspecified site"
+T23.202,"Burn of second degree of left hand, unspecified site"
+T23.221,Burn of second degree of single right finger (nail) except thumb
+T23.25,Burn of second degree of palm
+T23.251,Burn of second degree of right palm
+T23.26,Burn of second degree of back of hand
+T23.261,Burn of second degree of back of right hand
+T23.262,Burn of second degree of back of left hand
+T23.291,Burn of second degree of multiple sites of right wrist and hand
+T23.30,"Burn of third degree of hand, unspecified site"
+T23.34,"Burn of third degree of multiple fingers (nail), including thumb"
+T23.351,Burn of third degree of right palm
+T23.352,Burn of third degree of left palm
+T23.362,Burn of third degree of back of left hand
+T23.371,Burn of third degree of right wrist
+T24,"Burn and corrosion of lower limb, except ankle and foot"
+T24.11,Burn of first degree of thigh
+T24.13,Burn of first degree of lower leg
+T24.132,Burn of first degree of left lower leg
+T24.23,Burn of second degree of lower leg
+T24.231,Burn of second degree of right lower leg
+T25,Burn and corrosion of ankle and foot
+T25.1,Burn of first degree of ankle and foot
+T25.11,Burn of first degree of ankle
+T25.112,Burn of first degree of left ankle
+T25.121,Burn of first degree of right foot
+T25.122,Burn of first degree of left foot
+T25.211,Burn of second degree of right ankle
+T25.22,Burn of second degree of foot
+T25.221,Burn of second degree of right foot
+T26.0,Burn of eyelid and periocular area
+T26.40,"Burn of unspecified eye and adnexa, part unspecified"
+T27,Burn and corrosion of respiratory tract
+T28.0,Burn of mouth and pharynx
+T28.1,Burn of esophagus
+T30,"Burn and corrosion, body region unspecified"
+T30.0,"Burn of unspecified body region, unspecified degree"
+T30.4,"Corrosion of unspecified body region, unspecified degree"
+T31,Burns classified according to extent of body surface involved
+T31.0,Burns involving less than 10% of body surface
+T31.1,Burns involving 10-19% of body surface
+T31.2,Burns involving 20-29% of body surface
+T31.3,Burns involving 30-39% of body surface
+T31.8,Burns involving 80-89% of body surface
+T31.9,Burns involving 90% or more of body surface
+T33.02,Superficial frostbite of nose
+T34,Frostbite with tissue necrosis
+T34.82,Frostbite with tissue necrosis of foot
+T36.0X5,Adverse effect of penicillins
+T36.3X5,Adverse effect of macrolides
+T36.6X,"Poisoning by, adverse effect of and underdosing of rifampicins"
+T36.6X5,Adverse effect of rifampicins
+T36.7X5,"Adverse effect of antifungal antibiotics, systemically used"
+T36.8X5,Adverse effect of other systemic antibiotics
+T36.95,Adverse effect of unspecified systemic antibiotic
+T37.0X2,"Poisoning by sulfonamides, intentional self-harm"
+T37.0X5,Adverse effect of sulfonamides
+T37.2X6,Underdosing of antimalarials and drugs acting on other blood protozoa
+T37.8X1,"Poisoning by other specified systemic anti-infectives and antiparasitics, accidental (unintentional)"
+T37.8X5,Adverse effect of other specified systemic anti-infectives and antiparasitics
+T37.95,Adverse effect of unspecified systemic anti-infective and antiparasitic
+T38.1X4,"Poisoning by thyroid hormones and substitutes, undetermined"
+T38.2X5,Adverse effect of antithyroid drugs
+T38.3X5,Adverse effect of insulin and oral hypoglycemic [antidiabetic] drugs
+T38.3X6,Underdosing of insulin and oral hypoglycemic [antidiabetic] drugs
+T38.4X2,"Poisoning by oral contraceptives, intentional self-harm"
+T38.6X5,"Adverse effect of antigonadotrophins, antiestrogens, antiandrogens, not elsewhere classified"
+T38.895,Adverse effect of other hormones and synthetic substitutes
+T38.994,"Poisoning by other hormone antagonists, undetermined"
+T39.011,"Poisoning by aspirin, accidental (unintentional)"
+T39.015,Adverse effect of aspirin
+T39.094,"Poisoning by salicylates, undetermined"
+T39.1X2,"Poisoning by 4-Aminophenol derivatives, intentional self-harm"
+T39.2X5,Adverse effect of pyrazolone derivatives
+T39.391,"Poisoning by other nonsteroidal anti-inflammatory drugs [NSAID], accidental (unintentional)"
+T39.392,"Poisoning by other nonsteroidal anti-inflammatory drugs [NSAID], intentional self-harm"
+T39.395,Adverse effect of other nonsteroidal anti-inflammatory drugs [NSAID]
+T39.8X2,"Poisoning by other nonopioid analgesics and antipyretics, not elsewhere classified, intentional self-harm"
+T39.8X5,"Adverse effect of other nonopioid analgesics and antipyretics, not elsewhere classified"
+T39.94,"Poisoning by unspecified nonopioid analgesic, antipyretic and antirheumatic, undetermined"
+T39.95,"Adverse effect of unspecified nonopioid analgesic, antipyretic and antirheumatic"
+T40.0X1,"Poisoning by opium, accidental (unintentional)"
+T40.0X2,"Poisoning by opium, intentional self-harm"
+T40.0X5,Adverse effect of opium
+T40.1,Poisoning by and adverse effect of heroin
+T40.1X1,"Poisoning by heroin, accidental (unintentional)"
+T40.1X4,"Poisoning by heroin, undetermined"
+T40.2X,"Poisoning by, adverse effect of and underdosing of other opioids"
+T40.2X4,"Poisoning by other opioids, undetermined"
+T40.2X5,Adverse effect of other opioids
+T40.3,"Poisoning by, adverse effect of and underdosing of methadone"
+T40.3X5,Adverse effect of methadone
+T40.4,"Poisoning by, adverse effect of and underdosing of other synthetic narcotics"
+T40.412,"Poisoning by fentanyl or fentanyl analogs, intentional self-harm"
+T40.5,"Poisoning by, adverse effect of and underdosing of cocaine"
+T40.5X5,Adverse effect of cocaine
+T40.6,"Poisoning by, adverse effect of and underdosing of other and unspecified narcotics"
+T40.601,"Poisoning by unspecified narcotics, accidental (unintentional)"
+T40.602,"Poisoning by unspecified narcotics, intentional self-harm"
+T40.604,"Poisoning by unspecified narcotics, undetermined"
+T40.605,Adverse effect of unspecified narcotics
+T40.69,"Poisoning by, adverse effect of and underdosing of other narcotics"
+T40.694,"Poisoning by other narcotics, undetermined"
+T40.695,Adverse effect of other narcotics
+T40.995,Adverse effect of other psychodysleptics [hallucinogens]
+T41.0X1,"Poisoning by inhaled anesthetics, accidental (unintentional)"
+T41.0X5,Adverse effect of inhaled anesthetics
+T41.205,Adverse effect of unspecified general anesthetics
+T41.3X4,"Poisoning by local anesthetics, undetermined"
+T41.45,Adverse effect of unspecified anesthetic
+T42.3X4,"Poisoning by barbiturates, undetermined"
+T42.4X2,"Poisoning by benzodiazepines, intentional self-harm"
+T42.4X2A,"Poisoning by benzodiazepines, intentional self-harm, initial encounter"
+T42.4X4,"Poisoning by benzodiazepines, undetermined"
+T42.4X4A,"Poisoning by benzodiazepines, undetermined, initial encounter"
+T42.4X5,Adverse effect of benzodiazepines
+T42.5X6,Underdosing of mixed antiepileptics
+T42.6X2,"Poisoning by other antiepileptic and sedative-hypnotic drugs, intentional self-harm"
+T42.6X5,Adverse effect of other antiepileptic and sedative-hypnotic drugs
+T42.71,"Poisoning by unspecified antiepileptic and sedative-hypnotic drugs, accidental (unintentional)"
+T42.72,"Poisoning by unspecified antiepileptic and sedative-hypnotic drugs, intentional self-harm"
+T42.74,"Poisoning by unspecified antiepileptic and sedative-hypnotic drugs, undetermined"
+T42.8X,"Poisoning by, adverse effect of and underdosing of antiparkinsonism drugs and other central muscle-tone depressants"
+T43.022,"Poisoning by tetracyclic antidepressants, intentional self-harm"
+T43.201,"Poisoning by unspecified antidepressants, accidental (unintentional)"
+T43.202,"Poisoning by unspecified antidepressants, intentional self-harm"
+T43.212,"Poisoning by selective serotonin and norepinephrine reuptake inhibitors, intentional self-harm"
+T43.215,Adverse effect of selective serotonin and norepinephrine reuptake inhibitors
+T43.221,"Poisoning by selective serotonin reuptake inhibitors, accidental (unintentional)"
+T43.222,"Poisoning by selective serotonin reuptake inhibitors, intentional self-harm"
+T43.291,"Poisoning by other antidepressants, accidental (unintentional)"
+T43.292,"Poisoning by other antidepressants, intentional self-harm"
+T43.295,Adverse effect of other antidepressants
+T43.505,Adverse effect of unspecified antipsychotics and neuroleptics
+T43.506,Underdosing of unspecified antipsychotics and neuroleptics
+T43.592,"Poisoning by other antipsychotics and neuroleptics, intentional self-harm"
+T43.595,Adverse effect of other antipsychotics and neuroleptics
+T43.596,Underdosing of other antipsychotics and neuroleptics
+T43.625,Adverse effect of amphetamines
+T43.632,"Poisoning by methylphenidate, intentional self-harm"
+T43.695,Adverse effect of other psychostimulants
+T43.8X,"Poisoning by, adverse effect of and underdosing of other psychotropic drugs"
+T43.8X2,"Poisoning by other psychotropic drugs, intentional self-harm"
+T43.8X5,Adverse effect of other psychotropic drugs
+T43.94,"Poisoning by unspecified psychotropic drug, undetermined"
+T43.95,Adverse effect of unspecified psychotropic drug
+T44.0X1,"Poisoning by anticholinesterase agents, accidental (unintentional)"
+T44.0X4,"Poisoning by anticholinesterase agents, undetermined"
+T44.0X5,Adverse effect of anticholinesterase agents
+T44.1X5,Adverse effect of other parasympathomimetics [cholinergics]
+T44.3X5,Adverse effect of other parasympatholytics [anticholinergics and antimuscarinics] and spasmolytics
+T44.6X5,Adverse effect of alpha-adrenoreceptor antagonists
+T44.7X1,"Poisoning by beta-adrenoreceptor antagonists, accidental (unintentional)"
+T44.7X5,Adverse effect of beta-adrenoreceptor antagonists
+T44.8X5,Adverse effect of centrally-acting and adrenergic-neuron-blocking agents
+T44.902,"Poisoning by unspecified drugs primarily affecting the autonomic nervous system, intentional self-harm"
+T44.992,"Poisoning by other drug primarily affecting the autonomic nervous system, intentional self-harm"
+T44.995,Adverse effect of other drug primarily affecting the autonomic nervous system
+T45.0X2,"Poisoning by antiallergic and antiemetic drugs, intentional self-harm"
+T45.0X5,Adverse effect of antiallergic and antiemetic drugs
+T45.0X6,Underdosing of antiallergic and antiemetic drugs
+T45.3X5,Adverse effect of enzymes
+T45.4X2,"Poisoning by iron and its compounds, intentional self-harm"
+T45.4X3,"Poisoning by iron and its compounds, assault"
+T45.4X4,"Poisoning by iron and its compounds, undetermined"
+T45.511,"Poisoning by anticoagulants, accidental (unintentional)"
+T45.512,"Poisoning by anticoagulants, intentional self-harm"
+T45.515,Adverse effect of anticoagulants
+T45.525,Adverse effect of antithrombotic drugs
+T45.616,Underdosing of thrombolytic drugs
+T45.625,Adverse effect of hemostatic drug
+T45.695,Adverse effect of other fibrinolysis-affecting drugs
+T45.7X5,"Adverse effect of anticoagulant antagonists, vitamin K and other coagulants"
+T45.91,"Poisoning by unspecified primarily systemic and hematological agent, accidental (unintentional)"
+T45.94,"Poisoning by unspecified primarily systemic and hematological agent, undetermined"
+T46.1X2,"Poisoning by calcium-channel blockers, intentional self-harm"
+T46.1X5,Adverse effect of calcium-channel blockers
+T46.2X2,"Poisoning by other antidysrhythmic drugs, intentional self-harm"
+T46.2X5,Adverse effect of other antidysrhythmic drugs
+T46.4X5,Adverse effect of angiotensin-converting-enzyme inhibitors
+T46.901,"Poisoning by unspecified agents primarily affecting the cardiovascular system, accidental (unintentional)"
+T46.905,Adverse effect of unspecified agents primarily affecting the cardiovascular system
+T46.906,Underdosing of unspecified agents primarily affecting the cardiovascular system
+T46.992,"Poisoning by other agents primarily affecting the cardiovascular system, intentional self-harm"
+T46.995,Adverse effect of other agents primarily affecting the cardiovascular system
+T47.1X2,"Poisoning by other antacids and anti-gastric-secretion drugs, intentional self-harm"
+T47.3X5,Adverse effect of saline and osmotic laxatives
+T47.4X5,Adverse effect of other laxatives
+T47.5X2,"Poisoning by digestants, intentional self-harm"
+T47.5X4,"Poisoning by digestants, undetermined"
+T47.5X5,Adverse effect of digestants
+T47.7X5,Adverse effect of emetics
+T47.8X2,"Poisoning by other agents primarily affecting gastrointestinal system, intentional self-harm"
+T47.8X4,"Poisoning by other agents primarily affecting gastrointestinal system, undetermined"
+T47.8X5,Adverse effect of other agents primarily affecting gastrointestinal system
+T47.92,"Poisoning by unspecified agents primarily affecting the gastrointestinal system, intentional self-harm"
+T47.95,Adverse effect of unspecified agents primarily affecting the gastrointestinal system
+T48.1X4,"Poisoning by skeletal muscle relaxants [neuromuscular blocking agents], undetermined"
+T48.205,Adverse effect of unspecified drugs acting on muscles
+T48.292,"Poisoning by other drugs acting on muscles, intentional self-harm"
+T48.295,Adverse effect of other drugs acting on muscles
+T48.3X2,"Poisoning by antitussives, intentional self-harm"
+T48.4X5,Adverse effect of expectorants
+T48.5X2,"Poisoning by other anti-common-cold drugs, intentional self-harm"
+T48.5X3,"Poisoning by other anti-common-cold drugs, assault"
+T48.6X3,"Poisoning by antiasthmatics, assault"
+T48.901,"Poisoning by unspecified agents primarily acting on the respiratory system, accidental (unintentional)"
+T48.904,"Poisoning by unspecified agents primarily acting on the respiratory system, undetermined"
+T48.905,Adverse effect of unspecified agents primarily acting on the respiratory system
+T48.991,"Poisoning by other agents primarily acting on the respiratory system, accidental (unintentional)"
+T48.992,"Poisoning by other agents primarily acting on the respiratory system, intentional self-harm"
+T48.994,"Poisoning by other agents primarily acting on the respiratory system, undetermined"
+T48.995,Adverse effect of other agents primarily acting on the respiratory system
+T49.1X2,"Poisoning by antipruritics, intentional self-harm"
+T49.2X2,"Poisoning by local astringents and local detergents, intentional self-harm"
+T49.3X4,"Poisoning by emollients, demulcents and protectants, undetermined"
+T49.4X4,"Poisoning by keratolytics, keratoplastics, and other hair treatment drugs and preparations, undetermined"
+T49.8,"Poisoning by, adverse effect of and underdosing of other topical agents"
+T49.8X2,"Poisoning by other topical agents, intentional self-harm"
+T49.8X5,Adverse effect of other topical agents
+T49.91,"Poisoning by unspecified topical agent, accidental (unintentional)"
+T49.93,"Poisoning by unspecified topical agent, assault"
+T49.95,Adverse effect of unspecified topical agent
+T50.1X5,Adverse effect of loop [high-ceiling] diuretics
+T50.3X5,"Adverse effect of electrolytic, caloric and water-balance agents"
+T50.3X6,"Underdosing of electrolytic, caloric and water-balance agents"
+T50.5X5,Adverse effect of appetite depressants
+T50.6X5,Adverse effect of antidotes and chelating agents
+T50.7X4,"Poisoning by analeptics and opioid receptor antagonists, undetermined"
+T50.7X5,Adverse effect of analeptics and opioid receptor antagonists
+T50.8X5,Adverse effect of diagnostic agents
+T50.9,"Poisoning by, adverse effect of and underdosing of other and unspecified drugs, medicaments and biological substances"
+T50.90,"Poisoning by, adverse effect of and underdosing of unspecified drugs, medicaments and biological substances"
+T50.901,"Poisoning by unspecified drugs, medicaments and biological substances, accidental (unintentional)"
+T50.901A,"Poisoning by unspecified drugs, medicaments and biological substances, accidental (unintentional), initial encounter"
+T50.902,"Poisoning by unspecified drugs, medicaments and biological substances, intentional self-harm"
+T50.902S,"Poisoning by unspecified drugs, medicaments and biological substances, intentional self-harm, sequela"
+T50.904,"Poisoning by unspecified drugs, medicaments and biological substances, undetermined"
+T50.904A,"Poisoning by unspecified drugs, medicaments and biological substances, undetermined, initial encounter"
+T50.905,"Adverse effect of unspecified drugs, medicaments and biological substances"
+T50.905A,"Adverse effect of unspecified drugs, medicaments and biological substances, initial encounter"
+T50.906,"Underdosing of unspecified drugs, medicaments and biological substances"
+T50.912,"Poisoning by multiple unspecified drugs, medicaments and biological substances, intentional self-harm"
+T50.915A,"Adverse effect of multiple unspecified drugs, medicaments and biological substances, initial encounter"
+T50.991,"Poisoning by other drugs, medicaments and biological substances, accidental (unintentional)"
+T50.992,"Poisoning by other drugs, medicaments and biological substances, intentional self-harm"
+T50.993,"Poisoning by other drugs, medicaments and biological substances, assault"
+T50.994,"Poisoning by other drugs, medicaments and biological substances, undetermined"
+T50.994A,"Poisoning by other drugs, medicaments and biological substances, undetermined, initial encounter"
+T50.995,"Adverse effect of other drugs, medicaments and biological substances"
+T51,Toxic effect of alcohol
+T51.0X2,"Toxic effect of ethanol, intentional self-harm"
+T51.1X1,"Toxic effect of methanol, accidental (unintentional)"
+T51.2X2,"Toxic effect of 2-Propanol, intentional self-harm"
+T51.8,Toxic effect of other alcohols
+T51.8X,Toxic effect of other alcohols
+T51.8X1,"Toxic effect of other alcohols, accidental (unintentional)"
+T51.8X2,"Toxic effect of other alcohols, intentional self-harm"
+T51.8X3,"Toxic effect of other alcohols, assault"
+T51.8X4,"Toxic effect of other alcohols, undetermined"
+T51.9,Toxic effect of unspecified alcohol
+T51.91,"Toxic effect of unspecified alcohol, accidental (unintentional)"
+T51.92,"Toxic effect of unspecified alcohol, intentional self-harm"
+T51.93,"Toxic effect of unspecified alcohol, assault"
+T51.94,"Toxic effect of unspecified alcohol, undetermined"
+T52.0,Toxic effects of petroleum products
+T52.0X,Toxic effects of petroleum products
+T52.0X1,"Toxic effect of petroleum products, accidental (unintentional)"
+T52.8X4,"Toxic effect of other organic solvents, undetermined"
+T52.9,Toxic effects of unspecified organic solvent
+T52.91,"Toxic effect of unspecified organic solvent, accidental (unintentional)"
+T53.9,Toxic effects of unspecified halogen derivatives of aliphatic and aromatic hydrocarbons
+T54,Toxic effect of corrosive substances
+T54.1,Toxic effects of other corrosive organic compounds
+T54.1X1,"Toxic effect of other corrosive organic compounds, accidental (unintentional)"
+T54.2,Toxic effects of corrosive acids and acid-like substances
+T54.2X1,"Toxic effect of corrosive acids and acid-like substances, accidental (unintentional)"
+T54.2X2,"Toxic effect of corrosive acids and acid-like substances, intentional self-harm"
+T54.3,Toxic effects of corrosive alkalis and alkali-like substances
+T54.3X1,"Toxic effect of corrosive alkalis and alkali-like substances, accidental (unintentional)"
+T54.9,Toxic effects of unspecified corrosive substance
+T54.91,"Toxic effect of unspecified corrosive substance, accidental (unintentional)"
+T54.92,"Toxic effect of unspecified corrosive substance, intentional self-harm"
+T54.93,"Toxic effect of unspecified corrosive substance, assault"
+T55,Toxic effect of soaps and detergents
+T55.0X,Toxic effect of soaps
+T55.0X2,"Toxic effect of soaps, intentional self-harm"
+T55.0X3,"Toxic effect of soaps, assault"
+T55.0X4,"Toxic effect of soaps, undetermined"
+T55.1X1,"Toxic effect of detergents, accidental (unintentional)"
+T56.9,Toxic effects of unspecified metal
+T56.91,"Toxic effect of unspecified metal, accidental (unintentional)"
+T57.8X4,"Toxic effect of other specified inorganic substances, undetermined"
+T57.9,Toxic effect of unspecified inorganic substance
+T58,Toxic effect of carbon monoxide
+T58.0,Toxic effect of carbon monoxide from motor vehicle exhaust
+T58.02,"Toxic effect of carbon monoxide from motor vehicle exhaust, intentional self-harm"
+T58.11,"Toxic effect of carbon monoxide from utility gas, accidental (unintentional)"
+T58.2,Toxic effect of carbon monoxide from incomplete combustion of other domestic fuels
+T58.2X1,"Toxic effect of carbon monoxide from incomplete combustion of other domestic fuels, accidental (unintentional)"
+T58.2X2,"Toxic effect of carbon monoxide from incomplete combustion of other domestic fuels, intentional self-harm"
+T58.8,Toxic effect of carbon monoxide from other source
+T58.8X1,"Toxic effect of carbon monoxide from other source, accidental (unintentional)"
+T58.9,Toxic effect of carbon monoxide from unspecified source
+T58.91,"Toxic effect of carbon monoxide from unspecified source, accidental (unintentional)"
+T58.91XA,"Toxic effect of carbon monoxide from unspecified source, accidental (unintentional), initial encounter"
+T59,"Toxic effect of other gases, fumes and vapors"
+T59.0X,Toxic effect of nitrogen oxides
+T59.1X1,"Toxic effect of sulfur dioxide, accidental (unintentional)"
+T59.3,Toxic effect of lacrimogenic gas
+T59.3X3,"Toxic effect of lacrimogenic gas, assault"
+T59.3X3A,"Toxic effect of lacrimogenic gas, assault, initial encounter"
+T59.4,Toxic effect of chlorine gas
+T59.4X1,"Toxic effect of chlorine gas, accidental (unintentional)"
+T59.7X1,"Toxic effect of carbon dioxide, accidental (unintentional)"
+T59.7X4A,"Toxic effect of carbon dioxide, undetermined, initial encounter"
+T59.81,Toxic effect of smoke
+T59.811,"Toxic effect of smoke, accidental (unintentional)"
+T59.811A,"Toxic effect of smoke, accidental (unintentional), initial encounter"
+T59.812,"Toxic effect of smoke, intentional self-harm"
+T59.814,"Toxic effect of smoke, undetermined"
+T59.89,"Toxic effect of other specified gases, fumes and vapors"
+T59.891,"Toxic effect of other specified gases, fumes and vapors, accidental (unintentional)"
+T59.894A,"Toxic effect of other specified gases, fumes and vapors, undetermined, initial encounter"
+T59.9,"Toxic effect of unspecified gases, fumes and vapors"
+T59.91,"Toxic effect of unspecified gases, fumes and vapors, accidental (unintentional)"
+T59.91XA,"Toxic effect of unspecified gases, fumes and vapors, accidental (unintentional), initial encounter"
+T59.93,"Toxic effect of unspecified gases, fumes and vapors, assault"
+T59.94,"Toxic effect of unspecified gases, fumes and vapors, undetermined"
+T60,Toxic effect of pesticides
+T60.1,Toxic effect of halogenated insecticides
+T60.2X4,"Toxic effect of other insecticides, undetermined"
+T60.9,Toxic effect of unspecified pesticide
+T61.01,"Ciguatera fish poisoning, accidental (unintentional)"
+T61.9,Toxic effect of unspecified seafood
+T62,Toxic effect of other noxious substances eaten as food
+T62.9,Toxic effect of unspecified noxious substance eaten as food
+T62.91,"Toxic effect of unspecified noxious substance eaten as food, accidental (unintentional)"
+T62.94,"Toxic effect of unspecified noxious substance eaten as food, undetermined"
+T63,Toxic effect of contact with venomous animals and plants
+T63.0,Toxic effect of snake venom
+T63.00,Toxic effect of unspecified snake venom
+T63.001,"Toxic effect of unspecified snake venom, accidental (unintentional)"
+T63.001A,"Toxic effect of unspecified snake venom, accidental (unintentional), initial encounter"
+T63.004,"Toxic effect of unspecified snake venom, undetermined"
+T63.004A,"Toxic effect of unspecified snake venom, undetermined, initial encounter"
+T63.01,Toxic effect of rattlesnake venom
+T63.011,"Toxic effect of rattlesnake venom, accidental (unintentional)"
+T63.014,"Toxic effect of rattlesnake venom, undetermined"
+T63.02,Toxic effect of coral snake venom
+T63.06,Toxic effect of venom of other North and South American snake
+T63.061,"Toxic effect of venom of other North and South American snake, accidental (unintentional)"
+T63.09,Toxic effect of venom of other snake
+T63.091,"Toxic effect of venom of other snake, accidental (unintentional)"
+T63.092,"Toxic effect of venom of other snake, intentional self-harm"
+T63.094,"Toxic effect of venom of other snake, undetermined"
+T63.1,Toxic effect of venom of other reptiles
+T63.2,Toxic effect of venom of scorpion
+T63.2X1,"Toxic effect of venom of scorpion, accidental (unintentional)"
+T63.3,Toxic effect of venom of spider
+T63.30,Toxic effect of unspecified spider venom
+T63.301,"Toxic effect of unspecified spider venom, accidental (unintentional)"
+T63.303,"Toxic effect of unspecified spider venom, assault"
+T63.304,"Toxic effect of unspecified spider venom, undetermined"
+T63.331,"Toxic effect of venom of brown recluse spider, accidental (unintentional)"
+T63.334,"Toxic effect of venom of brown recluse spider, undetermined"
+T63.391,"Toxic effect of venom of other spider, accidental (unintentional)"
+T63.4,Toxic effect of venom of other arthropods
+T63.41,Toxic effect of venom of centipedes and venomous millipedes
+T63.421,"Toxic effect of venom of ants, accidental (unintentional)"
+T63.44,Toxic effect of venom of bees
+T63.441,"Toxic effect of venom of bees, accidental (unintentional)"
+T63.441A,"Toxic effect of venom of bees, accidental (unintentional), initial encounter"
+T63.443,"Toxic effect of venom of bees, assault"
+T63.444,"Toxic effect of venom of bees, undetermined"
+T63.451,"Toxic effect of venom of hornets, accidental (unintentional)"
+T63.454,"Toxic effect of venom of hornets, undetermined"
+T63.46,Toxic effect of venom of wasps
+T63.461,"Toxic effect of venom of wasps, accidental (unintentional)"
+T63.464,"Toxic effect of venom of wasps, undetermined"
+T63.511,"Toxic effect of contact with stingray, accidental (unintentional)"
+T63.514,"Toxic effect of contact with stingray, undetermined"
+T63.6,Toxic effect of contact with other venomous marine animals
+T63.621,"Toxic effect of contact with other jellyfish, accidental (unintentional)"
+T63.7,Toxic effect of contact with venomous plant
+T63.793,"Toxic effect of contact with other venomous plant, assault"
+T63.794,"Toxic effect of contact with other venomous plant, undetermined"
+T63.8,Toxic effect of contact with other venomous animals
+T63.89,Toxic effect of contact with other venomous animals
+T63.891,"Toxic effect of contact with other venomous animals, accidental (unintentional)"
+T63.894,"Toxic effect of contact with other venomous animals, undetermined"
+T63.9,Toxic effect of contact with unspecified venomous animal
+T63.91,"Toxic effect of contact with unspecified venomous animal, accidental (unintentional)"
+T63.94,"Toxic effect of contact with unspecified venomous animal, undetermined"
+T64,Toxic effect of aflatoxin and other mycotoxin food contaminants
+T65,Toxic effect of other and unspecified substances
+T65.221,"Toxic effect of tobacco cigarettes, accidental (unintentional)"
+T65.222,"Toxic effect of tobacco cigarettes, intentional self-harm"
+T65.6X1,"Toxic effect of paints and dyes, not elsewhere classified, accidental (unintentional)"
+T65.8,Toxic effect of other specified substances
+T65.891,"Toxic effect of other specified substances, accidental (unintentional)"
+T65.892,"Toxic effect of other specified substances, intentional self-harm"
+T65.893,"Toxic effect of other specified substances, assault"
+T65.894,"Toxic effect of other specified substances, undetermined"
+T65.9,Toxic effect of unspecified substance
+T65.91,"Toxic effect of unspecified substance, accidental (unintentional)"
+T65.91XA,"Toxic effect of unspecified substance, accidental (unintentional), initial encounter"
+T65.92,"Toxic effect of unspecified substance, intentional self-harm"
+T65.93XA,"Toxic effect of unspecified substance, assault, initial encounter"
+T65.94,"Toxic effect of unspecified substance, undetermined"
+T66,"Radiation sickness, unspecified"
+T67,Effects of heat and light
+T67.0,Heatstroke and sunstroke
+T67.01,Heatstroke and sunstroke
+T67.02,Exertional heatstroke
+T67.1,Heat syncope
+T67.5,"Heat exhaustion, unspecified"
+T67.5XXA,"Heat exhaustion, unspecified, initial encounter"
+T67.9,"Effect of heat and light, unspecified"
+T68.XXXA,"Hypothermia, initial encounter"
+T69.9,"Effect of reduced temperature, unspecified"
+T70,Effects of air pressure and water pressure
+T70.4,Effects of high-pressure fluids
+T70.9,"Effect of air pressure and water pressure, unspecified"
+T71,Asphyxiation
+T71.1,Asphyxiation due to mechanical threat to breathing
+T71.11,Asphyxiation due to smothering under pillow
+T71.112,"Asphyxiation due to smothering under pillow, intentional self-harm"
+T71.114,"Asphyxiation due to smothering under pillow, undetermined"
+T71.12,Asphyxiation due to plastic bag
+T71.13,Asphyxiation due to being trapped in bed linens
+T71.132,"Asphyxiation due to being trapped in bed linens, intentional self-harm"
+T71.14,Asphyxiation due to smothering under another person's body (in bed)
+T71.143,"Asphyxiation due to smothering under another person's body (in bed), assault"
+T71.15,Asphyxiation due to smothering in furniture
+T71.153,"Asphyxiation due to smothering in furniture, assault"
+T71.16,Asphyxiation due to hanging
+T71.161,"Asphyxiation due to hanging, accidental"
+T71.161A,"Asphyxiation due to hanging, accidental, initial encounter"
+T71.162,"Asphyxiation due to hanging, intentional self-harm"
+T71.163,"Asphyxiation due to hanging, assault"
+T71.164,"Asphyxiation due to hanging, undetermined"
+T71.164A,"Asphyxiation due to hanging, undetermined, initial encounter"
+T71.19,Asphyxiation due to mechanical threat to breathing due to other causes
+T71.191,"Asphyxiation due to mechanical threat to breathing due to other causes, accidental"
+T71.192,"Asphyxiation due to mechanical threat to breathing due to other causes, intentional self-harm"
+T71.193,"Asphyxiation due to mechanical threat to breathing due to other causes, assault"
+T71.194,"Asphyxiation due to mechanical threat to breathing due to other causes, undetermined"
+T71.194A,"Asphyxiation due to mechanical threat to breathing due to other causes, undetermined, initial encounter"
+T71.2,Asphyxiation due to systemic oxygen deficiency due to low oxygen content in ambient air
+T71.20,Asphyxiation due to systemic oxygen deficiency due to low oxygen content in ambient air due to unspecified cause
+T71.21,Asphyxiation due to cave-in or falling earth
+T71.22,Asphyxiation due to being trapped in a car trunk
+T71.221,"Asphyxiation due to being trapped in a car trunk, accidental"
+T71.223,"Asphyxiation due to being trapped in a car trunk, assault"
+T71.224,"Asphyxiation due to being trapped in a car trunk, undetermined"
+T71.23,Asphyxiation due to being trapped in a (discarded) refrigerator
+T71.232,"Asphyxiation due to being trapped in a (discarded) refrigerator, intentional self-harm"
+T71.233,"Asphyxiation due to being trapped in a (discarded) refrigerator, assault"
+T71.29,Asphyxiation due to being trapped in other low oxygen environment
+T71.9,Asphyxiation due to unspecified cause
+T71.9XXA,"Asphyxiation due to unspecified cause, initial encounter"
+T73.3,Exhaustion due to excessive exertion
+T74.01,"Adult neglect or abandonment, confirmed"
+T74.02,"Child neglect or abandonment, confirmed"
+T74.1,"Physical abuse, confirmed"
+T74.11,"Adult physical abuse, confirmed"
+T74.11XA,"Adult physical abuse, confirmed, initial encounter"
+T74.12,"Child physical abuse, confirmed"
+T74.12XA,"Child physical abuse, confirmed, initial encounter"
+T74.2,"Sexual abuse, confirmed"
+T74.21,"Adult sexual abuse, confirmed"
+T74.21XA,"Adult sexual abuse, confirmed, initial encounter"
+T74.22,"Child sexual abuse, confirmed"
+T74.31,"Adult psychological abuse, confirmed"
+T74.91XA,"Unspecified adult maltreatment, confirmed, initial encounter"
+T75,Other and unspecified effects of other external causes
+T75.0,Effects of lightning
+T75.00,Unspecified effects of lightning
+T75.01,Shock due to being struck by lightning
+T75.09,Other effects of lightning
+T75.1,Unspecified effects of drowning and nonfatal submersion
+T75.2,Effects of vibration
+T75.20,Unspecified effects of vibration
+T75.22,Traumatic vasospastic syndrome
+T75.23,Vertigo from infrasound
+T75.29,Other effects of vibration
+T75.3,Motion sickness
+T75.4,Electrocution
+T75.4XXA,"Electrocution, initial encounter"
+T75.4XXS,"Electrocution, sequela"
+T75.8,Other specified effects of external causes
+T75.81,Effects of abnormal gravitation [G] forces
+T75.89,Other specified effects of external causes
+T75.89XA,"Other specified effects of external causes, initial encounter"
+T76,"Adult and child abuse, neglect and other maltreatment, suspected"
+T76.0,"Neglect or abandonment, suspected"
+T76.01,"Adult neglect or abandonment, suspected"
+T76.02,"Child neglect or abandonment, suspected"
+T76.02XA,"Child neglect or abandonment, suspected, initial encounter"
+T76.1,"Physical abuse, suspected"
+T76.11,"Adult physical abuse, suspected"
+T76.12,"Child physical abuse, suspected"
+T76.12XA,"Child physical abuse, suspected, initial encounter"
+T76.2,"Sexual abuse, suspected"
+T76.21,"Adult sexual abuse, suspected"
+T76.22,"Child sexual abuse, suspected"
+T76.3,"Psychological abuse, suspected"
+T76.31,"Adult psychological abuse, suspected"
+T76.31XA,"Adult psychological abuse, suspected, initial encounter"
+T76.32,"Child psychological abuse, suspected"
+T76.9,"Unspecified maltreatment, suspected"
+T76.91,"Unspecified adult maltreatment, suspected"
+T76.91XA,"Unspecified adult maltreatment, suspected, initial encounter"
+T76.92,"Unspecified child maltreatment, suspected"
+T76.92XA,"Unspecified child maltreatment, suspected, initial encounter"
+T78,"Adverse effects, not elsewhere classified"
+T78.01,Anaphylactic reaction due to peanuts
+T78.8,"Other adverse effects, not elsewhere classified"
+T78.8XXA,"Other adverse effects, not elsewhere classified, initial encounter"
+T79,"Certain early complications of trauma, not elsewhere classified"
+T79.4,Traumatic shock
+T79.8,Other early complications of trauma
+T79.8XXA,"Other early complications of trauma, initial encounter"
+T79.9,Unspecified early complication of trauma
+T79.9XXA,"Unspecified early complication of trauma, initial encounter"
+T79.9XXD,"Unspecified early complication of trauma, subsequent encounter"
+T79.9XXS,"Unspecified early complication of trauma, sequela"
+T79.A29,Traumatic compartment syndrome of unspecified lower extremity
+T80.211,Bloodstream infection due to central venous catheter
+T81.3,"Disruption of wound, not elsewhere classified"
+T81.30,"Disruption of wound, unspecified"
+T81.32XA,"Disruption of internal operation (surgical) wound, not elsewhere classified, initial encounter"
+T83.02,Displacement of urinary catheter
+T84.02,Dislocation of internal joint prosthesis
+T84.020,Dislocation of internal right hip prosthesis
+T84.029,Dislocation of unspecified internal joint prosthesis
+T85.698A,"Other mechanical complication of other specified internal prosthetic devices, implants and grafts, initial encounter"
+T85.9XXA,"Unspecified complication of internal prosthetic device, implant and graft, initial encounter"
+T86.822,Skin graft (allograft) (autograft) infection
+T87.4,Infection of amputation stump
+T88,"Other complications of surgical and medical care, not elsewhere classified"
+T88.8,"Other specified complications of surgical and medical care, not elsewhere classified"
+T88.9,"Complication of surgical and medical care, unspecified"
+V00,Pedestrian conveyance accident
+V00.0,Pedestrian on foot injured in collision with pedestrian conveyance
+V00.01,Pedestrian on foot injured in collision with roller-skater
+V00.031,Pedestrian on foot injured in collision with rider of standing electric scooter
+V00.031A,"Pedestrian on foot injured in collision with rider of standing electric scooter, initial encounter"
+V00.09,Pedestrian on foot injured in collision with other pedestrian conveyance
+V00.1,Rolling-type pedestrian conveyance accident
+V00.11,In-line roller-skate accident
+V00.111,Fall from in-line roller-skates
+V00.12,Non-in- line roller-skate accident
+V00.121,Fall from non-in-line roller-skates
+V00.122,Non-in-line roller-skater colliding with stationary object
+V00.128,Other non-in-line roller-skating accident
+V00.13,Skateboard accident
+V00.131,Fall from skateboard
+V00.132,Skateboarder colliding with stationary object
+V00.138,Other skateboard accident
+V00.14,Scooter (nonmotorized) accident
+V00.141,Fall from scooter (nonmotorized)
+V00.141A,"Fall from scooter (nonmotorized), initial encounter"
+V00.142,Scooter (nonmotorized) colliding with stationary object
+V00.148,Other scooter (nonmotorized) accident
+V00.148A,"Other scooter (nonmotorized) accident, initial encounter"
+V00.15,Heelies accident
+V00.151,Fall from heelies
+V00.158,Other heelies accident
+V00.18,Accident on other rolling-type pedestrian conveyance
+V00.181,Fall from other rolling-type pedestrian conveyance
+V00.181A,"Fall from other rolling-type pedestrian conveyance, initial encounter"
+V00.182,Pedestrian on other rolling-type pedestrian conveyance colliding with stationary object
+V00.188,Other accident on other rolling-type pedestrian conveyance
+V00.2,Gliding-type pedestrian conveyance accident
+V00.21,Ice-skates accident
+V00.211,Fall from ice-skates
+V00.212,Ice-skater colliding with stationary object
+V00.218,Other ice-skates accident
+V00.22,Sled accident
+V00.221,Fall from sled
+V00.222,Sledder colliding with stationary object
+V00.228,Other sled accident
+V00.281,Fall from other gliding-type pedestrian conveyance
+V00.3,Flat-bottomed pedestrian conveyance accident
+V00.31,Snowboard accident
+V00.311,Fall from snowboard
+V00.312,Snowboarder colliding with stationary object
+V00.318,Other snowboard accident
+V00.32,Snow-ski accident
+V00.321,Fall from snow-skis
+V00.322,Snow-skier colliding with stationary object
+V00.328,Other snow-ski accident
+V00.38,Other flat-bottomed pedestrian conveyance accident
+V00.381,Fall from other flat-bottomed pedestrian conveyance
+V00.382,Pedestrian on other flat-bottomed pedestrian conveyance colliding with stationary object
+V00.388,Other accident on other flat-bottomed pedestrian conveyance
+V00.8,Accident on other pedestrian conveyance
+V00.81,Accident with wheelchair (powered)
+V00.811,Fall from moving wheelchair (powered)
+V00.811A,"Fall from moving wheelchair (powered), initial encounter"
+V00.812,Wheelchair (powered) colliding with stationary object
+V00.818,Other accident with wheelchair (powered)
+V00.82,Accident with baby stroller
+V00.821,Fall from baby stroller
+V00.822,Baby stroller colliding with stationary object
+V00.828,Other accident with baby stroller
+V00.83,Accident with motorized mobility scooter
+V00.831,Fall from motorized mobility scooter
+V00.831A,"Fall from motorized mobility scooter, initial encounter"
+V00.832,Motorized mobility scooter colliding with stationary object
+V00.838,Other accident with motorized mobility scooter
+V00.838D,"Other accident with motorized mobility scooter, subsequent encounter"
+V00.84,Accident with standing micro-mobility pedestrian conveyance
+V00.841,Fall from standing electric scooter
+V00.841A,"Fall from standing electric scooter, initial encounter"
+V00.848A,"Other accident with standing micro-mobility pedestrian conveyance, initial encounter"
+V00.89,Accident on other pedestrian conveyance
+V00.891,Fall from other pedestrian conveyance
+V00.898,Other accident on other pedestrian conveyance
+V00.898A,"Other accident on other pedestrian conveyance, initial encounter"
+V01,Pedestrian injured in collision with pedal cycle
+V01.0,Pedestrian injured in collision with pedal cycle in nontraffic accident
+V01.00,Pedestrian on foot injured in collision with pedal cycle in nontraffic accident
+V01.00XA,"Pedestrian on foot injured in collision with pedal cycle in nontraffic accident, initial encounter"
+V01.09,Pedestrian with other conveyance injured in collision with pedal cycle in nontraffic accident
+V01.1,Pedestrian injured in collision with pedal cycle in traffic accident
+V01.10,Pedestrian on foot injured in collision with pedal cycle in traffic accident
+V01.10XA,"Pedestrian on foot injured in collision with pedal cycle in traffic accident, initial encounter"
+V01.19,Pedestrian with other conveyance injured in collision with pedal cycle in traffic accident
+V01.9,"Pedestrian injured in collision with pedal cycle, unspecified whether traffic or nontraffic accident"
+V01.90,"Pedestrian on foot injured in collision with pedal cycle, unspecified whether traffic or nontraffic accident"
+V02,Pedestrian injured in collision with two- or three-wheeled motor vehicle
+V02.0,Pedestrian injured in collision with two- or three-wheeled motor vehicle in nontraffic accident
+V02.00,Pedestrian on foot injured in collision with two- or three-wheeled motor vehicle in nontraffic accident
+V02.09,Pedestrian with other conveyance injured in collision with two- or three-wheeled motor vehicle in nontraffic accident
+V02.1,Pedestrian injured in collision with two- or three-wheeled motor vehicle in traffic accident
+V02.10,Pedestrian on foot injured in collision with two- or three-wheeled motor vehicle in traffic accident
+V02.10XA,"Pedestrian on foot injured in collision with two- or three-wheeled motor vehicle in traffic accident, initial encounter"
+V02.19,Pedestrian with other conveyance injured in collision with two- or three-wheeled motor vehicle in traffic accident
+V02.9,"Pedestrian injured in collision with two- or three-wheeled motor vehicle, unspecified whether traffic or nontraffic accident"
+V02.90,"Pedestrian on foot injured in collision with two- or three-wheeled motor vehicle, unspecified whether traffic or nontraffic accident"
+V03,"Pedestrian injured in collision with car, pick-up truck or van"
+V03.0,"Pedestrian injured in collision with car, pick-up truck or van in nontraffic accident"
+V03.00,"Pedestrian on foot injured in collision with car, pick-up truck or van in nontraffic accident"
+V03.00XA,"Pedestrian on foot injured in collision with car, pick-up truck or van in nontraffic accident, initial encounter"
+V03.01,"Pedestrian on roller-skates injured in collision with car, pick-up truck or van in nontraffic accident"
+V03.02,"Pedestrian on skateboard injured in collision with car, pick-up truck or van in nontraffic accident"
+V03.09,"Pedestrian with other conveyance injured in collision with car, pick-up truck or van in nontraffic accident"
+V03.1,"Pedestrian injured in collision with car, pick-up truck or van in traffic accident"
+V03.10,"Pedestrian on foot injured in collision with car, pick-up truck or van in traffic accident"
+V03.10XA,"Pedestrian on foot injured in collision with car, pick-up truck or van in traffic accident, initial encounter"
+V03.12,"Pedestrian on skateboard injured in collision with car, pick-up truck or van in traffic accident"
+V03.13,"Pedestrian on standing micro-mobility pedestrian conveyance injured in collision with car, pick-up or van in traffic accident"
+V03.19,"Pedestrian with other conveyance injured in collision with car, pick-up truck or van in traffic accident"
+V03.9,"Pedestrian injured in collision with car, pick-up truck or van, unspecified whether traffic or nontraffic accident"
+V03.90,"Pedestrian on foot injured in collision with car, pick-up truck or van, unspecified whether traffic or nontraffic accident"
+V03.92,"Pedestrian on skateboard injured in collision with car, pick-up truck or van, unspecified whether traffic or nontraffic accident"
+V03.99,"Pedestrian with other conveyance injured in collision with car, pick-up truck or van, unspecified whether traffic or nontraffic accident"
+V04,Pedestrian injured in collision with heavy transport vehicle or bus
+V04.0,Pedestrian injured in collision with heavy transport vehicle or bus in nontraffic accident
+V04.00,Pedestrian on foot injured in collision with heavy transport vehicle or bus in nontraffic accident
+V04.09,Pedestrian with other conveyance injured in collision with heavy transport vehicle or bus in nontraffic accident
+V04.1,Pedestrian injured in collision with heavy transport vehicle or bus in traffic accident
+V04.10,Pedestrian on foot injured in collision with heavy transport vehicle or bus in traffic accident
+V04.19,Pedestrian with other conveyance injured in collision with heavy transport vehicle or bus in traffic accident
+V04.9,"Pedestrian injured in collision with heavy transport vehicle or bus, unspecified whether traffic or nontraffic accident"
+V04.90,"Pedestrian on foot injured in collision with heavy transport vehicle or bus, unspecified whether traffic or nontraffic accident"
+V04.99,"Pedestrian with other conveyance injured in collision with heavy transport vehicle or bus, unspecified whether traffic or nontraffic accident"
+V05,Pedestrian injured in collision with railway train or railway vehicle
+V05.0,Pedestrian injured in collision with railway train or railway vehicle in nontraffic accident
+V05.00,Pedestrian on foot injured in collision with railway train or railway vehicle in nontraffic accident
+V05.00XA,"Pedestrian on foot injured in collision with railway train or railway vehicle in nontraffic accident, initial encounter"
+V05.09,Pedestrian with other conveyance injured in collision with railway train or railway vehicle in nontraffic accident
+V05.1,Pedestrian injured in collision with railway train or railway vehicle in traffic accident
+V05.9,"Pedestrian injured in collision with railway train or railway vehicle, unspecified whether traffic or nontraffic accident"
+V05.90,"Pedestrian on foot injured in collision with railway train or railway vehicle, unspecified whether traffic or nontraffic accident"
+V06,Pedestrian injured in collision with other nonmotor vehicle
+V06.0,Pedestrian injured in collision with other nonmotor vehicle in nontraffic accident
+V06.00,Pedestrian on foot injured in collision with other nonmotor vehicle in nontraffic accident
+V06.09,Pedestrian with other conveyance injured in collision with other nonmotor vehicle in nontraffic accident
+V06.1,Pedestrian injured in collision with other nonmotor vehicle in traffic accident
+V06.10,Pedestrian on foot injured in collision with other nonmotor vehicle in traffic accident
+V06.12,Pedestrian on skateboard injured in collision with other nonmotor vehicle in traffic accident
+V06.9,"Pedestrian injured in collision with other nonmotor vehicle, unspecified whether traffic or nontraffic accident"
+V06.90,"Pedestrian on foot injured in collision with other nonmotor vehicle, unspecified whether traffic or nontraffic accident"
+V06.99,"Pedestrian with other conveyance injured in collision with other nonmotor vehicle, unspecified whether traffic or nontraffic accident"
+V09,Pedestrian injured in other and unspecified transport accidents
+V09.0,Pedestrian injured in nontraffic accident involving other and unspecified motor vehicles
+V09.00,Pedestrian injured in nontraffic accident involving unspecified motor vehicles
+V09.01,Pedestrian injured in nontraffic accident involving military vehicle
+V09.09,Pedestrian injured in nontraffic accident involving other motor vehicles
+V09.1,Pedestrian injured in unspecified nontraffic accident
+V09.1XXA,"Pedestrian injured in unspecified nontraffic accident, initial encounter"
+V09.2,Pedestrian injured in traffic accident involving other and unspecified motor vehicles
+V09.20,Pedestrian injured in traffic accident involving unspecified motor vehicles
+V09.20XA,"Pedestrian injured in traffic accident involving unspecified motor vehicles, initial encounter"
+V09.21,Pedestrian injured in traffic accident involving military vehicle
+V09.29,Pedestrian injured in traffic accident involving other motor vehicles
+V09.29XA,"Pedestrian injured in traffic accident involving other motor vehicles, initial encounter"
+V09.3,Pedestrian injured in unspecified traffic accident
+V09.9,Pedestrian injured in unspecified transport accident
+V09.9XXA,"Pedestrian injured in unspecified transport accident, initial encounter"
+V10,Pedal cycle rider injured in collision with pedestrian or animal
+V10.0,Pedal cycle driver injured in collision with pedestrian or animal in nontraffic accident
+V10.0XXA,"Pedal cycle driver injured in collision with pedestrian or animal in nontraffic accident, initial encounter"
+V10.1,Pedal cycle passenger injured in collision with pedestrian or animal in nontraffic accident
+V10.4,Pedal cycle driver injured in collision with pedestrian or animal in traffic accident
+V10.5,Pedal cycle passenger injured in collision with pedestrian or animal in traffic accident
+V10.9,Unspecified pedal cyclist injured in collision with pedestrian or animal in traffic accident
+V11,Pedal cycle rider injured in collision with other pedal cycle
+V11.0,Pedal cycle driver injured in collision with other pedal cycle in nontraffic accident
+V11.1,Pedal cycle passenger injured in collision with other pedal cycle in nontraffic accident
+V11.2,Unspecified pedal cyclist injured in collision with other pedal cycle in nontraffic accident
+V11.3,Person boarding or alighting a pedal cycle injured in collision with other pedal cycle
+V11.4,Pedal cycle driver injured in collision with other pedal cycle in traffic accident
+V11.5,Pedal cycle passenger injured in collision with other pedal cycle in traffic accident
+V11.9,Unspecified pedal cyclist injured in collision with other pedal cycle in traffic accident
+V12.0,Pedal cycle driver injured in collision with two- or three-wheeled motor vehicle in nontraffic accident
+V12.1,Pedal cycle passenger injured in collision with two- or three-wheeled motor vehicle in nontraffic accident
+V12.4,Pedal cycle driver injured in collision with two- or three-wheeled motor vehicle in traffic accident
+V12.5,Pedal cycle passenger injured in collision with two- or three-wheeled motor vehicle in traffic accident
+V12.9,Unspecified pedal cyclist injured in collision with two- or three-wheeled motor vehicle in traffic accident
+V13,"Pedal cycle rider injured in collision with car, pick-up truck or van"
+V13.0,"Pedal cycle driver injured in collision with car, pick-up truck or van in nontraffic accident"
+V13.1,"Pedal cycle passenger injured in collision with car, pick-up truck or van in nontraffic accident"
+V13.2,"Unspecified pedal cyclist injured in collision with car, pick-up truck or van in nontraffic accident"
+V13.3,"Person boarding or alighting a pedal cycle injured in collision with car, pick-up truck or van"
+V13.4,"Pedal cycle driver injured in collision with car, pick-up truck or van in traffic accident"
+V13.5,"Pedal cycle passenger injured in collision with car, pick-up truck or van in traffic accident"
+V13.9,"Unspecified pedal cyclist injured in collision with car, pick-up truck or van in traffic accident"
+V14.0,Pedal cycle driver injured in collision with heavy transport vehicle or bus in nontraffic accident
+V14.1,Pedal cycle passenger injured in collision with heavy transport vehicle or bus in nontraffic accident
+V14.2,Unspecified pedal cyclist injured in collision with heavy transport vehicle or bus in nontraffic accident
+V14.4,Pedal cycle driver injured in collision with heavy transport vehicle or bus in traffic accident
+V14.5,Pedal cycle passenger injured in collision with heavy transport vehicle or bus in traffic accident
+V16.0,Pedal cycle driver injured in collision with other nonmotor vehicle in nontraffic accident
+V16.2,Unspecified pedal cyclist injured in collision with other nonmotor vehicle in nontraffic accident
+V16.4,Pedal cycle driver injured in collision with other nonmotor vehicle in traffic accident
+V16.9,Unspecified pedal cyclist injured in collision with other nonmotor vehicle in traffic accident
+V17,Pedal cycle rider injured in collision with fixed or stationary object
+V17.0,Pedal cycle driver injured in collision with fixed or stationary object in nontraffic accident
+V17.1,Pedal cycle passenger injured in collision with fixed or stationary object in nontraffic accident
+V17.2,Unspecified pedal cyclist injured in collision with fixed or stationary object in nontraffic accident
+V17.3,Person boarding or alighting a pedal cycle injured in collision with fixed or stationary object
+V17.4,Pedal cycle driver injured in collision with fixed or stationary object in traffic accident
+V17.5,Pedal cycle passenger injured in collision with fixed or stationary object in traffic accident
+V17.9,Unspecified pedal cyclist injured in collision with fixed or stationary object in traffic accident
+V18,Pedal cycle rider injured in noncollision transport accident
+V18.0,Pedal cycle driver injured in noncollision transport accident in nontraffic accident
+V18.0XXA,"Pedal cycle driver injured in noncollision transport accident in nontraffic accident, initial encounter"
+V18.1,Pedal cycle passenger injured in noncollision transport accident in nontraffic accident
+V18.2,Unspecified pedal cyclist injured in noncollision transport accident in nontraffic accident
+V18.3,Person boarding or alighting a pedal cycle injured in noncollision transport accident
+V18.4,Pedal cycle driver injured in noncollision transport accident in traffic accident
+V18.5,Pedal cycle passenger injured in noncollision transport accident in traffic accident
+V18.9,Unspecified pedal cyclist injured in noncollision transport accident in traffic accident
+V19,Pedal cycle rider injured in other and unspecified transport accidents
+V19.0,Pedal cycle driver injured in collision with other and unspecified motor vehicles in nontraffic accident
+V19.00,Pedal cycle driver injured in collision with unspecified motor vehicles in nontraffic accident
+V19.09,Pedal cycle driver injured in collision with other motor vehicles in nontraffic accident
+V19.10,Pedal cycle passenger injured in collision with unspecified motor vehicles in nontraffic accident
+V19.19,Pedal cycle passenger injured in collision with other motor vehicles in nontraffic accident
+V19.2,Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in nontraffic accident
+V19.20,Unspecified pedal cyclist injured in collision with unspecified motor vehicles in nontraffic accident
+V19.29,Unspecified pedal cyclist injured in collision with other motor vehicles in nontraffic accident
+V19.3,Pedal cyclist (driver) (passenger) injured in unspecified nontraffic accident
+V19.3XXA,"Pedal cyclist (driver) (passenger) injured in unspecified nontraffic accident, initial encounter"
+V19.3XXS,"Pedal cyclist (driver) (passenger) injured in unspecified nontraffic accident, sequela"
+V19.4,Pedal cycle driver injured in collision with other and unspecified motor vehicles in traffic accident
+V19.40,Pedal cycle driver injured in collision with unspecified motor vehicles in traffic accident
+V19.49,Pedal cycle driver injured in collision with other motor vehicles in traffic accident
+V19.5,Pedal cycle passenger injured in collision with other and unspecified motor vehicles in traffic accident
+V19.50,Pedal cycle passenger injured in collision with unspecified motor vehicles in traffic accident
+V19.59,Pedal cycle passenger injured in collision with other motor vehicles in traffic accident
+V19.6,Unspecified pedal cyclist injured in collision with other and unspecified motor vehicles in traffic accident
+V19.60,Unspecified pedal cyclist injured in collision with unspecified motor vehicles in traffic accident
+V19.60XA,"Unspecified pedal cyclist injured in collision with unspecified motor vehicles in traffic accident, initial encounter"
+V19.69,Unspecified pedal cyclist injured in collision with other motor vehicles in traffic accident
+V19.69XA,"Unspecified pedal cyclist injured in collision with other motor vehicles in traffic accident, initial encounter"
+V19.8,Pedal cyclist (driver) (passenger) injured in other specified transport accidents
+V19.81,Pedal cyclist (driver) (passenger) injured in transport accident with military vehicle
+V19.88,Pedal cyclist (driver) (passenger) injured in other specified transport accidents
+V19.9,Pedal cyclist (driver) (passenger) injured in unspecified traffic accident
+V19.9XXA,"Pedal cyclist (driver) (passenger) injured in unspecified traffic accident, initial encounter"
+V20,Motorcycle rider injured in collision with pedestrian or animal
+V20.0,Motorcycle driver injured in collision with pedestrian or animal in nontraffic accident
+V20.1,Motorcycle passenger injured in collision with pedestrian or animal in nontraffic accident
+V20.2,Unspecified motorcycle rider injured in collision with pedestrian or animal in nontraffic accident
+V20.4,Motorcycle driver injured in collision with pedestrian or animal in traffic accident
+V20.49XA,"Other motorcycle driver injured in collision with pedestrian or animal in traffic accident, initial encounter"
+V20.5,Motorcycle passenger injured in collision with pedestrian or animal in traffic accident
+V20.9,Unspecified motorcycle rider injured in collision with pedestrian or animal in traffic accident
+V21.0,Motorcycle driver injured in collision with pedal cycle in nontraffic accident
+V21.4,Motorcycle driver injured in collision with pedal cycle in traffic accident
+V21.5,Motorcycle passenger injured in collision with pedal cycle in traffic accident
+V22.0,Motorcycle driver injured in collision with two- or three-wheeled motor vehicle in nontraffic accident
+V22.4,Motorcycle driver injured in collision with two- or three-wheeled motor vehicle in traffic accident
+V22.5,Motorcycle passenger injured in collision with two- or three-wheeled motor vehicle in traffic accident
+V23,"Motorcycle rider injured in collision with car, pick-up truck or van"
+V23.0,"Motorcycle driver injured in collision with car, pick-up truck or van in nontraffic accident"
+V23.01XA,"Electric (assisted) bicycle driver injured in collision with car, pick-up truck or van in nontraffic accident, initial encounter"
+V23.1,"Motorcycle passenger injured in collision with car, pick-up truck or van in nontraffic accident"
+V23.2,"Unspecified motorcycle rider injured in collision with car, pick-up truck or van in nontraffic accident"
+V23.3,"Person boarding or alighting a motorcycle injured in collision with car, pick-up truck or van"
+V23.4,"Motorcycle driver injured in collision with car, pick-up truck or van in traffic accident"
+V23.41XA,"Electric (assisted) bicycle driver injured in collision with car, pick-up truck or van in traffic accident, initial encounter"
+V23.49XA,"Other motorcycle driver injured in collision with car, pick-up truck or van in traffic accident, initial encounter"
+V23.5,"Motorcycle passenger injured in collision with car, pick-up truck or van in traffic accident"
+V23.59XA,"Other motorcycle passenger injured in collision with car, pick-up truck or van in traffic accident, initial encounter"
+V23.9,"Unspecified motorcycle rider injured in collision with car, pick-up truck or van in traffic accident"
+V24.0,Motorcycle driver injured in collision with heavy transport vehicle or bus in nontraffic accident
+V24.4,Motorcycle driver injured in collision with heavy transport vehicle or bus in traffic accident
+V24.5,Motorcycle passenger injured in collision with heavy transport vehicle or bus in traffic accident
+V24.9,Unspecified motorcycle rider injured in collision with heavy transport vehicle or bus in traffic accident
+V25.0,Motorcycle driver injured in collision with railway train or railway vehicle in nontraffic accident
+V25.1,Motorcycle passenger injured in collision with railway train or railway vehicle in nontraffic accident
+V25.4,Motorcycle driver injured in collision with railway train or railway vehicle in traffic accident
+V25.99XA,"Unspecified rider of other motorcycle injured in collision with railway train or railway vehicle in traffic accident, initial encounter"
+V26,Motorcycle rider injured in collision with other nonmotor vehicle
+V26.0,Motorcycle driver injured in collision with other nonmotor vehicle in nontraffic accident
+V26.1,Motorcycle passenger injured in collision with other nonmotor vehicle in nontraffic accident
+V26.4,Motorcycle driver injured in collision with other nonmotor vehicle in traffic accident
+V26.5,Motorcycle passenger injured in collision with other nonmotor vehicle in traffic accident
+V26.9,Unspecified motorcycle rider injured in collision with other nonmotor vehicle in traffic accident
+V26.99XA,"Unspecified rider of other motorcycle injured in collision with other nonmotor vehicle in traffic accident, initial encounter"
+V27,Motorcycle rider injured in collision with fixed or stationary object
+V27.0,Motorcycle driver injured in collision with fixed or stationary object in nontraffic accident
+V27.1,Motorcycle passenger injured in collision with fixed or stationary object in nontraffic accident
+V27.2,Unspecified motorcycle rider injured in collision with fixed or stationary object in nontraffic accident
+V27.3,Person boarding or alighting a motorcycle injured in collision with fixed or stationary object
+V27.4,Motorcycle driver injured in collision with fixed or stationary object in traffic accident
+V27.49XA,"Other motorcycle driver injured in collision with fixed or stationary object in traffic accident, initial encounter"
+V27.5,Motorcycle passenger injured in collision with fixed or stationary object in traffic accident
+V27.9,Unspecified motorcycle rider injured in collision with fixed or stationary object in traffic accident
+V28,Motorcycle rider injured in noncollision transport accident
+V28.0,Motorcycle driver injured in noncollision transport accident in nontraffic accident
+V28.1,Motorcycle passenger injured in noncollision transport accident in nontraffic accident
+V28.19XA,"Other motorcycle passenger injured in noncollision transport accident in nontraffic accident, initial encounter"
+V28.2,Unspecified motorcycle rider injured in noncollision transport accident in nontraffic accident
+V28.3,Person boarding or alighting a motorcycle injured in noncollision transport accident
+V28.4,Motorcycle driver injured in noncollision transport accident in traffic accident
+V28.49XA,"Other motorcycle driver injured in noncollision transport accident in traffic accident, initial encounter"
+V28.49XD,"Other motorcycle driver injured in noncollision transport accident in traffic accident, subsequent encounter"
+V28.5,Motorcycle passenger injured in noncollision transport accident in traffic accident
+V28.59XA,"Other motorcycle passenger injured in noncollision transport accident in traffic accident, initial encounter"
+V28.9,Unspecified motorcycle rider injured in noncollision transport accident in traffic accident
+V29,Motorcycle rider injured in other and unspecified transport accidents
+V29.0,Motorcycle driver injured in collision with other and unspecified motor vehicles in nontraffic accident
+V29.00,Motorcycle driver injured in collision with unspecified motor vehicles in nontraffic accident
+V29.09,Motorcycle driver injured in collision with other motor vehicles in nontraffic accident
+V29.1,Motorcycle passenger injured in collision with other and unspecified motor vehicles in nontraffic accident
+V29.10,Motorcycle passenger injured in collision with unspecified motor vehicles in nontraffic accident
+V29.19,Motorcycle passenger injured in collision with other motor vehicles in nontraffic accident
+V29.20,Unspecified motorcycle rider injured in collision with unspecified motor vehicles in nontraffic accident
+V29.3,Motorcycle rider (driver) (passenger) injured in unspecified nontraffic accident
+V29.31XA,"Electric (assisted) bicycle (driver) (passenger) injured in unspecified nontraffic accident, initial encounter"
+V29.4,Motorcycle driver injured in collision with other and unspecified motor vehicles in traffic accident
+V29.40,Motorcycle driver injured in collision with unspecified motor vehicles in traffic accident
+V29.49,Motorcycle driver injured in collision with other motor vehicles in traffic accident
+V29.498A,"Other motorcycle driver injured in collision with other motor vehicles in traffic accident, initial encounter"
+V29.498D,"Other motorcycle driver injured in collision with other motor vehicles in traffic accident, subsequent encounter"
+V29.5,Motorcycle passenger injured in collision with other and unspecified motor vehicles in traffic accident
+V29.50,Motorcycle passenger injured in collision with unspecified motor vehicles in traffic accident
+V29.59,Motorcycle passenger injured in collision with other motor vehicles in traffic accident
+V29.6,Unspecified motorcycle rider injured in collision with other and unspecified motor vehicles in traffic accident
+V29.60,Unspecified motorcycle rider injured in collision with unspecified motor vehicles in traffic accident
+V29.69,Unspecified motorcycle rider injured in collision with other motor vehicles in traffic accident
+V29.8,Motorcycle rider (driver) (passenger) injured in other specified transport accidents
+V29.81,Motorcycle rider (driver) (passenger) injured in transport accident with military vehicle
+V29.88,Motorcycle rider (driver) (passenger) injured in other specified transport accidents
+V29.9,Motorcycle rider (driver) (passenger) injured in unspecified traffic accident
+V29.91,Electric (assisted) bicycle rider (driver) (passenger) injured in unspecified traffic accident
+V29.91XA,"Electric (assisted) bicycle rider (driver) (passenger) injured in unspecified traffic accident, initial encounter"
+V30.0,Driver of three-wheeled motor vehicle injured in collision with pedestrian or animal in nontraffic accident
+V30.1,Passenger in three-wheeled motor vehicle injured in collision with pedestrian or animal in nontraffic accident
+V30.9,Unspecified occupant of three-wheeled motor vehicle injured in collision with pedestrian or animal in traffic accident
+V31.3,Unspecified occupant of three-wheeled motor vehicle injured in collision with pedal cycle in nontraffic accident
+V31.4,Person boarding or alighting a three-wheeled motor vehicle injured in collision with pedal cycle
+V31.6,Passenger in three-wheeled motor vehicle injured in collision with pedal cycle in traffic accident
+V32.1,Passenger in three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle in nontraffic accident
+V32.5,Driver of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle in traffic accident
+V32.6,Passenger in three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle in traffic accident
+V33.0,"Driver of three-wheeled motor vehicle injured in collision with car, pick-up truck or van in nontraffic accident"
+V33.1,"Passenger in three-wheeled motor vehicle injured in collision with car, pick-up truck or van in nontraffic accident"
+V33.5,"Driver of three-wheeled motor vehicle injured in collision with car, pick-up truck or van in traffic accident"
+V33.6,"Passenger in three-wheeled motor vehicle injured in collision with car, pick-up truck or van in traffic accident"
+V34.5,Driver of three-wheeled motor vehicle injured in collision with heavy transport vehicle or bus in traffic accident
+V35.0,Driver of three-wheeled motor vehicle injured in collision with railway train or railway vehicle in nontraffic accident
+V36.1,Passenger in three-wheeled motor vehicle injured in collision with other nonmotor vehicle in nontraffic accident
+V36.2,Person on outside of three-wheeled motor vehicle injured in collision with other nonmotor vehicle in nontraffic accident
+V36.5,Driver of three-wheeled motor vehicle injured in collision with other nonmotor vehicle in traffic accident
+V37.0,Driver of three-wheeled motor vehicle injured in collision with fixed or stationary object in nontraffic accident
+V37.1,Passenger in three-wheeled motor vehicle injured in collision with fixed or stationary object in nontraffic accident
+V37.5,Driver of three-wheeled motor vehicle injured in collision with fixed or stationary object in traffic accident
+V38.0,Driver of three-wheeled motor vehicle injured in noncollision transport accident in nontraffic accident
+V38.1,Passenger in three-wheeled motor vehicle injured in noncollision transport accident in nontraffic accident
+V38.4,Person boarding or alighting a three-wheeled motor vehicle injured in noncollision transport accident
+V38.5,Driver of three-wheeled motor vehicle injured in noncollision transport accident in traffic accident
+V38.6,Passenger in three-wheeled motor vehicle injured in noncollision transport accident in traffic accident
+V39,Occupant of three-wheeled motor vehicle injured in other and unspecified transport accidents
+V39.0,Driver of three-wheeled motor vehicle injured in collision with other and unspecified motor vehicles in nontraffic accident
+V39.1,Passenger in three-wheeled motor vehicle injured in collision with other and unspecified motor vehicles in nontraffic accident
+V39.19,Passenger in three-wheeled motor vehicle injured in collision with other motor vehicles in nontraffic accident
+V39.3,Occupant (driver) (passenger) of three-wheeled motor vehicle injured in unspecified nontraffic accident
+V39.4,Driver of three-wheeled motor vehicle injured in collision with other and unspecified motor vehicles in traffic accident
+V39.40,Driver of three-wheeled motor vehicle injured in collision with unspecified motor vehicles in traffic accident
+V39.49,Driver of three-wheeled motor vehicle injured in collision with other motor vehicles in traffic accident
+V39.50,Passenger in three-wheeled motor vehicle injured in collision with unspecified motor vehicles in traffic accident
+V39.8,Occupant (driver) (passenger) of three-wheeled motor vehicle injured in other specified transport accidents
+V39.89,Occupant (driver) (passenger) of three-wheeled motor vehicle injured in other specified transport accidents
+V39.9,Occupant (driver) (passenger) of three-wheeled motor vehicle injured in unspecified traffic accident
+V40,Car occupant injured in collision with pedestrian or animal
+V40.0,Car driver injured in collision with pedestrian or animal in nontraffic accident
+V40.1,Car passenger injured in collision with pedestrian or animal in nontraffic accident
+V40.2,Person on outside of car injured in collision with pedestrian or animal in nontraffic accident
+V40.3,Unspecified car occupant injured in collision with pedestrian or animal in nontraffic accident
+V40.5,Car driver injured in collision with pedestrian or animal in traffic accident
+V40.6,Car passenger injured in collision with pedestrian or animal in traffic accident
+V40.7,Person on outside of car injured in collision with pedestrian or animal in traffic accident
+V40.9,Unspecified car occupant injured in collision with pedestrian or animal in traffic accident
+V40.9XXA,"Unspecified car occupant injured in collision with pedestrian or animal in traffic accident, initial encounter"
+V41.0,Car driver injured in collision with pedal cycle in nontraffic accident
+V41.1,Car passenger injured in collision with pedal cycle in nontraffic accident
+V41.2,Person on outside of car injured in collision with pedal cycle in nontraffic accident
+V41.4,Person boarding or alighting a car injured in collision with pedal cycle
+V41.5,Car driver injured in collision with pedal cycle in traffic accident
+V41.6,Car passenger injured in collision with pedal cycle in traffic accident
+V41.7,Person on outside of car injured in collision with pedal cycle in traffic accident
+V41.9,Unspecified car occupant injured in collision with pedal cycle in traffic accident
+V42,Car occupant injured in collision with two- or three-wheeled motor vehicle
+V42.0,Car driver injured in collision with two- or three-wheeled motor vehicle in nontraffic accident
+V42.1,Car passenger injured in collision with two- or three-wheeled motor vehicle in nontraffic accident
+V42.2,Person on outside of car injured in collision with two- or three-wheeled motor vehicle in nontraffic accident
+V42.3,Unspecified car occupant injured in collision with two- or three-wheeled motor vehicle in nontraffic accident
+V42.5,Car driver injured in collision with two- or three-wheeled motor vehicle in traffic accident
+V42.6,Car passenger injured in collision with two- or three-wheeled motor vehicle in traffic accident
+V42.9,Unspecified car occupant injured in collision with two- or three-wheeled motor vehicle in traffic accident
+V43,"Car occupant injured in collision with car, pick-up truck or van"
+V43.0,"Car driver injured in collision with car, pick-up truck or van in nontraffic accident"
+V43.01,Car driver injured in collision with sport utility vehicle in nontraffic accident
+V43.02,Car driver injured in collision with other type car in nontraffic accident
+V43.03,Car driver injured in collision with pick-up truck in nontraffic accident
+V43.04,Car driver injured in collision with van in nontraffic accident
+V43.1,"Car passenger injured in collision with car, pick-up truck or van in nontraffic accident"
+V43.11,Car passenger injured in collision with sport utility vehicle in nontraffic accident
+V43.12,Car passenger injured in collision with other type car in nontraffic accident
+V43.13,Car passenger injured in collision with pick-up truck in nontraffic accident
+V43.14,Car passenger injured in collision with van in nontraffic accident
+V43.2,"Person on outside of car injured in collision with car, pick-up truck or van in nontraffic accident"
+V43.22,Person on outside of car injured in collision with other type car in nontraffic accident
+V43.23,Person on outside of car injured in collision with pick-up truck in nontraffic accident
+V43.3,"Unspecified car occupant injured in collision with car, pick-up truck or van in nontraffic accident"
+V43.31,Unspecified car occupant injured in collision with sport utility vehicle in nontraffic accident
+V43.32,Unspecified car occupant injured in collision with other type car in nontraffic accident
+V43.33,Unspecified car occupant injured in collision with pick-up truck in nontraffic accident
+V43.34,Unspecified car occupant injured in collision with van in nontraffic accident
+V43.4,"Person boarding or alighting a car injured in collision with car, pick-up truck or van"
+V43.42,Person boarding or alighting a car injured in collision with other type car
+V43.5,"Car driver injured in collision with car, pick-up truck or van in traffic accident"
+V43.51,Car driver injured in collision with sport utility vehicle in traffic accident
+V43.52,Car driver injured in collision with other type car in traffic accident
+V43.53,Car driver injured in collision with pick-up truck in traffic accident
+V43.54,Car driver injured in collision with van in traffic accident
+V43.6,"Car passenger injured in collision with car, pick-up truck or van in traffic accident"
+V43.61,Car passenger injured in collision with sport utility vehicle in traffic accident
+V43.62,Car passenger injured in collision with other type car in traffic accident
+V43.63,Car passenger injured in collision with pick-up truck in traffic accident
+V43.64,Car passenger injured in collision with van in traffic accident
+V43.7,"Person on outside of car injured in collision with car, pick-up truck or van in traffic accident"
+V43.71,Person on outside of car injured in collision with sport utility vehicle in traffic accident
+V43.72,Person on outside of car injured in collision with other type car in traffic accident
+V43.74,Person on outside of car injured in collision with van in traffic accident
+V43.9,"Unspecified car occupant injured in collision with car, pick-up truck or van in traffic accident"
+V43.91,Unspecified car occupant injured in collision with sport utility vehicle in traffic accident
+V43.92,Unspecified car occupant injured in collision with other type car in traffic accident
+V43.93,Unspecified car occupant injured in collision with pick-up truck in traffic accident
+V43.94,Unspecified car occupant injured in collision with van in traffic accident
+V44,Car occupant injured in collision with heavy transport vehicle or bus
+V44.0,Car driver injured in collision with heavy transport vehicle or bus in nontraffic accident
+V44.1,Car passenger injured in collision with heavy transport vehicle or bus in nontraffic accident
+V44.3,Unspecified car occupant injured in collision with heavy transport vehicle or bus in nontraffic accident
+V44.5,Car driver injured in collision with heavy transport vehicle or bus in traffic accident
+V44.6,Car passenger injured in collision with heavy transport vehicle or bus in traffic accident
+V44.7,Person on outside of car injured in collision with heavy transport vehicle or bus in traffic accident
+V44.9,Unspecified car occupant injured in collision with heavy transport vehicle or bus in traffic accident
+V45,Car occupant injured in collision with railway train or railway vehicle
+V45.0,Car driver injured in collision with railway train or railway vehicle in nontraffic accident
+V45.1,Car passenger injured in collision with railway train or railway vehicle in nontraffic accident
+V45.5,Car driver injured in collision with railway train or railway vehicle in traffic accident
+V45.6,Car passenger injured in collision with railway train or railway vehicle in traffic accident
+V45.9,Unspecified car occupant injured in collision with railway train or railway vehicle in traffic accident
+V46,Car occupant injured in collision with other nonmotor vehicle
+V46.0,Car driver injured in collision with other nonmotor vehicle in nontraffic accident
+V46.1,Car passenger injured in collision with other nonmotor vehicle in nontraffic accident
+V46.3,Unspecified car occupant injured in collision with other nonmotor vehicle in nontraffic accident
+V46.5,Car driver injured in collision with other nonmotor vehicle in traffic accident
+V46.6,Car passenger injured in collision with other nonmotor vehicle in traffic accident
+V46.9,Unspecified car occupant injured in collision with other nonmotor vehicle in traffic accident
+V47,Car occupant injured in collision with fixed or stationary object
+V47.0,Car driver injured in collision with fixed or stationary object in nontraffic accident
+V47.1,Car passenger injured in collision with fixed or stationary object in nontraffic accident
+V47.2,Person on outside of car injured in collision with fixed or stationary object in nontraffic accident
+V47.3,Unspecified car occupant injured in collision with fixed or stationary object in nontraffic accident
+V47.3XXA,"Unspecified car occupant injured in collision with fixed or stationary object in nontraffic accident, initial encounter"
+V47.4,Person boarding or alighting a car injured in collision with fixed or stationary object
+V47.5,Car driver injured in collision with fixed or stationary object in traffic accident
+V47.5XXA,"Car driver injured in collision with fixed or stationary object in traffic accident, initial encounter"
+V47.6,Car passenger injured in collision with fixed or stationary object in traffic accident
+V47.7,Person on outside of car injured in collision with fixed or stationary object in traffic accident
+V47.9,Unspecified car occupant injured in collision with fixed or stationary object in traffic accident
+V48,Car occupant injured in noncollision transport accident
+V48.0,Car driver injured in noncollision transport accident in nontraffic accident
+V48.1,Car passenger injured in noncollision transport accident in nontraffic accident
+V48.2,Person on outside of car injured in noncollision transport accident in nontraffic accident
+V48.3,Unspecified car occupant injured in noncollision transport accident in nontraffic accident
+V48.5,Car driver injured in noncollision transport accident in traffic accident
+V48.6,Car passenger injured in noncollision transport accident in traffic accident
+V48.7,Person on outside of car injured in noncollision transport accident in traffic accident
+V48.9,Unspecified car occupant injured in noncollision transport accident in traffic accident
+V49,Car occupant injured in other and unspecified transport accidents
+V49.0,Driver injured in collision with other and unspecified motor vehicles in nontraffic accident
+V49.00,Driver injured in collision with unspecified motor vehicles in nontraffic accident
+V49.09,Driver injured in collision with other motor vehicles in nontraffic accident
+V49.1,Passenger injured in collision with other and unspecified motor vehicles in nontraffic accident
+V49.10,Passenger injured in collision with unspecified motor vehicles in nontraffic accident
+V49.19,Passenger injured in collision with other motor vehicles in nontraffic accident
+V49.2,Unspecified car occupant injured in collision with other and unspecified motor vehicles in nontraffic accident
+V49.20,Unspecified car occupant injured in collision with unspecified motor vehicles in nontraffic accident
+V49.29,Unspecified car occupant injured in collision with other motor vehicles in nontraffic accident
+V49.3,Car occupant (driver) (passenger) injured in unspecified nontraffic accident
+V49.4,Driver injured in collision with other and unspecified motor vehicles in traffic accident
+V49.40,Driver injured in collision with unspecified motor vehicles in traffic accident
+V49.49,Driver injured in collision with other motor vehicles in traffic accident
+V49.5,Passenger injured in collision with other and unspecified motor vehicles in traffic accident
+V49.50,Passenger injured in collision with unspecified motor vehicles in traffic accident
+V49.59,Passenger injured in collision with other motor vehicles in traffic accident
+V49.6,Unspecified car occupant injured in collision with other and unspecified motor vehicles in traffic accident
+V49.60,Unspecified car occupant injured in collision with unspecified motor vehicles in traffic accident
+V49.60XA,"Unspecified car occupant injured in collision with unspecified motor vehicles in traffic accident, initial encounter"
+V49.69,Unspecified car occupant injured in collision with other motor vehicles in traffic accident
+V49.8,Car occupant (driver) (passenger) injured in other specified transport accidents
+V49.81,Car occupant (driver) (passenger) injured in transport accident with military vehicle
+V49.88,Car occupant (driver) (passenger) injured in other specified transport accidents
+V49.9,Car occupant (driver) (passenger) injured in unspecified traffic accident
+V49.9XXA,"Car occupant (driver) (passenger) injured in unspecified traffic accident, initial encounter"
+V50,Occupant of pick-up truck or van injured in collision with pedestrian or animal
+V50.0,Driver of pick-up truck or van injured in collision with pedestrian or animal in nontraffic accident
+V50.1,Passenger in pick-up truck or van injured in collision with pedestrian or animal in nontraffic accident
+V50.5,Driver of pick-up truck or van injured in collision with pedestrian or animal in traffic accident
+V50.6,Passenger in pick-up truck or van injured in collision with pedestrian or animal in traffic accident
+V50.9,Unspecified occupant of pick-up truck or van injured in collision with pedestrian or animal in traffic accident
+V51.1,Passenger in pick-up truck or van injured in collision with pedal cycle in nontraffic accident
+V51.5,Driver of pick-up truck or van injured in collision with pedal cycle in traffic accident
+V52.0,Driver of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle in nontraffic accident
+V52.1,Passenger in pick-up truck or van injured in collision with two- or three-wheeled motor vehicle in nontraffic accident
+V52.5,Driver of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle in traffic accident
+V52.6,Passenger in pick-up truck or van injured in collision with two- or three-wheeled motor vehicle in traffic accident
+V52.7,Person on outside of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle in traffic accident
+V53,"Occupant of pick-up truck or van injured in collision with car, pick-up truck or van"
+V53.0,"Driver of pick-up truck or van injured in collision with car, pick-up truck or van in nontraffic accident"
+V53.1,"Passenger in pick-up truck or van injured in collision with car, pick-up truck or van in nontraffic accident"
+V53.2,"Person on outside of pick-up truck or van injured in collision with car, pick-up truck or van in nontraffic accident"
+V53.3,"Unspecified occupant of pick-up truck or van injured in collision with car, pick-up truck or van in nontraffic accident"
+V53.5,"Driver of pick-up truck or van injured in collision with car, pick-up truck or van in traffic accident"
+V53.6,"Passenger in pick-up truck or van injured in collision with car, pick-up truck or van in traffic accident"
+V53.7,"Person on outside of pick-up truck or van injured in collision with car, pick-up truck or van in traffic accident"
+V53.9,"Unspecified occupant of pick-up truck or van injured in collision with car, pick-up truck or van in traffic accident"
+V54,Occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus
+V54.0,Driver of pick-up truck or van injured in collision with heavy transport vehicle or bus in nontraffic accident
+V54.1,Passenger in pick-up truck or van injured in collision with heavy transport vehicle or bus in nontraffic accident
+V54.5,Driver of pick-up truck or van injured in collision with heavy transport vehicle or bus in traffic accident
+V54.6,Passenger in pick-up truck or van injured in collision with heavy transport vehicle or bus in traffic accident
+V54.9,Unspecified occupant of pick-up truck or van injured in collision with heavy transport vehicle or bus in traffic accident
+V55.0,Driver of pick-up truck or van injured in collision with railway train or railway vehicle in nontraffic accident
+V55.5,Driver of pick-up truck or van injured in collision with railway train or railway vehicle in traffic accident
+V56,Occupant of pick-up truck or van injured in collision with other nonmotor vehicle
+V56.0,Driver of pick-up truck or van injured in collision with other nonmotor vehicle in nontraffic accident
+V56.1,Passenger in pick-up truck or van injured in collision with other nonmotor vehicle in nontraffic accident
+V56.3,Unspecified occupant of pick-up truck or van injured in collision with other nonmotor vehicle in nontraffic accident
+V56.5,Driver of pick-up truck or van injured in collision with other nonmotor vehicle in traffic accident
+V56.6,Passenger in pick-up truck or van injured in collision with other nonmotor vehicle in traffic accident
+V57,Occupant of pick-up truck or van injured in collision with fixed or stationary object
+V57.0,Driver of pick-up truck or van injured in collision with fixed or stationary object in nontraffic accident
+V57.1,Passenger in pick-up truck or van injured in collision with fixed or stationary object in nontraffic accident
+V57.3,Unspecified occupant of pick-up truck or van injured in collision with fixed or stationary object in nontraffic accident
+V57.5,Driver of pick-up truck or van injured in collision with fixed or stationary object in traffic accident
+V57.6,Passenger in pick-up truck or van injured in collision with fixed or stationary object in traffic accident
+V57.9,Unspecified occupant of pick-up truck or van injured in collision with fixed or stationary object in traffic accident
+V58.0,Driver of pick-up truck or van injured in noncollision transport accident in nontraffic accident
+V58.1,Passenger in pick-up truck or van injured in noncollision transport accident in nontraffic accident
+V58.2,Person on outside of pick-up truck or van injured in noncollision transport accident in nontraffic accident
+V58.3,Unspecified occupant of pick-up truck or van injured in noncollision transport accident in nontraffic accident
+V58.4,Person boarding or alighting a pick-up truck or van injured in noncollision transport accident
+V58.5,Driver of pick-up truck or van injured in noncollision transport accident in traffic accident
+V58.6,Passenger in pick-up truck or van injured in noncollision transport accident in traffic accident
+V58.9,Unspecified occupant of pick-up truck or van injured in noncollision transport accident in traffic accident
+V59,Occupant of pick-up truck or van injured in other and unspecified transport accidents
+V59.0,Driver of pick-up truck or van injured in collision with other and unspecified motor vehicles in nontraffic accident
+V59.00,Driver of pick-up truck or van injured in collision with unspecified motor vehicles in nontraffic accident
+V59.09,Driver of pick-up truck or van injured in collision with other motor vehicles in nontraffic accident
+V59.1,Passenger in pick-up truck or van injured in collision with other and unspecified motor vehicles in nontraffic accident
+V59.10,Passenger in pick-up truck or van injured in collision with unspecified motor vehicles in nontraffic accident
+V59.19,Passenger in pick-up truck or van injured in collision with other motor vehicles in nontraffic accident
+V59.20,Unspecified occupant of pick-up truck or van injured in collision with unspecified motor vehicles in nontraffic accident
+V59.29,Unspecified occupant of pick-up truck or van injured in collision with other motor vehicles in nontraffic accident
+V59.3,Occupant (driver) (passenger) of pick-up truck or van injured in unspecified nontraffic accident
+V59.4,Driver of pick-up truck or van injured in collision with other and unspecified motor vehicles in traffic accident
+V59.40,Driver of pick-up truck or van injured in collision with unspecified motor vehicles in traffic accident
+V59.49,Driver of pick-up truck or van injured in collision with other motor vehicles in traffic accident
+V59.5,Passenger in pick-up truck or van injured in collision with other and unspecified motor vehicles in traffic accident
+V59.50,Passenger in pick-up truck or van injured in collision with unspecified motor vehicles in traffic accident
+V59.59,Passenger in pick-up truck or van injured in collision with other motor vehicles in traffic accident
+V59.6,Unspecified occupant of pick-up truck or van injured in collision with other and unspecified motor vehicles in traffic accident
+V59.60,Unspecified occupant of pick-up truck or van injured in collision with unspecified motor vehicles in traffic accident
+V59.69,Unspecified occupant of pick-up truck or van injured in collision with other motor vehicles in traffic accident
+V59.8,Occupant (driver) (passenger) of pick-up truck or van injured in other specified transport accidents
+V59.81,Occupant (driver) (passenger) of pick-up truck or van injured in transport accident with military vehicle
+V59.88,Occupant (driver) (passenger) of pick-up truck or van injured in other specified transport accidents
+V59.9,Occupant (driver) (passenger) of pick-up truck or van injured in unspecified traffic accident
+V60.1,Passenger in heavy transport vehicle injured in collision with pedestrian or animal in nontraffic accident
+V60.2,Person on outside of heavy transport vehicle injured in collision with pedestrian or animal in nontraffic accident
+V60.9,Unspecified occupant of heavy transport vehicle injured in collision with pedestrian or animal in traffic accident
+V62.0,Driver of heavy transport vehicle injured in collision with two- or three-wheeled motor vehicle in nontraffic accident
+V63.0,"Driver of heavy transport vehicle injured in collision with car, pick-up truck or van in nontraffic accident"
+V63.1,"Passenger in heavy transport vehicle injured in collision with car, pick-up truck or van in nontraffic accident"
+V63.3,"Unspecified occupant of heavy transport vehicle injured in collision with car, pick-up truck or van in nontraffic accident"
+V63.5,"Driver of heavy transport vehicle injured in collision with car, pick-up truck or van in traffic accident"
+V63.6,"Passenger in heavy transport vehicle injured in collision with car, pick-up truck or van in traffic accident"
+V63.7,"Person on outside of heavy transport vehicle injured in collision with car, pick-up truck or van in traffic accident"
+V64,Occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus
+V64.0,Driver of heavy transport vehicle injured in collision with heavy transport vehicle or bus in nontraffic accident
+V64.1,Passenger in heavy transport vehicle injured in collision with heavy transport vehicle or bus in nontraffic accident
+V64.4,Person boarding or alighting a heavy transport vehicle injured in collision with heavy transport vehicle or bus while boarding or alighting
+V64.5,Driver of heavy transport vehicle injured in collision with heavy transport vehicle or bus in traffic accident
+V64.6,Passenger in heavy transport vehicle injured in collision with heavy transport vehicle or bus in traffic accident
+V64.9,Unspecified occupant of heavy transport vehicle injured in collision with heavy transport vehicle or bus in traffic accident
+V65.0,Driver of heavy transport vehicle injured in collision with railway train or railway vehicle in nontraffic accident
+V65.5,Driver of heavy transport vehicle injured in collision with railway train or railway vehicle in traffic accident
+V65.6,Passenger in heavy transport vehicle injured in collision with railway train or railway vehicle in traffic accident
+V66.0,Driver of heavy transport vehicle injured in collision with other nonmotor vehicle in nontraffic accident
+V66.1,Passenger in heavy transport vehicle injured in collision with other nonmotor vehicle in nontraffic accident
+V66.2,Person on outside of heavy transport vehicle injured in collision with other nonmotor vehicle in nontraffic accident
+V66.3,Unspecified occupant of heavy transport vehicle injured in collision with other nonmotor vehicle in nontraffic accident
+V66.5,Driver of heavy transport vehicle injured in collision with other nonmotor vehicle in traffic accident
+V66.6,Passenger in heavy transport vehicle injured in collision with other nonmotor vehicle in traffic accident
+V67,Occupant of heavy transport vehicle injured in collision with fixed or stationary object
+V67.0,Driver of heavy transport vehicle injured in collision with fixed or stationary object in nontraffic accident
+V67.1,Passenger in heavy transport vehicle injured in collision with fixed or stationary object in nontraffic accident
+V67.3,Unspecified occupant of heavy transport vehicle injured in collision with fixed or stationary object in nontraffic accident
+V67.5,Driver of heavy transport vehicle injured in collision with fixed or stationary object in traffic accident
+V67.6,Passenger in heavy transport vehicle injured in collision with fixed or stationary object in traffic accident
+V68.0,Driver of heavy transport vehicle injured in noncollision transport accident in nontraffic accident
+V68.1,Passenger in heavy transport vehicle injured in noncollision transport accident in nontraffic accident
+V68.2,Person on outside of heavy transport vehicle injured in noncollision transport accident in nontraffic accident
+V68.3,Unspecified occupant of heavy transport vehicle injured in noncollision transport accident in nontraffic accident
+V68.5,Driver of heavy transport vehicle injured in noncollision transport accident in traffic accident
+V68.6,Passenger in heavy transport vehicle injured in noncollision transport accident in traffic accident
+V68.7,Person on outside of heavy transport vehicle injured in noncollision transport accident in traffic accident
+V68.9,Unspecified occupant of heavy transport vehicle injured in noncollision transport accident in traffic accident
+V69,Occupant of heavy transport vehicle injured in other and unspecified transport accidents
+V69.0,Driver of heavy transport vehicle injured in collision with other and unspecified motor vehicles in nontraffic accident
+V69.00,Driver of heavy transport vehicle injured in collision with unspecified motor vehicles in nontraffic accident
+V69.09,Driver of heavy transport vehicle injured in collision with other motor vehicles in nontraffic accident
+V69.1,Passenger in heavy transport vehicle injured in collision with other and unspecified motor vehicles in nontraffic accident
+V69.3,Occupant (driver) (passenger) of heavy transport vehicle injured in unspecified nontraffic accident
+V69.4,Driver of heavy transport vehicle injured in collision with other and unspecified motor vehicles in traffic accident
+V69.40,Driver of heavy transport vehicle injured in collision with unspecified motor vehicles in traffic accident
+V69.49,Driver of heavy transport vehicle injured in collision with other motor vehicles in traffic accident
+V69.5,Passenger in heavy transport vehicle injured in collision with other and unspecified motor vehicles in traffic accident
+V69.50,Passenger in heavy transport vehicle injured in collision with unspecified motor vehicles in traffic accident
+V69.59,Passenger in heavy transport vehicle injured in collision with other motor vehicles in traffic accident
+V69.60,Unspecified occupant of heavy transport vehicle injured in collision with unspecified motor vehicles in traffic accident
+V69.8,Occupant (driver) (passenger) of heavy transport vehicle injured in other specified transport accidents
+V69.81,Occupant (driver) (passenger) of heavy transport vehicle injured in transport accidents with military vehicle
+V69.88,Occupant (driver) (passenger) of heavy transport vehicle injured in other specified transport accidents
+V69.9,Occupant (driver) (passenger) of heavy transport vehicle injured in unspecified traffic accident
+V70.0,Driver of bus injured in collision with pedestrian or animal in nontraffic accident
+V70.5,Driver of bus injured in collision with pedestrian or animal in traffic accident
+V70.9,Unspecified occupant of bus injured in collision with pedestrian or animal in traffic accident
+V71.0,Driver of bus injured in collision with pedal cycle in nontraffic accident
+V72.5,Driver of bus injured in collision with two- or three-wheeled motor vehicle in traffic accident
+V73,"Bus occupant injured in collision with car, pick-up truck or van"
+V73.0,"Driver of bus injured in collision with car, pick-up truck or van in nontraffic accident"
+V73.5,"Driver of bus injured in collision with car, pick-up truck or van in traffic accident"
+V73.6,"Passenger on bus injured in collision with car, pick-up truck or van in traffic accident"
+V73.9,"Unspecified occupant of bus injured in collision with car, pick-up truck or van in traffic accident"
+V74.0,Driver of bus injured in collision with heavy transport vehicle or bus in nontraffic accident
+V74.5,Driver of bus injured in collision with heavy transport vehicle or bus in traffic accident
+V74.6,Passenger on bus injured in collision with heavy transport vehicle or bus in traffic accident
+V76.0,Driver of bus injured in collision with other nonmotor vehicle in nontraffic accident
+V76.1,Passenger on bus injured in collision with other nonmotor vehicle in nontraffic accident
+V76.2,Person on outside of bus injured in collision with other nonmotor vehicle in nontraffic accident
+V76.6,Passenger on bus injured in collision with other nonmotor vehicle in traffic accident
+V77.0,Driver of bus injured in collision with fixed or stationary object in nontraffic accident
+V77.1,Passenger on bus injured in collision with fixed or stationary object in nontraffic accident
+V77.4,Person boarding or alighting from bus injured in collision with fixed or stationary object
+V77.5,Driver of bus injured in collision with fixed or stationary object in traffic accident
+V77.6,Passenger on bus injured in collision with fixed or stationary object in traffic accident
+V78.0,Driver of bus injured in noncollision transport accident in nontraffic accident
+V78.1,Passenger on bus injured in noncollision transport accident in nontraffic accident
+V78.3,Unspecified occupant of bus injured in noncollision transport accident in nontraffic accident
+V78.6,Passenger on bus injured in noncollision transport accident in traffic accident
+V79,Bus occupant injured in other and unspecified transport accidents
+V79.0,Driver of bus injured in collision with other and unspecified motor vehicles in nontraffic accident
+V79.00,Driver of bus injured in collision with unspecified motor vehicles in nontraffic accident
+V79.1,Passenger on bus injured in collision with other and unspecified motor vehicles in nontraffic accident
+V79.19,Passenger on bus injured in collision with other motor vehicles in nontraffic accident
+V79.2,Unspecified bus occupant injured in collision with other and unspecified motor vehicles in nontraffic accident
+V79.20,Unspecified bus occupant injured in collision with unspecified motor vehicles in nontraffic accident
+V79.3,Bus occupant (driver) (passenger) injured in unspecified nontraffic accident
+V79.4,Driver of bus injured in collision with other and unspecified motor vehicles in traffic accident
+V79.40,Driver of bus injured in collision with unspecified motor vehicles in traffic accident
+V79.49,Driver of bus injured in collision with other motor vehicles in traffic accident
+V79.5,Passenger on bus injured in collision with other and unspecified motor vehicles in traffic accident
+V79.50,Passenger on bus injured in collision with unspecified motor vehicles in traffic accident
+V79.59,Passenger on bus injured in collision with other motor vehicles in traffic accident
+V79.6,Unspecified bus occupant injured in collision with other and unspecified motor vehicles in traffic accident
+V79.60,Unspecified bus occupant injured in collision with unspecified motor vehicles in traffic accident
+V79.69,Unspecified bus occupant injured in collision with other motor vehicles in traffic accident
+V79.8,Bus occupant (driver) (passenger) injured in other specified transport accidents
+V79.81,Bus occupant (driver) (passenger) injured in transport accidents with military vehicle
+V79.88,Bus occupant (driver) (passenger) injured in other specified transport accidents
+V79.9,Bus occupant (driver) (passenger) injured in unspecified traffic accident
+V80.0,Animal-rider or occupant of animal drawn vehicle injured by fall from or being thrown from animal or animal-drawn vehicle in noncollision accident
+V80.01,Animal-rider injured by fall from or being thrown from animal in noncollision accident
+V80.010,Animal-rider injured by fall from or being thrown from horse in noncollision accident
+V80.010A,"Animal-rider injured by fall from or being thrown from horse in noncollision accident, initial encounter"
+V80.018,Animal-rider injured by fall from or being thrown from other animal in noncollision accident
+V80.018A,"Animal-rider injured by fall from or being thrown from other animal in noncollision accident, initial encounter"
+V80.018D,"Animal-rider injured by fall from or being thrown from other animal in noncollision accident, subsequent encounter"
+V80.02,Occupant of animal-drawn vehicle injured by fall from or being thrown from animal-drawn vehicle in noncollision accident
+V80.11,Animal-rider injured in collision with pedestrian or animal
+V80.21,Animal-rider injured in collision with pedal cycle
+V80.22,Occupant of animal-drawn vehicle injured in collision with pedal cycle
+V80.31,Animal-rider injured in collision with two- or three-wheeled motor vehicle
+V80.4,"Animal-rider or occupant of animal-drawn vehicle injured in collision with car, pick-up truck, van, heavy transport vehicle or bus"
+V80.41,"Animal-rider injured in collision with car, pick-up truck, van, heavy transport vehicle or bus"
+V80.42,"Occupant of animal-drawn vehicle injured in collision with car, pick-up truck, van, heavy transport vehicle or bus"
+V80.5,Animal-rider or occupant of animal-drawn vehicle injured in collision with other specified motor vehicle
+V80.51,Animal-rider injured in collision with other specified motor vehicle
+V80.52,Occupant of animal-drawn vehicle injured in collision with other specified motor vehicle
+V80.6,Animal-rider or occupant of animal-drawn vehicle injured in collision with railway train or railway vehicle
+V80.61,Animal-rider injured in collision with railway train or railway vehicle
+V80.71,Animal-rider or occupant of animal-drawn vehicle injured in collision with animal being ridden
+V80.710,Animal-rider injured in collision with other animal being ridden
+V80.72,Animal-rider or occupant of animal-drawn vehicle injured in collision with other animal-drawn vehicle
+V80.720,Animal-rider injured in collision with animal-drawn vehicle
+V80.730,Animal-rider injured in collision with streetcar
+V80.79,Animal-rider or occupant of animal-drawn vehicle injured in collision with other nonmotor vehicles
+V80.790,Animal-rider injured in collision with other nonmotor vehicles
+V80.8,Animal-rider or occupant of animal-drawn vehicle injured in collision with fixed or stationary object
+V80.81,Animal-rider injured in collision with fixed or stationary object
+V80.9,Animal-rider or occupant of animal-drawn vehicle injured in other and unspecified transport accidents
+V80.91,Animal-rider injured in other and unspecified transport accidents
+V80.918,Animal-rider injured in other transport accident
+V80.919,Animal-rider injured in unspecified transport accident
+V80.92,Occupant of animal-drawn vehicle injured in other and unspecified transport accidents
+V80.928,Occupant of animal-drawn vehicle injured in other transport accident
+V80.929A,"Occupant of animal-drawn vehicle injured in unspecified transport accident, initial encounter"
+V81,Occupant of railway train or railway vehicle injured in transport accident
+V81.1,Occupant of railway train or railway vehicle injured in collision with motor vehicle in traffic accident
+V81.2,Occupant of railway train or railway vehicle injured in collision with or hit by rolling stock
+V81.3,Occupant of railway train or railway vehicle injured in collision with other object
+V81.4,Person injured while boarding or alighting from railway train or railway vehicle
+V81.5,Occupant of railway train or railway vehicle injured by fall in railway train or railway vehicle
+V81.6,Occupant of railway train or railway vehicle injured by fall from railway train or railway vehicle
+V81.82,Occupant of railway train or railway vehicle injured due to object falling onto train
+V81.89,Occupant of railway train or railway vehicle injured due to other specified railway accident
+V81.9,Occupant of railway train or railway vehicle injured in unspecified railway accident
+V81.9XXA,"Occupant of railway train or railway vehicle injured in unspecified railway accident, initial encounter"
+V82.0,Occupant of streetcar injured in collision with motor vehicle in nontraffic accident
+V82.1,Occupant of streetcar injured in collision with motor vehicle in traffic accident
+V82.2,Occupant of streetcar injured in collision with or hit by rolling stock
+V82.3,Occupant of streetcar injured in collision with other object
+V82.4,Person injured while boarding or alighting from streetcar
+V82.5,Occupant of streetcar injured by fall in streetcar
+V82.6,Occupant of streetcar injured by fall from streetcar
+V82.8,Occupant of streetcar injured in other specified transport accidents
+V82.9,Occupant of streetcar injured in unspecified traffic accident
+V83,Occupant of special vehicle mainly used on industrial premises injured in transport accident
+V83.0,Driver of special industrial vehicle injured in traffic accident
+V83.1,Passenger of special industrial vehicle injured in traffic accident
+V83.2,Person on outside of special industrial vehicle injured in traffic accident
+V83.3,Unspecified occupant of special industrial vehicle injured in traffic accident
+V83.5,Driver of special industrial vehicle injured in nontraffic accident
+V83.7,Person on outside of special industrial vehicle injured in nontraffic accident
+V83.9,Unspecified occupant of special industrial vehicle injured in nontraffic accident
+V84,Occupant of special vehicle mainly used in agriculture injured in transport accident
+V84.0,Driver of special agricultural vehicle injured in traffic accident
+V84.1,Passenger of special agricultural vehicle injured in traffic accident
+V84.2,Person on outside of special agricultural vehicle injured in traffic accident
+V84.3,Unspecified occupant of special agricultural vehicle injured in traffic accident
+V84.5,Driver of special agricultural vehicle injured in nontraffic accident
+V84.6,Passenger of special agricultural vehicle injured in nontraffic accident
+V84.7,Person on outside of special agricultural vehicle injured in nontraffic accident
+V84.9,Unspecified occupant of special agricultural vehicle injured in nontraffic accident
+V85,Occupant of special construction vehicle injured in transport accident
+V85.0,Driver of special construction vehicle injured in traffic accident
+V85.1,Passenger of special construction vehicle injured in traffic accident
+V85.2,Person on outside of special construction vehicle injured in traffic accident
+V85.3,Unspecified occupant of special construction vehicle injured in traffic accident
+V85.4,Person injured while boarding or alighting from special construction vehicle
+V85.5,Driver of special construction vehicle injured in nontraffic accident
+V85.6,Passenger of special construction vehicle injured in nontraffic accident
+V85.7,Person on outside of special construction vehicle injured in nontraffic accident
+V85.9,Unspecified occupant of special construction vehicle injured in nontraffic accident
+V86,"Occupant of special all-terrain or other off-road motor vehicle, injured in transport accident"
+V86.0,Driver of special all-terrain or other off-road motor vehicle injured in traffic accident
+V86.01,Driver of ambulance or fire engine injured in traffic accident
+V86.02,Driver of snowmobile injured in traffic accident
+V86.03,Driver of dune buggy injured in traffic accident
+V86.04,Driver of military vehicle injured in traffic accident
+V86.05,Driver of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident
+V86.05XA,"Driver of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident, initial encounter"
+V86.06XA,"Driver of dirt bike or motor/cross bike injured in traffic accident, initial encounter"
+V86.09,Driver of other special all-terrain or other off-road motor vehicle injured in traffic accident
+V86.1,Passenger of special all-terrain or other off-road motor vehicle injured in traffic accident
+V86.11,Passenger of ambulance or fire engine injured in traffic accident
+V86.12,Passenger of snowmobile injured in traffic accident
+V86.12XA,"Passenger of snowmobile injured in traffic accident, initial encounter"
+V86.13,Passenger of dune buggy injured in traffic accident
+V86.15,Passenger of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident
+V86.19,Passenger of other special all-terrain or other off-road motor vehicle injured in traffic accident
+V86.21,Person on outside of ambulance or fire engine injured in traffic accident
+V86.29,Person on outside of other special all-terrain or other off-road motor vehicle injured in traffic accident
+V86.3,Unspecified occupant of special all-terrain or other off-road motor vehicle injured in traffic accident
+V86.31,Unspecified occupant of ambulance or fire engine injured in traffic accident
+V86.32,Unspecified occupant of snowmobile injured in traffic accident
+V86.34,Unspecified occupant of military vehicle injured in traffic accident
+V86.35,Unspecified occupant of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident
+V86.35XA,"Unspecified occupant of 3- or 4- wheeled all-terrain vehicle (ATV) injured in traffic accident, initial encounter"
+V86.36,Unspecified occupant of dirt bike or motor/cross bike injured in traffic accident
+V86.39,Unspecified occupant of other special all-terrain or other off-road motor vehicle injured in traffic accident
+V86.4,Person injured while boarding or alighting from special all-terrain or other off-road motor vehicle
+V86.41,Person injured while boarding or alighting from ambulance or fire engine
+V86.42,Person injured while boarding or alighting from snowmobile
+V86.49,Person injured while boarding or alighting from other special all-terrain or other off-road motor vehicle
+V86.5,Driver of special all-terrain or other off-road motor vehicle injured in nontraffic accident
+V86.51,Driver of ambulance or fire engine injured in nontraffic accident
+V86.52,Driver of snowmobile injured in nontraffic accident
+V86.53,Driver of dune buggy injured in nontraffic accident
+V86.55,Driver of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident
+V86.55XA,"Driver of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident, initial encounter"
+V86.56XA,"Driver of dirt bike or motor/cross bike injured in nontraffic accident, initial encounter"
+V86.59,Driver of other special all-terrain or other off-road motor vehicle injured in nontraffic accident
+V86.6,Passenger of special all-terrain or other off-road motor vehicle injured in nontraffic accident
+V86.61,Passenger of ambulance or fire engine injured in nontraffic accident
+V86.62,Passenger of snowmobile injured in nontraffic accident
+V86.63,Passenger of dune buggy injured in nontraffic accident
+V86.65,Passenger of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident
+V86.69,Passenger of other special all-terrain or other off-road motor vehicle injured in nontraffic accident
+V86.7,Person on outside of special all-terrain or other off-road motor vehicle injured in nontraffic accident
+V86.71,Person on outside of ambulance or fire engine injured in nontraffic accident
+V86.72,Person on outside of snowmobile injured in nontraffic accident
+V86.79,Person on outside of other special all-terrain or other off-road motor vehicles injured in nontraffic accident
+V86.9,Unspecified occupant of special all-terrain or other off-road motor vehicle injured in nontraffic accident
+V86.91,Unspecified occupant of ambulance or fire engine injured in nontraffic accident
+V86.92,Unspecified occupant of snowmobile injured in nontraffic accident
+V86.92XA,"Unspecified occupant of snowmobile injured in nontraffic accident, initial encounter"
+V86.93,Unspecified occupant of dune buggy injured in nontraffic accident
+V86.94,Unspecified occupant of military vehicle injured in nontraffic accident
+V86.95,Unspecified occupant of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident
+V86.95XA,"Unspecified occupant of 3- or 4- wheeled all-terrain vehicle (ATV) injured in nontraffic accident, initial encounter"
+V86.96,Unspecified occupant of dirt bike or motor/cross bike injured in nontraffic accident
+V86.96XA,"Unspecified occupant of dirt bike or motor/cross bike injured in nontraffic accident, initial encounter"
+V86.99,Unspecified occupant of other special all-terrain or other off-road motor vehicle injured in nontraffic accident
+V87,Traffic accident of specified type but victim's mode of transport unknown
+V87.0,Person injured in collision between car and two- or three-wheeled powered vehicle (traffic)
+V87.1,Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)
+V87.2,Person injured in collision between car and pick-up truck or van (traffic)
+V87.3,Person injured in collision between car and bus (traffic)
+V87.4,Person injured in collision between car and heavy transport vehicle (traffic)
+V87.6,Person injured in collision between railway train or railway vehicle and car (traffic)
+V87.7,Person injured in collision between other specified motor vehicles (traffic)
+V87.7XXA,"Person injured in collision between other specified motor vehicles (traffic), initial encounter"
+V87.8,Person injured in other specified noncollision transport accidents involving motor vehicle (traffic)
+V87.8XXA,"Person injured in other specified noncollision transport accidents involving motor vehicle (traffic), initial encounter"
+V87.9,Person injured in other specified (collision)(noncollision) transport accidents involving nonmotor vehicle (traffic)
+V88,Nontraffic accident of specified type but victim's mode of transport unknown
+V88.0,"Person injured in collision between car and two- or three-wheeled motor vehicle, nontraffic"
+V88.1,"Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle, nontraffic"
+V88.2,"Person injured in collision between car and pick-up truck or van, nontraffic"
+V88.3,"Person injured in collision between car and bus, nontraffic"
+V88.4,"Person injured in collision between car and heavy transport vehicle, nontraffic"
+V88.6,"Person injured in collision between railway train or railway vehicle and car, nontraffic"
+V88.7,"Person injured in collision between other specified motor vehicle, nontraffic"
+V88.8,"Person injured in other specified noncollision transport accidents involving motor vehicle, nontraffic"
+V88.9,"Person injured in other specified (collision)(noncollision) transport accidents involving nonmotor vehicle, nontraffic"
+V88.9XXA,"Person injured in other specified (collision)(noncollision) transport accidents involving nonmotor vehicle, nontraffic, initial encounter"
+V89,"Motor- or nonmotor-vehicle accident, type of vehicle unspecified"
+V89.0,"Person injured in unspecified motor-vehicle accident, nontraffic"
+V89.0XXA,"Person injured in unspecified motor-vehicle accident, nontraffic, initial encounter"
+V89.1,"Person injured in unspecified nonmotor-vehicle accident, nontraffic"
+V89.2,"Person injured in unspecified motor-vehicle accident, traffic"
+V89.2XXA,"Person injured in unspecified motor-vehicle accident, traffic, initial encounter"
+V89.3,"Person injured in unspecified nonmotor-vehicle accident, traffic"
+V89.9,Person injured in unspecified vehicle accident
+V90,Drowning and submersion due to accident to watercraft
+V90.04,Drowning and submersion due to sailboat overturning
+V90.05,Drowning and submersion due to canoe or kayak overturning
+V90.08,Drowning and submersion due to other unpowered watercraft overturning
+V90.21,Drowning and submersion due to falling or jumping from burning passenger ship
+V90.24,Drowning and submersion due to falling or jumping from burning sailboat
+V90.25,Drowning and submersion due to falling or jumping from burning canoe or kayak
+V90.29,Drowning and submersion due to falling or jumping from unspecified burning watercraft
+V90.33,Drowning and submersion due to falling or jumping from other crushed powered watercraft
+V90.36,Drowning and submersion due to falling or jumping from crushed (nonpowered) inflatable craft
+V90.82,Drowning and submersion due to other accident to fishing boat
+V91,Other injury due to accident to watercraft
+V91.0,Burn due to watercraft on fire
+V91.01,Burn due to passenger ship on fire
+V91.02,Burn due to fishing boat on fire
+V91.06,Burn due to (nonpowered) inflatable craft on fire
+V91.07,Burn due to water-skis on fire
+V91.1,Crushed between watercraft and other watercraft or other object due to collision
+V91.12,Crushed between fishing boat and other watercraft or other object due to collision
+V91.13,Crushed between other powered watercraft and other watercraft or other object due to collision
+V91.14,Crushed between sailboat and other watercraft or other object due to collision
+V91.16,Crushed between (nonpowered) inflatable craft and other watercraft or other object due to collision
+V91.2,Fall due to collision between watercraft and other watercraft or other object
+V91.20,Fall due to collision between merchant ship and other watercraft or other object
+V91.21,Fall due to collision between passenger ship and other watercraft or other object
+V91.22,Fall due to collision between fishing boat and other watercraft or other object
+V91.23,Fall due to collision between other powered watercraft and other watercraft or other object
+V91.24,Fall due to collision between sailboat and other watercraft or other object
+V91.25,Fall due to collision between canoe or kayak and other watercraft or other object
+V91.26,Fall due to collision between (nonpowered) inflatable craft and other watercraft or other object
+V91.29,Fall due to collision between unspecified watercraft and other watercraft or other object
+V91.3,Hit or struck by falling object due to accident to watercraft
+V91.30,Hit or struck by falling object due to accident to merchant ship
+V91.32,Hit or struck by falling object due to accident to fishing boat
+V91.33,Hit or struck by falling object due to accident to other powered watercraft
+V91.34,Hit or struck by falling object due to accident to sailboat
+V91.35,Hit or struck by falling object due to accident to canoe or kayak
+V91.36,Hit or struck by falling object due to accident to (nonpowered) inflatable craft
+V91.37,Hit or struck by falling object due to accident to water-skis
+V91.38,Hit or struck by falling object due to accident to other unpowered watercraft
+V91.39,Hit or struck by falling object due to accident to unspecified watercraft
+V91.8,Other injury due to other accident to watercraft
+V91.82,Other injury due to other accident to fishing boat
+V91.82XA,"Other injury due to other accident to fishing boat, initial encounter"
+V91.83,Other injury due to other accident to other powered watercraft
+V91.84,Other injury due to other accident to sailboat
+V91.85,Other injury due to other accident to canoe or kayak
+V91.86,Other injury due to other accident to (nonpowered) inflatable craft
+V91.86XA,"Other injury due to other accident to (nonpowered) inflatable craft, initial encounter"
+V91.87,Other injury due to other accident to water-skis
+V91.88,Other injury due to other accident to other unpowered watercraft
+V91.89,Other injury due to other accident to unspecified watercraft
+V91.89XA,"Other injury due to other accident to unspecified watercraft, initial encounter"
+V92,"Drowning and submersion due to accident on board watercraft, without accident to watercraft"
+V92.0,Drowning and submersion due to fall off watercraft
+V92.00,Drowning and submersion due to fall off merchant ship
+V92.01,Drowning and submersion due to fall off passenger ship
+V92.02,Drowning and submersion due to fall off fishing boat
+V92.03,Drowning and submersion due to fall off other powered watercraft
+V92.04,Drowning and submersion due to fall off sailboat
+V92.05,Drowning and submersion due to fall off canoe or kayak
+V92.06,Drowning and submersion due to fall off (nonpowered) inflatable craft
+V92.08,Drowning and submersion due to fall off other unpowered watercraft
+V92.1,Drowning and submersion due to being thrown overboard by motion of watercraft
+V92.12,Drowning and submersion due to being thrown overboard by motion of fishing boat
+V92.13,Drowning and submersion due to being thrown overboard by motion of other powered watercraft
+V92.15,Drowning and submersion due to being thrown overboard by motion of canoe or kayak
+V92.25,Drowning and submersion due to being washed overboard from canoe or kayak
+V92.28,Drowning and submersion due to being washed overboard from other unpowered watercraft
+V93,"Other injury due to accident on board watercraft, without accident to watercraft"
+V93.0,Burn due to localized fire on board watercraft
+V93.01,Burn due to localized fire on board passenger vessel
+V93.03,Burn due to localized fire on board other powered watercraft
+V93.04,Burn due to localized fire on board sailboat
+V93.09,Burn due to localized fire on board unspecified watercraft
+V93.11,Other burn on board passenger vessel
+V93.3,Fall on board watercraft
+V93.31,Fall on board passenger ship
+V93.32,Fall on board fishing boat
+V93.33,Fall on board other powered watercraft
+V93.34,Fall on board sailboat
+V93.35,Fall on board canoe or kayak
+V93.38,Fall on board other unpowered watercraft
+V93.39,Fall on board unspecified watercraft
+V93.40,Struck by falling object on merchant ship
+V93.42,Struck by falling object on fishing boat
+V93.49,Struck by falling object on unspecified watercraft
+V93.5,Explosion on board watercraft
+V93.59,Explosion on board unspecified watercraft
+V93.6,Machinery accident on board watercraft
+V93.62,Machinery accident on board fishing boat
+V93.69,Machinery accident on board unspecified watercraft
+V93.8,Other injury due to other accident on board watercraft
+V93.82,Other injury due to other accident on board fishing boat
+V93.83,Other injury due to other accident on board other powered watercraft
+V93.84,Other injury due to other accident on board sailboat
+V93.85,Other injury due to other accident on board canoe or kayak
+V93.86,Other injury due to other accident on board (nonpowered) inflatable craft
+V93.87,Other injury due to other accident on board water-skis
+V93.88,Other injury due to other accident on board other unpowered watercraft
+V93.89,Other injury due to other accident on board unspecified watercraft
+V94,Other and unspecified water transport accidents
+V94.0,Hitting object or bottom of body of water due to fall from watercraft
+V94.1,Bather struck by watercraft
+V94.11,Bather struck by powered watercraft
+V94.12,Bather struck by nonpowered watercraft
+V94.2,Rider of nonpowered watercraft struck by other watercraft
+V94.3,Injury to rider of (inflatable) watercraft being pulled behind other watercraft
+V94.31,Injury to rider of (inflatable) recreational watercraft being pulled behind other watercraft
+V94.32,Injury to rider of non-recreational watercraft being pulled behind other watercraft
+V94.4,Injury to barefoot water-skier
+V94.8,Other water transport accident
+V94.89,Other water transport accident
+V94.9,Unspecified water transport accident
+V94.9XXA,"Unspecified water transport accident, initial encounter"
+V95,Accident to powered aircraft causing injury to occupant
+V95.0,Helicopter accident injuring occupant
+V95.00,Unspecified helicopter accident injuring occupant
+V95.01,Helicopter crash injuring occupant
+V95.1,"Ultralight, microlight or powered-glider accident injuring occupant"
+V95.10,"Unspecified ultralight, microlight or powered-glider accident injuring occupant"
+V95.12,"Forced landing of ultralight, microlight or powered-glider injuring occupant"
+V95.2,Other private fixed-wing aircraft accident injuring occupant
+V95.20,"Unspecified accident to other private fixed-wing aircraft, injuring occupant"
+V95.21,Other private fixed-wing aircraft crash injuring occupant
+V95.22,Forced landing of other private fixed-wing aircraft injuring occupant
+V95.29,Other accident to other private fixed-wing aircraft injuring occupant
+V95.3,Commercial fixed-wing aircraft accident injuring occupant
+V95.30,Unspecified accident to commercial fixed-wing aircraft injuring occupant
+V95.31,Commercial fixed-wing aircraft crash injuring occupant
+V95.32,Forced landing of commercial fixed-wing aircraft injuring occupant
+V95.4,Spacecraft accident injuring occupant
+V95.40,Unspecified spacecraft accident injuring occupant
+V95.41,Spacecraft crash injuring occupant
+V95.43,Spacecraft collision injuring occupant
+V95.45,Spacecraft explosion injuring occupant
+V95.49,Other spacecraft accident injuring occupant
+V95.8,Other powered aircraft accidents injuring occupant
+V95.9,Unspecified aircraft accident injuring occupant
+V95.9XXA,"Unspecified aircraft accident injuring occupant, initial encounter"
+V96.0,Balloon accident injuring occupant
+V96.04,Balloon fire injuring occupant
+V96.1,Hang-glider accident injuring occupant
+V96.13,Hang-glider collision injuring occupant
+V96.19,Other hang-glider accident injuring occupant
+V96.2,Glider (nonpowered) accident injuring occupant
+V96.22,Forced landing of glider (nonpowered) injuring occupant
+V96.29,Other glider (nonpowered) accident injuring occupant
+V96.8,Other nonpowered-aircraft accidents injuring occupant
+V96.9,Unspecified nonpowered-aircraft accident injuring occupant
+V97,Other specified air transport accidents
+V97.0,Occupant of aircraft injured in other specified air transport accidents
+V97.1,Person injured while boarding or alighting from aircraft
+V97.2,Parachutist accident
+V97.21,Parachutist entangled in object
+V97.22,Parachutist injured on landing
+V97.29,Other parachutist accident
+V97.3,Person on ground injured in air transport accident
+V97.31,Hit by object falling from aircraft
+V97.32,Injured by rotating propeller
+V97.8,"Other air transport accidents, not elsewhere classified"
+V97.81,Air transport accident involving military aircraft
+V97.89,"Other air transport accidents, not elsewhere classified"
+V98.0,"Accident to, on or involving cable-car, not on rails"
+V98.1,"Accident to, on or involving land-yacht"
+V98.2,"Accident to, on or involving ice yacht"
+V98.3,"Accident to, on or involving ski lift"
+V98.8,Other specified transport accidents
+V99,Unspecified transport accident
+W00,Fall due to ice and snow
+W00.0,Fall on same level due to ice and snow
+W00.0XXA,"Fall on same level due to ice and snow, initial encounter"
+W00.1,Fall from stairs and steps due to ice and snow
+W00.2,Other fall from one level to another due to ice and snow
+W00.9,Unspecified fall due to ice and snow
+W00.9XXA,"Unspecified fall due to ice and snow, initial encounter"
+W01,"Fall on same level from slipping, tripping and stumbling"
+W01.0,"Fall on same level from slipping, tripping and stumbling without subsequent striking against object"
+W01.0XXA,"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter"
+W01.1,"Fall on same level from slipping, tripping and stumbling with subsequent striking against object"
+W01.10,"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified object"
+W01.10XA,"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified object, initial encounter"
+W01.11,"Fall on same level from slipping, tripping and stumbling with subsequent striking against sharp object"
+W01.110,"Fall on same level from slipping, tripping and stumbling with subsequent striking against sharp glass"
+W01.111,"Fall on same level from slipping, tripping and stumbling with subsequent striking against power tool or machine"
+W01.118,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other sharp object"
+W01.119,"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified sharp object"
+W01.19,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other object"
+W01.190,"Fall on same level from slipping, tripping and stumbling with subsequent striking against furniture"
+W01.198,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other object"
+W03,Other fall on same level due to collision with another person
+W04,Fall while being carried or supported by other persons
+W05,"Fall from non-moving wheelchair, nonmotorized scooter and motorized mobility scooter"
+W05.0,Fall from non-moving wheelchair
+W05.0XXA,"Fall from non-moving wheelchair, initial encounter"
+W05.1,Fall from non-moving nonmotorized scooter
+W05.2,Fall from non-moving motorized mobility scooter
+W06,Fall from bed
+W06.XXXA,"Fall from bed, initial encounter"
+W07,Fall from chair
+W07.XXXA,"Fall from chair, initial encounter"
+W08,Fall from other furniture
+W09,Fall on and from playground equipment
+W09.0,Fall on or from playground slide
+W09.1,Fall from playground swing
+W09.2,Fall on or from jungle gym
+W09.2XXA,"Fall on or from jungle gym, initial encounter"
+W09.8,Fall on or from other playground equipment
+W09.8XXA,"Fall on or from other playground equipment, initial encounter"
+W10,Fall on and from stairs and steps
+W10.0,Fall (on)(from) escalator
+W10.0XXA,"Fall (on)(from) escalator, initial encounter"
+W10.1,Fall (on)(from) sidewalk curb
+W10.2,Fall (on)(from) incline
+W10.2XXA,"Fall (on)(from) incline, initial encounter"
+W10.8,Fall (on) (from) other stairs and steps
+W10.8XXA,"Fall (on) (from) other stairs and steps, initial encounter"
+W10.9,Fall (on) (from) unspecified stairs and steps
+W10.9XXA,"Fall (on) (from) unspecified stairs and steps, initial encounter"
+W11,Fall on and from ladder
+W11.XXXA,"Fall on and from ladder, initial encounter"
+W12,Fall on and from scaffolding
+W13,"Fall from, out of or through building or structure"
+W13.0,"Fall from, out of or through balcony"
+W13.1,"Fall from, out of or through bridge"
+W13.2,"Fall from, out of or through roof"
+W13.2XXA,"Fall from, out of or through roof, initial encounter"
+W13.3,Fall through floor
+W13.4,"Fall from, out of or through window"
+W13.8,"Fall from, out of or through other building or structure"
+W13.9,"Fall from, out of or through building, not otherwise specified"
+W14,Fall from tree
+W14.XXXA,"Fall from tree, initial encounter"
+W15,Fall from cliff
+W16,"Fall, jump or diving into water"
+W16.0,Fall into swimming pool
+W16.01,Fall into swimming pool striking water surface
+W16.011,Fall into swimming pool striking water surface causing drowning and submersion
+W16.012,Fall into swimming pool striking water surface causing other injury
+W16.02,Fall into swimming pool striking bottom
+W16.021,Fall into swimming pool striking bottom causing drowning and submersion
+W16.022,Fall into swimming pool striking bottom causing other injury
+W16.03,Fall into swimming pool striking wall
+W16.031,Fall into swimming pool striking wall causing drowning and submersion
+W16.032,Fall into swimming pool striking wall causing other injury
+W16.1,Fall into natural body of water
+W16.11,Fall into natural body of water striking water surface
+W16.112,Fall into natural body of water striking water surface causing other injury
+W16.12,Fall into natural body of water striking bottom
+W16.121,Fall into natural body of water striking bottom causing drowning and submersion
+W16.122,Fall into natural body of water striking bottom causing other injury
+W16.13,Fall into natural body of water striking side
+W16.131,Fall into natural body of water striking side causing drowning and submersion
+W16.132,Fall into natural body of water striking side causing other injury
+W16.2,Fall in (into) filled bathtub or bucket of water
+W16.21,Fall in (into) filled bathtub
+W16.211,Fall in (into) filled bathtub causing drowning and submersion
+W16.212,Fall in (into) filled bathtub causing other injury
+W16.22,Fall in (into) bucket of water
+W16.222,Fall in (into) bucket of water causing other injury
+W16.3,Fall into other water
+W16.31,Fall into other water striking water surface
+W16.312,Fall into other water striking water surface causing other injury
+W16.32,Fall into other water striking bottom
+W16.322,Fall into other water striking bottom causing other injury
+W16.33,Fall into other water striking wall
+W16.332,Fall into other water striking wall causing other injury
+W16.4,Fall into unspecified water
+W16.41,Fall into unspecified water causing drowning and submersion
+W16.42,Fall into unspecified water causing other injury
+W16.5,Jumping or diving into swimming pool
+W16.51,Jumping or diving into swimming pool striking water surface
+W16.512,Jumping or diving into swimming pool striking water surface causing other injury
+W16.52,Jumping or diving into swimming pool striking bottom
+W16.53,Jumping or diving into swimming pool striking wall
+W16.6,Jumping or diving into natural body of water
+W16.61,Jumping or diving into natural body of water striking water surface
+W16.611,Jumping or diving into natural body of water striking water surface causing drowning and submersion
+W16.62,Jumping or diving into natural body of water striking bottom
+W16.622,Jumping or diving into natural body of water striking bottom causing other injury
+W16.7,Jumping or diving from boat
+W16.71,Jumping or diving from boat striking water surface
+W16.711,Jumping or diving from boat striking water surface causing drowning and submersion
+W16.712,Jumping or diving from boat striking water surface causing other injury
+W16.72,Jumping or diving from boat striking bottom
+W16.721,Jumping or diving from boat striking bottom causing drowning and submersion
+W16.722,Jumping or diving from boat striking bottom causing other injury
+W16.8,Jumping or diving into other water
+W16.82,Jumping or diving into other water striking bottom
+W16.822,Jumping or diving into other water striking bottom causing other injury
+W16.832,Jumping or diving into other water striking wall causing other injury
+W16.9,Jumping or diving into unspecified water
+W16.91,Jumping or diving into unspecified water causing drowning and submersion
+W16.92,Jumping or diving into unspecified water causing other injury
+W16.92XA,"Jumping or diving into unspecified water causing other injury, initial encounter"
+W17,Other fall from one level to another
+W17.0,Fall into well
+W17.1,Fall into storm drain or manhole
+W17.2,Fall into hole
+W17.3,Fall into empty swimming pool
+W17.4,Fall from dock
+W17.8,Other fall from one level to another
+W17.81,Fall down embankment (hill)
+W17.82,Fall from (out of) grocery cart
+W17.89,Other fall from one level to another
+W17.89XA,"Other fall from one level to another, initial encounter"
+W18,"Other slipping, tripping and stumbling and falls"
+W18.0,Fall due to bumping against object
+W18.00,Striking against unspecified object with subsequent fall
+W18.01,Striking against sports equipment with subsequent fall
+W18.02,Striking against glass with subsequent fall
+W18.09,Striking against other object with subsequent fall
+W18.1,Fall from or off toilet
+W18.11,Fall from or off toilet without subsequent striking against object
+W18.11XA,"Fall from or off toilet without subsequent striking against object, initial encounter"
+W18.12,Fall from or off toilet with subsequent striking against object
+W18.12XA,"Fall from or off toilet with subsequent striking against object, initial encounter"
+W18.2,Fall in (into) shower or empty bathtub
+W18.3,Other and unspecified fall on same level
+W18.30,"Fall on same level, unspecified"
+W18.30XA,"Fall on same level, unspecified, initial encounter"
+W18.30XD,"Fall on same level, unspecified, subsequent encounter"
+W18.31,Fall on same level due to stepping on an object
+W18.39,Other fall on same level
+W18.39XA,"Other fall on same level, initial encounter"
+W18.4,"Slipping, tripping and stumbling without falling"
+W18.40,"Slipping, tripping and stumbling without falling, unspecified"
+W18.41,"Slipping, tripping and stumbling without falling due to stepping on object"
+W18.42,"Slipping, tripping and stumbling without falling due to stepping into hole or opening"
+W18.43,"Slipping, tripping and stumbling without falling due to stepping from one level to another"
+W18.49,"Other slipping, tripping and stumbling without falling"
+W19,Unspecified fall
+W19.XXXA,"Unspecified fall, initial encounter"
+W20,"Struck by thrown, projected or falling object"
+W20.0,Struck by falling object in cave-in
+W20.1,Struck by object due to collapse of building
+W20.8,"Other cause of strike by thrown, projected or falling object"
+W20.8XXA,"Other cause of strike by thrown, projected or falling object, initial encounter"
+W21,Striking against or struck by sports equipment
+W21.0,Struck by hit or thrown ball
+W21.00,"Struck by hit or thrown ball, unspecified type"
+W21.01,Struck by football
+W21.02,Struck by soccer ball
+W21.03,Struck by baseball
+W21.04,Struck by golf ball
+W21.05,Struck by basketball
+W21.06,Struck by volleyball
+W21.07,Struck by softball
+W21.09,Struck by other hit or thrown ball
+W21.1,"Struck by bat, racquet or club"
+W21.11,Struck by baseball bat
+W21.12,Struck by tennis racquet
+W21.13,Struck by golf club
+W21.19,"Struck by other bat, racquet or club"
+W21.2,Struck by hockey stick or puck
+W21.21,Struck by hockey stick
+W21.211,Struck by field hockey stick
+W21.22,Struck by hockey puck
+W21.220,Struck by ice hockey puck
+W21.221,Struck by field hockey puck
+W21.3,Struck by sports foot wear
+W21.31,Struck by shoe cleats
+W21.32,Struck by skate blades
+W21.39,Struck by other sports foot wear
+W21.8,Striking against or struck by other sports equipment
+W21.81,Striking against or struck by football helmet
+W21.81XA,"Striking against or struck by football helmet, initial encounter"
+W21.89,Striking against or struck by other sports equipment
+W21.9,Striking against or struck by unspecified sports equipment
+W22,Striking against or struck by other objects
+W22.0,Striking against stationary object
+W22.01,Walked into wall
+W22.02,Walked into lamppost
+W22.03,Walked into furniture
+W22.04,Striking against wall of swimming pool
+W22.042,Striking against wall of swimming pool causing other injury
+W22.09,Striking against other stationary object
+W22.1,Striking against or struck by automobile airbag
+W22.10,Striking against or struck by unspecified automobile airbag
+W22.11,Striking against or struck by driver side automobile airbag
+W22.12,Striking against or struck by front passenger side automobile airbag
+W22.19,Striking against or struck by other automobile airbag
+W22.8,Striking against or struck by other objects
+W22.8XXA,"Striking against or struck by other objects, initial encounter"
+W23,"Caught, crushed, jammed or pinched in or between objects"
+W23.0,"Caught, crushed, jammed, or pinched between moving objects"
+W23.0XXA,"Caught, crushed, jammed, or pinched between moving objects, initial encounter"
+W23.1,"Caught, crushed, jammed, or pinched between stationary objects"
+W23.2XXA,"Caught, crushed, jammed or pinched between a moving and stationary object, initial encounter"
+W24,"Contact with lifting and transmission devices, not elsewhere classified"
+W24.0,"Contact with lifting devices, not elsewhere classified"
+W24.0XXA,"Contact with lifting devices, not elsewhere classified, initial encounter"
+W24.1,"Contact with transmission devices, not elsewhere classified"
+W25,Contact with sharp glass
+W25.XXXA,"Contact with sharp glass, initial encounter"
+W26,Contact with other sharp objects
+W26.0,Contact with knife
+W26.0XXA,"Contact with knife, initial encounter"
+W26.1,Contact with sword or dagger
+W26.8,"Contact with other sharp object(s), not elsewhere classified"
+W26.8XXA,"Contact with other sharp object(s), not elsewhere classified, initial encounter"
+W26.9,Contact with unspecified sharp object(s)
+W27,Contact with nonpowered hand tool
+W27.0,Contact with workbench tool
+W27.1,Contact with garden tool
+W27.2,Contact with scissors
+W27.3,Contact with needle (sewing)
+W27.4,Contact with kitchen utensil
+W27.4XXA,"Contact with kitchen utensil, initial encounter"
+W27.5,Contact with paper-cutter
+W27.8,Contact with other nonpowered hand tool
+W28,Contact with powered lawn mower
+W28.XXXA,"Contact with powered lawn mower, initial encounter"
+W29,Contact with other powered hand tools and household machinery
+W29.0,Contact with powered kitchen appliance
+W29.1,Contact with electric knife
+W29.2,Contact with other powered household machinery
+W29.3,Contact with powered garden and outdoor hand tools and machinery
+W29.3XXA,"Contact with powered garden and outdoor hand tools and machinery, initial encounter"
+W29.4,Contact with nail gun
+W29.4XXA,"Contact with nail gun, initial encounter"
+W29.8,Contact with other powered hand tools and household machinery
+W30,Contact with agricultural machinery
+W30.0,Contact with combine harvester
+W30.1,Contact with power take-off devices (PTO)
+W30.3,Contact with grain storage elevator
+W30.8,Contact with other specified agricultural machinery
+W30.81,Contact with agricultural transport vehicle in stationary use
+W30.89,Contact with other specified agricultural machinery
+W30.9,Contact with unspecified agricultural machinery
+W30.9XXA,"Contact with unspecified agricultural machinery, initial encounter"
+W31,Contact with other and unspecified machinery
+W31.0,Contact with mining and earth-drilling machinery
+W31.1,Contact with metalworking machines
+W31.2,Contact with powered woodworking and forming machines
+W31.3,Contact with prime movers
+W31.8,Contact with other specified machinery
+W31.81,Contact with recreational machinery
+W31.82,Contact with other commercial machinery
+W31.82XA,"Contact with other commercial machinery, initial encounter"
+W31.83,Contact with special construction vehicle in stationary use
+W31.89,Contact with other specified machinery
+W31.89XA,"Contact with other specified machinery, initial encounter"
+W31.9,Contact with unspecified machinery
+W31.9XXA,"Contact with unspecified machinery, initial encounter"
+W32,Accidental handgun discharge and malfunction
+W32.0,Accidental handgun discharge
+W32.0XXA,"Accidental handgun discharge, initial encounter"
+W32.1,Accidental handgun malfunction
+W32.1XXD,"Accidental handgun malfunction, subsequent encounter"
+W33,"Accidental rifle, shotgun and larger firearm discharge and malfunction"
+W33.0,"Accidental rifle, shotgun and larger firearm discharge"
+W33.00,Accidental discharge of unspecified larger firearm
+W33.00XA,"Accidental discharge of unspecified larger firearm, initial encounter"
+W33.01,Accidental discharge of shotgun
+W33.02,Accidental discharge of hunting rifle
+W33.03,Accidental discharge of machine gun
+W33.09,Accidental discharge of other larger firearm
+W33.1,"Accidental rifle, shotgun and larger firearm malfunction"
+W33.10,Accidental malfunction of unspecified larger firearm
+W33.12,Accidental malfunction of hunting rifle
+W33.13,Accidental malfunction of machine gun
+W33.19,Accidental malfunction of other larger firearm
+W34,Accidental discharge and malfunction from other and unspecified firearms and guns
+W34.0,Accidental discharge from other and unspecified firearms and guns
+W34.00,Accidental discharge from unspecified firearms or gun
+W34.00XA,"Accidental discharge from unspecified firearms or gun, initial encounter"
+W34.01,"Accidental discharge of gas, air or spring-operated guns"
+W34.010,Accidental discharge of airgun
+W34.011,Accidental discharge of paintball gun
+W34.018,"Accidental discharge of other gas, air or spring-operated gun"
+W34.09,Accidental discharge from other specified firearms
+W34.1,Accidental malfunction from other and unspecified firearms and guns
+W34.10,Accidental malfunction from unspecified firearms or gun
+W34.110,Accidental malfunction of airgun
+W34.118,"Accidental malfunction of other gas, air or spring-operated gun"
+W34.19,Accidental malfunction from other specified firearms
+W36.1,Explosion and rupture of aerosol can
+W36.2,Explosion and rupture of air tank
+W36.3,Explosion and rupture of pressurized-gas tank
+W36.8,Explosion and rupture of other gas cylinder
+W36.9,Explosion and rupture of unspecified gas cylinder
+W37,"Explosion and rupture of pressurized tire, pipe or hose"
+W37.0,Explosion of bicycle tire
+W37.8,"Explosion and rupture of other pressurized tire, pipe or hose"
+W38,Explosion and rupture of other specified pressurized devices
+W39,Discharge of firework
+W39.XXXA,"Discharge of firework, initial encounter"
+W40,Explosion of other materials
+W40.0,Explosion of blasting material
+W40.1,Explosion of explosive gases
+W40.8,Explosion of other specified explosive materials
+W40.9,Explosion of unspecified explosive materials
+W40.9XXA,"Explosion of unspecified explosive materials, initial encounter"
+W42,Exposure to noise
+W42.0,Exposure to supersonic waves
+W42.9,Exposure to other noise
+W45,Foreign body or object entering through skin
+W45.0,Nail entering through skin
+W45.8,Other foreign body or object entering through skin
+W45.8XXA,"Other foreign body or object entering through skin, initial encounter"
+W46,Contact with hypodermic needle
+W46.0,Contact with hypodermic needle
+W46.1,Contact with contaminated hypodermic needle
+W49,Exposure to other inanimate mechanical forces
+W49.0,Item causing external constriction
+W49.01,Hair causing external constriction
+W49.02,String or thread causing external constriction
+W49.03,Rubber band causing external constriction
+W49.04,Ring or other jewelry causing external constriction
+W49.09,Other specified item causing external constriction
+W49.9,Exposure to other inanimate mechanical forces
+W50,"Accidental hit, strike, kick, twist, bite or scratch by another person"
+W50.0,Accidental hit or strike by another person
+W50.1,Accidental kick by another person
+W50.2,Accidental twist by another person
+W50.3,Accidental bite by another person
+W50.4,Accidental scratch by another person
+W51,Accidental striking against or bumped into by another person
+W51.XXXA,"Accidental striking against or bumped into by another person, initial encounter"
+W52,"Crushed, pushed or stepped on by crowd or human stampede"
+W53,Contact with rodent
+W53.01,Bitten by mouse
+W53.11,Bitten by rat
+W53.2,Contact with squirrel
+W53.21,Bitten by squirrel
+W53.81,Bitten by other rodent
+W53.89,Other contact with other rodent
+W54,Contact with dog
+W54.0,Bitten by dog
+W54.0XXA,"Bitten by dog, initial encounter"
+W54.1,Struck by dog
+W54.8,Other contact with dog
+W55,Contact with other mammals
+W55.0,Contact with cat
+W55.01,Bitten by cat
+W55.01XA,"Bitten by cat, initial encounter"
+W55.03,Scratched by cat
+W55.09,Other contact with cat
+W55.1,Contact with horse
+W55.11,Bitten by horse
+W55.12,Struck by horse
+W55.12XA,"Struck by horse, initial encounter"
+W55.19,Other contact with horse
+W55.2,Contact with cow
+W55.21,Bitten by cow
+W55.22,Struck by cow
+W55.22XA,"Struck by cow, initial encounter"
+W55.29,Other contact with cow
+W55.3,Contact with other hoof stock
+W55.31,Bitten by other hoof stock
+W55.32,Struck by other hoof stock
+W55.39,Other contact with other hoof stock
+W55.4,Contact with pig
+W55.41,Bitten by pig
+W55.49,Other contact with pig
+W55.5,Contact with raccoon
+W55.51,Bitten by raccoon
+W55.52,Struck by raccoon
+W55.59,Other contact with raccoon
+W55.8,Contact with other mammals
+W55.81,Bitten by other mammals
+W55.81XA,"Bitten by other mammals, initial encounter"
+W55.82,Struck by other mammals
+W55.89,Other contact with other mammals
+W56,Contact with nonvenomous marine animal
+W56.01,Bitten by dolphin
+W56.02,Struck by dolphin
+W56.19,Other contact with sea lion
+W56.2,Contact with orca
+W56.21,Bitten by orca
+W56.22,Struck by orca
+W56.29,Other contact with orca
+W56.3,Contact with other marine mammals
+W56.31,Bitten by other marine mammals
+W56.39,Other contact with other marine mammals
+W56.4,Contact with shark
+W56.41,Bitten by shark
+W56.41XA,"Bitten by shark, initial encounter"
+W56.5,Contact with other fish
+W56.51,Bitten by other fish
+W56.52,Struck by other fish
+W56.59,Other contact with other fish
+W56.81,Bitten by other nonvenomous marine animals
+W56.81XA,"Bitten by other nonvenomous marine animals, initial encounter"
+W57,Bitten or stung by nonvenomous insect and other nonvenomous arthropods
+W57.XXXD,"Bitten or stung by nonvenomous insect and other nonvenomous arthropods, subsequent encounter"
+W58,Contact with crocodile or alligator
+W58.01,Bitten by alligator
+W58.02,Struck by alligator
+W58.09,Other contact with alligator
+W58.1,Contact with crocodile
+W58.11,Bitten by crocodile
+W58.12,Struck by crocodile
+W59,Contact with other nonvenomous reptiles
+W59.0,Contact with nonvenomous lizards
+W59.1,Contact with nonvenomous snakes
+W59.11,Bitten by nonvenomous snake
+W59.12,Struck by nonvenomous snake
+W59.13,Crushed by nonvenomous snake
+W59.19,Other contact with nonvenomous snake
+W59.21,Bitten by turtle
+W59.8,Contact with other nonvenomous reptiles
+W59.81,Bitten by other nonvenomous reptiles
+W60,Contact with nonvenomous plant thorns and spines and sharp leaves
+W61,Contact with birds (domestic) (wild)
+W61.09,Other contact with parrot
+W61.1,Contact with macaw
+W61.12,Struck by macaw
+W61.3,Contact with chicken
+W61.33,Pecked by chicken
+W61.4,Contact with turkey
+W61.42,Struck by turkey
+W61.49,Other contact with turkey
+W61.6,Contact with duck
+W61.62,Struck by duck
+W61.9,Contact with other birds
+W61.91,Bitten by other birds
+W61.99,Other contact with other birds
+W64,Exposure to other animate mechanical forces
+W64.XXXA,"Exposure to other animate mechanical forces, initial encounter"
+W65,Accidental drowning and submersion while in bath-tub
+W67,Accidental drowning and submersion while in swimming-pool
+W69,Accidental drowning and submersion while in natural water
+W74,Unspecified cause of accidental drowning and submersion
+W74.XXXA,"Unspecified cause of accidental drowning and submersion, initial encounter"
+W85,Exposure to electric transmission lines
+W86,Exposure to other specified electric current
+W86.1,"Exposure to industrial wiring, appliances and electrical machinery"
+W86.8,Exposure to other electric current
+W86.8XXA,"Exposure to other electric current, initial encounter"
+W86.8XXS,"Exposure to other electric current, sequela"
+W88,Exposure to ionizing radiation
+W88.1,Exposure to radioactive isotopes
+W88.1XXA,"Exposure to radioactive isotopes, initial encounter"
+W89.0,Exposure to welding light (arc)
+W89.1,Exposure to tanning bed
+W89.8,Exposure to other man-made visible and ultraviolet light
+W89.9,Exposure to unspecified man-made visible and ultraviolet light
+W90,Exposure to other nonionizing radiation
+W90.8XXA,"Exposure to other nonionizing radiation, initial encounter"
+W92,Exposure to excessive heat of man-made origin
+W93,Exposure to excessive cold of man-made origin
+W93.0,Contact with or inhalation of dry ice
+W93.1,Contact with or inhalation of liquid air
+W93.8,Exposure to other excessive cold of man-made origin
+W94,Exposure to high and low air pressure and changes in air pressure
+W94.11,Exposure to residence or prolonged visit at high altitude
+W94.2,Exposure to rapid changes in air pressure during ascent
+W94.21,Exposure to reduction in atmospheric pressure while surfacing from deep-water diving
+W94.22,Exposure to reduction in atmospheric pressure while surfacing from underground
+W94.31,Exposure to sudden change in air pressure in aircraft during descent
+W99,Exposure to other man-made environmental factors
+X00,Exposure to uncontrolled fire in building or structure
+X00.0,Exposure to flames in uncontrolled fire in building or structure
+X00.0XXA,"Exposure to flames in uncontrolled fire in building or structure, initial encounter"
+X00.1,Exposure to smoke in uncontrolled fire in building or structure
+X00.2,Injury due to collapse of burning building or structure in uncontrolled fire
+X00.3,Fall from burning building or structure in uncontrolled fire
+X00.4,Hit by object from burning building or structure in uncontrolled fire
+X00.8,Other exposure to uncontrolled fire in building or structure
+X01,"Exposure to uncontrolled fire, not in building or structure"
+X01.0,"Exposure to flames in uncontrolled fire, not in building or structure"
+X01.0XXA,"Exposure to flames in uncontrolled fire, not in building or structure, initial encounter"
+X01.1,"Exposure to smoke in uncontrolled fire, not in building or structure"
+X01.1XXS,"Exposure to smoke in uncontrolled fire, not in building or structure, sequela"
+X01.3,"Fall due to uncontrolled fire, not in building or structure"
+X01.8XXA,"Other exposure to uncontrolled fire, not in building or structure, initial encounter"
+X02,Exposure to controlled fire in building or structure
+X02.0,Exposure to flames in controlled fire in building or structure
+X02.1,Exposure to smoke in controlled fire in building or structure
+X02.2,Injury due to collapse of burning building or structure in controlled fire
+X02.3,Fall from burning building or structure in controlled fire
+X02.4,Hit by object from burning building or structure in controlled fire
+X02.8,Other exposure to controlled fire in building or structure
+X03,"Exposure to controlled fire, not in building or structure"
+X03.0,"Exposure to flames in controlled fire, not in building or structure"
+X03.1,"Exposure to smoke in controlled fire, not in building or structure"
+X04,Exposure to ignition of highly flammable material
+X05,Exposure to ignition or melting of nightwear
+X06,Exposure to ignition or melting of other clothing and apparel
+X08,"Exposure to other specified smoke, fire and flames"
+X08.0,Exposure to bed fire
+X08.19,Exposure to sofa fire due to other burning material
+X08.2,Exposure to other furniture fire
+X08.20,Exposure to other furniture fire due to unspecified burning material
+X08.29,Exposure to other furniture fire due to other burning material
+X08.8,"Exposure to other specified smoke, fire and flames"
+X08.8XXA,"Exposure to other specified smoke, fire and flames, initial encounter"
+X10,"Contact with hot drinks, food, fats and cooking oils"
+X10.0,Contact with hot drinks
+X10.1,Contact with hot food
+X10.2,Contact with fats and cooking oils
+X11,Contact with hot tap-water
+X11.0,Contact with hot water in bath or tub
+X11.1,Contact with running hot water
+X11.8,Contact with other hot tap-water
+X12,Contact with other hot fluids
+X13,Contact with steam and other hot vapors
+X13.0,Inhalation of steam and other hot vapors
+X13.1,Other contact with steam and other hot vapors
+X14,Contact with hot air and other hot gases
+X14.0,Inhalation of hot air and gases
+X14.1,Other contact with hot air and other hot gases
+X15,Contact with hot household appliances
+X15.0,Contact with hot stove (kitchen)
+X15.2,Contact with hotplate
+X15.3,Contact with hot saucepan or skillet
+X15.8,Contact with other hot household appliances
+X16,"Contact with hot heating appliances, radiators and pipes"
+X17,"Contact with hot engines, machinery and tools"
+X17.XXXA,"Contact with hot engines, machinery and tools, initial encounter"
+X18,Contact with other hot metals
+X19,Contact with other heat and hot substances
+X30,Exposure to excessive natural heat
+X30.XXXA,"Exposure to excessive natural heat, initial encounter"
+X31,Exposure to excessive natural cold
+X31.XXXA,"Exposure to excessive natural cold, initial encounter"
+X32,Exposure to sunlight
+X34,Earthquake
+X35,Volcanic eruption
+X36,"Avalanche, landslide and other earth movements"
+X36.0,Collapse of dam or man-made structure causing earth movement
+X37,Cataclysmic storm
+X37.0,Hurricane
+X37.1,Tornado
+X37.2,Blizzard (snow)(ice)
+X37.3,Dust storm
+X37.9,Unspecified cataclysmic storm
+X38,Flood
+X39,Exposure to other forces of nature
+X39.08,Exposure to other natural radiation
+X39.8XXA,"Other exposure to forces of nature, initial encounter"
+X50,Overexertion and strenuous or repetitive movements
+X50.0,Overexertion from strenuous movement or load
+X50.0XXA,"Overexertion from strenuous movement or load, initial encounter"
+X50.0XXD,"Overexertion from strenuous movement or load, subsequent encounter"
+X50.1,Overexertion from prolonged static or awkward postures
+X50.3,Overexertion from repetitive movements
+X50.9,Other and unspecified overexertion or strenuous movements or postures
+X58,Exposure to other specified factors
+X58.XXXA,"Exposure to other specified factors, initial encounter"
+X58.XXXS,"Exposure to other specified factors, sequela"
+X71,Intentional self-harm by drowning and submersion
+X71.0,Intentional self-harm by drowning and submersion while in bathtub
+X71.1,Intentional self-harm by drowning and submersion while in swimming pool
+X71.3,Intentional self-harm by drowning and submersion in natural water
+X71.9,"Intentional self-harm by drowning and submersion, unspecified"
+X72,Intentional self-harm by handgun discharge
+X72.XXXA,"Intentional self-harm by handgun discharge, initial encounter"
+X73,"Intentional self-harm by rifle, shotgun and larger firearm discharge"
+X73.0,Intentional self-harm by shotgun discharge
+X73.0XXA,"Intentional self-harm by shotgun discharge, initial encounter"
+X73.1,Intentional self-harm by hunting rifle discharge
+X73.2XXA,"Intentional self-harm by machine gun discharge, initial encounter"
+X74,Intentional self-harm by other and unspecified firearm and gun discharge
+X74.01,Intentional self-harm by airgun
+X74.8,Intentional self-harm by other firearm discharge
+X74.9,Intentional self-harm by unspecified firearm discharge
+X74.9XXA,"Intentional self-harm by unspecified firearm discharge, initial encounter"
+X75,Intentional self-harm by explosive material
+X76,"Intentional self-harm by smoke, fire and flames"
+X77.3,Intentional self-harm by hot household appliances
+X77.9,Intentional self-harm by unspecified hot objects
+X78,Intentional self-harm by sharp object
+X78.0,Intentional self-harm by sharp glass
+X78.1,Intentional self-harm by knife
+X78.8,Intentional self-harm by other sharp object
+X78.9,Intentional self-harm by unspecified sharp object
+X78.9XXA,"Intentional self-harm by unspecified sharp object, initial encounter"
+X79,Intentional self-harm by blunt object
+X80,Intentional self-harm by jumping from a high place
+X81,Intentional self-harm by jumping or lying in front of moving object
+X81.0,Intentional self-harm by jumping or lying in front of motor vehicle
+X81.1,Intentional self-harm by jumping or lying in front of (subway) train
+X81.8,Intentional self-harm by jumping or lying in front of other moving object
+X82,Intentional self-harm by crashing of motor vehicle
+X82.0,Intentional collision of motor vehicle with other motor vehicle
+X82.1,Intentional collision of motor vehicle with train
+X82.2,Intentional collision of motor vehicle with tree
+X82.2XXA,"Intentional collision of motor vehicle with tree, initial encounter"
+X82.8,Other intentional self-harm by crashing of motor vehicle
+X83,Intentional self-harm by other specified means
+X83.0,Intentional self-harm by crashing of aircraft
+X83.1,Intentional self-harm by electrocution
+X83.1XXA,"Intentional self-harm by electrocution, initial encounter"
+X83.8,Intentional self-harm by other specified means
+X83.8XXA,"Intentional self-harm by other specified means, initial encounter"
+X92.0,Assault by drowning and submersion while in bathtub
+X92.1,Assault by drowning and submersion while in swimming pool
+X92.3,Assault by drowning and submersion in natural water
+X92.8,Other assault by drowning and submersion
+X92.9,"Assault by drowning and submersion, unspecified"
+X93,Assault by handgun discharge
+X94,"Assault by rifle, shotgun and larger firearm discharge"
+X94.0,Assault by shotgun
+X94.2,Assault by machine gun
+X94.2XXA,"Assault by machine gun, initial encounter"
+X95,Assault by other and unspecified firearm and gun discharge
+X95.0,"Assault by gas, air or spring-operated guns"
+X95.01,Assault by airgun discharge
+X95.02,Assault by paintball gun discharge
+X95.09,"Assault by other gas, air or spring-operated gun"
+X95.8,Assault by other firearm discharge
+X95.8XXA,"Assault by other firearm discharge, initial encounter"
+X95.9,Assault by unspecified firearm discharge
+X95.9XXA,"Assault by unspecified firearm discharge, initial encounter"
+X96,Assault by explosive material
+X96.0,Assault by antipersonnel bomb
+X96.1,Assault by gasoline bomb
+X96.9,Assault by unspecified explosive
+X97,"Assault by smoke, fire and flames"
+X98.0,Assault by steam or hot vapors
+X98.1,Assault by hot tap water
+X98.2,Assault by hot fluids
+X98.8,Assault by other hot objects
+X98.9,Assault by unspecified hot objects
+X99,Assault by sharp object
+X99.0,Assault by sharp glass
+X99.1,Assault by knife
+X99.1XXA,"Assault by knife, initial encounter"
+X99.2,Assault by sword or dagger
+X99.8,Assault by other sharp object
+X99.8XXA,"Assault by other sharp object, initial encounter"
+X99.9,Assault by unspecified sharp object
+X99.9XXA,"Assault by unspecified sharp object, initial encounter"
+Y00,Assault by blunt object
+Y00.XXXA,"Assault by blunt object, initial encounter"
+Y01,Assault by pushing from high place
+Y02,Assault by pushing or placing victim in front of moving object
+Y02.0,Assault by pushing or placing victim in front of motor vehicle
+Y02.1,Assault by pushing or placing victim in front of (subway) train
+Y02.8,Assault by pushing or placing victim in front of other moving object
+Y03,Assault by crashing of motor vehicle
+Y03.0,Assault by being hit or run over by motor vehicle
+Y03.0XXA,"Assault by being hit or run over by motor vehicle, initial encounter"
+Y03.8,Other assault by crashing of motor vehicle
+Y04,Assault by bodily force
+Y04.0,Assault by unarmed brawl or fight
+Y04.0XXA,"Assault by unarmed brawl or fight, initial encounter"
+Y04.1,Assault by human bite
+Y04.1XXA,"Assault by human bite, initial encounter"
+Y04.2,Assault by strike against or bumped into by another person
+Y04.8,Assault by other bodily force
+Y04.8XXA,"Assault by other bodily force, initial encounter"
+Y07.0,"Spouse or partner, perpetrator of maltreatment and neglect"
+Y07.01,"Husband, perpetrator of maltreatment and neglect"
+Y07.02,"Wife, perpetrator of maltreatment and neglect"
+Y07.03,"Male partner, perpetrator of maltreatment and neglect"
+Y07.04,"Female partner, perpetrator of maltreatment and neglect"
+Y07.1,"Parent (adoptive) (biological), perpetrator of maltreatment and neglect"
+Y07.11,"Biological father, perpetrator of maltreatment and neglect"
+Y07.12,"Biological mother, perpetrator of maltreatment and neglect"
+Y07.13,"Adoptive father, perpetrator of maltreatment and neglect"
+Y07.14,"Adoptive mother, perpetrator of maltreatment and neglect"
+Y07.4,"Other family member, perpetrator of maltreatment and neglect"
+Y07.410,"Brother, perpetrator of maltreatment and neglect"
+Y07.421,"Foster mother, perpetrator of maltreatment and neglect"
+Y07.430,"Stepfather, perpetrator of maltreatment and neglect"
+Y07.432,"Male friend of parent (co-residing in household), perpetrator of maltreatment and neglect"
+Y07.434,"Female friend of parent (co-residing in household), perpetrator of maltreatment and neglect"
+Y07.435,"Stepbrother, perpetrator or maltreatment and neglect"
+Y07.490,"Male cousin, perpetrator of maltreatment and neglect"
+Y07.491,"Female cousin, perpetrator of maltreatment and neglect"
+Y07.499,"Other family member, perpetrator of maltreatment and neglect"
+Y07.51,"Daycare provider, perpetrator of maltreatment and neglect"
+Y07.510,"At-home childcare provider, perpetrator of maltreatment and neglect"
+Y07.512,"At-home adultcare provider, perpetrator of maltreatment and neglect"
+Y07.513,"Adultcare center provider, perpetrator of maltreatment and neglect"
+Y07.52,"Healthcare provider, perpetrator of maltreatment and neglect"
+Y07.521,"Mental health provider, perpetrator of maltreatment and neglect"
+Y07.528,"Other therapist or healthcare provider, perpetrator of maltreatment and neglect"
+Y07.529,"Unspecified healthcare provider, perpetrator of maltreatment and neglect"
+Y07.59,"Other non-family member, perpetrator of maltreatment and neglect"
+Y07.9,Unspecified perpetrator of maltreatment and neglect
+Y08,Assault by other specified means
+Y08.0,Assault by strike by sport equipment
+Y08.01,Assault by strike by hockey stick
+Y08.02,Assault by strike by baseball bat
+Y08.09,Assault by strike by other specified type of sport equipment
+Y08.8,Assault by other specified means
+Y08.81,Assault by crashing of aircraft
+Y08.89,Assault by other specified means
+Y08.89XA,"Assault by other specified means, initial encounter"
+Y09,Assault by unspecified means
+Y21,"Drowning and submersion, undetermined intent"
+Y21.0,"Drowning and submersion while in bathtub, undetermined intent"
+Y21.1,"Drowning and submersion after fall into bathtub, undetermined intent"
+Y21.2,"Drowning and submersion while in swimming pool, undetermined intent"
+Y21.3,"Drowning and submersion after fall into swimming pool, undetermined intent"
+Y21.4,"Drowning and submersion in natural water, undetermined intent"
+Y21.8,"Other drowning and submersion, undetermined intent"
+Y21.9,"Unspecified drowning and submersion, undetermined intent"
+Y22,"Handgun discharge, undetermined intent"
+Y22.XXXS,"Handgun discharge, undetermined intent, sequela"
+Y23,"Rifle, shotgun and larger firearm discharge, undetermined intent"
+Y23.0,"Shotgun discharge, undetermined intent"
+Y23.0XXA,"Shotgun discharge, undetermined intent, initial encounter"
+Y23.1,"Hunting rifle discharge, undetermined intent"
+Y23.8,"Other larger firearm discharge, undetermined intent"
+Y23.9,"Unspecified larger firearm discharge, undetermined intent"
+Y24,"Other and unspecified firearm discharge, undetermined intent"
+Y24.0,"Airgun discharge, undetermined intent"
+Y24.8,"Other firearm discharge, undetermined intent"
+Y24.8XXA,"Other firearm discharge, undetermined intent, initial encounter"
+Y24.9,"Unspecified firearm discharge, undetermined intent"
+Y25,"Contact with explosive material, undetermined intent"
+Y26,"Exposure to smoke, fire and flames, undetermined intent"
+Y26.XXXA,"Exposure to smoke, fire and flames, undetermined intent, initial encounter"
+Y27.0,"Contact with steam and hot vapors, undetermined intent"
+Y27.1,"Contact with hot tap water, undetermined intent"
+Y27.2,"Contact with hot fluids, undetermined intent"
+Y27.2XXA,"Contact with hot fluids, undetermined intent, initial encounter"
+Y27.3,"Contact with hot household appliance, undetermined intent"
+Y27.8,"Contact with other hot objects, undetermined intent"
+Y27.9,"Contact with unspecified hot objects, undetermined intent"
+Y28,"Contact with sharp object, undetermined intent"
+Y28.0,"Contact with sharp glass, undetermined intent"
+Y28.1,"Contact with knife, undetermined intent"
+Y28.1XXA,"Contact with knife, undetermined intent, initial encounter"
+Y28.8,"Contact with other sharp object, undetermined intent"
+Y28.8XXA,"Contact with other sharp object, undetermined intent, initial encounter"
+Y28.8XXD,"Contact with other sharp object, undetermined intent, subsequent encounter"
+Y28.9,"Contact with unspecified sharp object, undetermined intent"
+Y28.9XXA,"Contact with unspecified sharp object, undetermined intent, initial encounter"
+Y29,"Contact with blunt object, undetermined intent"
+Y30,"Falling, jumping or pushed from a high place, undetermined intent"
+Y30.XXXA,"Falling, jumping or pushed from a high place, undetermined intent, initial encounter"
+Y31,"Falling, lying or running before or into moving object, undetermined intent"
+Y32,"Crashing of motor vehicle, undetermined intent"
+Y32.XXXA,"Crashing of motor vehicle, undetermined intent, initial encounter"
+Y33,"Other specified events, undetermined intent"
+Y33.XXXA,"Other specified events, undetermined intent, initial encounter"
+Y35,Legal intervention
+Y35.0,Legal intervention involving firearm discharge
+Y35.00,Legal intervention involving unspecified firearm discharge
+Y35.003,"Legal intervention involving unspecified firearm discharge, suspect injured"
+Y35.013,"Legal intervention involving injury by machine gun, suspect injured"
+Y35.02,Legal intervention involving injury by handgun
+Y35.021,"Legal intervention involving injury by handgun, law enforcement official injured"
+Y35.022,"Legal intervention involving injury by handgun, bystander injured"
+Y35.023,"Legal intervention involving injury by handgun, suspect injured"
+Y35.029A,"Legal intervention involving injury by handgun, unspecified person injured, initial encounter"
+Y35.03,Legal intervention involving injury by rifle pellet
+Y35.033,"Legal intervention involving injury by rifle pellet, suspect injured"
+Y35.04,Legal intervention involving injury by rubber bullet
+Y35.041,"Legal intervention involving injury by rubber bullet, law enforcement official injured"
+Y35.09,Legal intervention involving other firearm discharge
+Y35.091,"Legal intervention involving other firearm discharge, law enforcement official injured"
+Y35.092,"Legal intervention involving other firearm discharge, bystander injured"
+Y35.093,"Legal intervention involving other firearm discharge, suspect injured"
+Y35.11,Legal intervention involving injury by dynamite
+Y35.2,Legal intervention involving gas
+Y35.203,"Legal intervention involving unspecified gas, suspect injured"
+Y35.21,Legal intervention involving injury by tear gas
+Y35.212,"Legal intervention involving injury by tear gas, bystander injured"
+Y35.213,"Legal intervention involving injury by tear gas, suspect injured"
+Y35.3,Legal intervention involving blunt objects
+Y35.30,Legal intervention involving unspecified blunt objects
+Y35.301,"Legal intervention involving unspecified blunt objects, law enforcement official injured"
+Y35.31,Legal intervention involving baton
+Y35.39,Legal intervention involving other blunt objects
+Y35.391,"Legal intervention involving other blunt objects, law enforcement official injured"
+Y35.391D,"Legal intervention involving other blunt objects, law enforcement official injured, subsequent encounter"
+Y35.393,"Legal intervention involving other blunt objects, suspect injured"
+Y35.40,Legal intervention involving unspecified sharp objects
+Y35.412,"Legal intervention involving bayonet, bystander injured"
+Y35.49,Legal intervention involving other sharp objects
+Y35.491,"Legal intervention involving other sharp objects, law enforcement official injured"
+Y35.493,"Legal intervention involving other sharp objects, suspect injured"
+Y35.8,Legal intervention involving other specified means
+Y35.81,Legal intervention involving manhandling
+Y35.811,"Legal intervention involving manhandling, law enforcement official injured"
+Y35.813,"Legal intervention involving manhandling, suspect injured"
+Y35.83,Legal intervention involving a conducted energy device
+Y35.89,Legal intervention involving other specified means
+Y35.891,"Legal intervention involving other specified means, law enforcement official injured"
+Y35.893,"Legal intervention involving other specified means, suspect injured"
+Y35.9,"Legal intervention, means unspecified"
+Y35.91,"Legal intervention, means unspecified, law enforcement official injured"
+Y35.93,"Legal intervention, means unspecified, suspect injured"
+Y35.99XA,"Legal intervention, means unspecified, unspecified person injured, initial encounter"
+Y36.27,War operations involving fragments from weapons
+Y36.820,"Explosion of bomb placed during war operations but exploding after cessation of hostilities, military personnel"
+Y36.821,"Explosion of bomb placed during war operations but exploding after cessation of hostilities, civilian"
+Y36.88,Other war operations occurring after cessation of hostilities
+Y36.881,"Other war operations occurring after cessation of hostilities, civilian"
+Y36.9,Other and unspecified war operations
+Y36.90,"War operations, unspecified"
+Y37.050,"Military operations involving accidental detonation of onboard marine weapons, military personnel"
+Y37.41,Military operations involving rubber bullets
+Y37.45,Military operations involving combat using blunt or piercing object
+Y37.531,"Military operations involving thermal radiation effect of nuclear weapon, civilian"
+Y37.59,Military operation involving other effects of nuclear weapons
+Y37.9,Other and unspecified military operations
+Y37.90,"Military operations, unspecified"
+Y38,Terrorism
+Y38.2,Terrorism involving other explosions and fragments
+Y38.4,Terrorism involving firearms
+Y38.6,Terrorism involving biological weapons
+Y38.7,Terrorism involving chemical weapons
+Y76.0,Diagnostic and monitoring obstetric and gynecological devices associated with adverse incidents
+Y79.1,Therapeutic (nonsurgical) and rehabilitative orthopedic devices associated with adverse incidents
+Y79.3,"Surgical instruments, materials and orthopedic devices (including sutures) associated with adverse incidents"
+Y81.3,"Surgical instruments, materials and general- and plastic-surgery devices (including sutures) associated with adverse incidents"
+Y82,Other and unspecified medical devices associated with adverse incidents
+Y82.8,Other medical devices associated with adverse incidents
+Y82.9,Unspecified medical devices associated with adverse incidents
+Y83.4,"Other reconstructive surgery as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+Y83.8,"Other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+Y84,"Other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+Y84.6,"Urinary catheterization as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+Y84.9,"Medical procedure, unspecified as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+Y92.002,Bathroom of unspecified non-institutional (private) residence as the place of occurrence of the external cause
+Y92.009,Unspecified place in unspecified non-institutional (private) residence as the place of occurrence of the external cause
+Y92.017,Garden or yard in single-family (private) house as the place of occurrence of the external cause
+Y92.030,Kitchen in apartment as the place of occurrence of the external cause
+Y92.12,Nursing home as the place of occurrence of the external cause
+Y92.122,Bedroom in nursing home as the place of occurrence of the external cause
+Y92.129,Unspecified place in nursing home as the place of occurrence of the external cause
+Y92.211,Elementary school as the place of occurrence of the external cause
+Y92.3,Sports and athletics area as the place of occurrence of the external cause
+Y92.310,Basketball court as the place of occurrence of the external cause
+Y92.320,Baseball field as the place of occurrence of the external cause
+Y92.321,Football field as the place of occurrence of the external cause
+Y92.39,Other specified sports and athletic area as the place of occurrence of the external cause
+Y92.4,"Street, highway and other paved roadways as the place of occurrence of the external cause"
+Y92.48,Other paved roadways as the place of occurrence of the external cause
+Y92.482,Bike path as the place of occurrence of the external cause
+Y92.530,Ambulatory surgery center as the place of occurrence of the external cause
+Y92.62,Dock or shipyard as the place of occurrence of the external cause
+Y92.73,Farm field as the place of occurrence of the external cause
+Y92.81,Transport vehicle as the place of occurrence of the external cause
+Y92.810,Car as the place of occurrence of the external cause
+Y92.813,Airplane as the place of occurrence of the external cause
+Y92.814,Boat as the place of occurrence of the external cause
+Y92.818,Other transport vehicle as the place of occurrence of the external cause
+Y92.83,Recreation area as the place of occurrence of the external cause
+Y92.89,Other specified places as the place of occurrence of the external cause
+Y92.9,Unspecified place or not applicable
+Y93.0,Activities involving walking and running
+Y93.01,"Activity, walking, marching and hiking"
+Y93.02,"Activity, running"
+Y93.1,Activities involving water and water craft
+Y93.11,"Activity, swimming"
+Y93.15,"Activity, underwater diving and snorkeling"
+Y93.17,"Activity, water skiing and wake boarding"
+Y93.18,"Activity, surfing, windsurfing and boogie boarding"
+Y93.19,"Activity, other involving water and watercraft"
+Y93.2,Activities involving ice and snow
+Y93.21,"Activity, ice skating"
+Y93.22,"Activity, ice hockey"
+Y93.23,"Activity, snow (alpine) (downhill) skiing, snowboarding, sledding, tobogganing and snow tubing"
+Y93.24,"Activity, cross country skiing"
+Y93.29,"Activity, other involving ice and snow"
+Y93.3,"Activities involving climbing, rappelling and jumping off"
+Y93.4,Activities involving dancing and other rhythmic movement
+Y93.41,"Activity, dancing"
+Y93.43,"Activity, gymnastics"
+Y93.44,"Activity, trampolining"
+Y93.49,"Activity, other involving dancing and other rhythmic movements"
+Y93.5,Activities involving other sports and athletics played individually
+Y93.51,"Activity, roller skating (inline) and skateboarding"
+Y93.52,"Activity, horseback riding"
+Y93.53,"Activity, golf"
+Y93.55,"Activity, bike riding"
+Y93.6,Activities involving other sports and athletics played as a team or group
+Y93.61,"Activity, american tackle football"
+Y93.62,"Activity, american flag or touch football"
+Y93.64,"Activity, baseball"
+Y93.65,"Activity, lacrosse and field hockey"
+Y93.66,"Activity, soccer"
+Y93.67,"Activity, basketball"
+Y93.68,"Activity, volleyball (beach) (court)"
+Y93.69,"Activity, other involving other sports and athletics played as a team or group"
+Y93.6A,"Activity, physical games generally associated with school recess, summer camp and children"
+Y93.7,Activities involving other specified sports and athletics
+Y93.71,"Activity, boxing"
+Y93.72,"Activity, wrestling"
+Y93.73,"Activity, racquet and hand sports"
+Y93.75,"Activity, martial arts"
+Y93.79,"Activity, other specified sports and athletics"
+Y93.8,"Activities, other specified"
+Y93.81,"Activity, refereeing a sports activity"
+Y93.83,"Activity, rough housing and horseplay"
+Y93.84,"Activity, sleeping"
+Y93.85,"Activity, choking game"
+Y93.89,"Activity, other specified"
+Y93.9,"Activity, unspecified"
+Y93.A,Activities involving other cardiorespiratory exercise
+Y93.A1,"Activity, exercise machines primarily for cardiorespiratory conditioning"
+Y93.A2,"Activity, calisthenics"
+Y93.A3,"Activity, aerobic and step exercise"
+Y93.A5,"Activity, obstacle course"
+Y93.A9,"Activity, other involving cardiorespiratory exercise"
+Y93.B,Activities involving other muscle strengthening exercises
+Y93.B1,"Activity, exercise machines primarily for muscle strengthening"
+Y93.B2,"Activity, push-ups, pull-ups, sit-ups"
+Y93.B3,"Activity, free weights"
+Y93.B9,"Activity, other involving muscle strengthening exercises"
+Y93.C2,"Activity, hand held interactive electronic device"
+Y93.D1,"Activity, knitting and crocheting"
+Y93.D2,"Activity, sewing"
+Y93.D9,"Activity, other involving arts and handcrafts"
+Y93.E1,"Activity, personal bathing and showering"
+Y93.E2,"Activity, laundry"
+Y93.E5,"Activity, floor mopping and cleaning"
+Y93.E6,"Activity, residential relocation"
+Y93.E8,"Activity, other personal hygiene"
+Y93.F1,"Activity, caregiving, bathing"
+Y93.F2,"Activity, caregiving, lifting"
+Y93.G,"Activities involving food preparation, cooking and grilling"
+Y93.G1,"Activity, food preparation and clean up"
+Y93.G9,"Activity, other involving cooking and grilling"
+Y93.H,"Activities involving exterior property and land maintenance, building and construction"
+Y93.H1,"Activity, digging, shoveling and raking"
+Y93.H2,"Activity, gardening and landscaping"
+Y93.H3,"Activity, building and construction"
+Y93.H9,"Activity, other involving exterior property and land maintenance, building and construction"
+Y93.I9,"Activity, other involving external motion"
+Y93.K,Activities involving animal care
+Y93.K1,"Activity, walking an animal"
+Y93.K9,"Activity, other involving animal care"
+Y99.8,Other external cause status
+Y99.9,Unspecified external cause status

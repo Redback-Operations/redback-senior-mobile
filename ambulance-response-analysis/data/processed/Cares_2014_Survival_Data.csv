@@ -1,0 +1,28 @@
+ ,Total N (%),Sustained ROSC (%),Survival to hospital admission (%),Survival to hospital discharge (%),Survival to discharge with CPC 1 or 2 (%)
+Total,45284,14460 (31.9),12859 (28.4),4903 (10.8),3849 (8.5)
+Location of Arrest,,,,,
+    Home/Residence,31714 (70.0),9589 (30.2),8424 (26.6),2827 (8.9),2159 (6.8)
+    Nursing Home,4792 (10.6),1295 (27.0),899 (18.8),214 (4.5),105 (2.2)
+    Public Setting,8774 (19.4),3576 (40.8),3535 (40.3),1862 (21.2),1585 (18.1)
+Arrest Witnessed Status,,,,,
+    Unwitnessed,22786 (50.3),4915 (21.6),4220 (18.5),1123 (4.9),797 (3.5)
+    Bystander witnessed,17027 (37.6),7231 (42.5),6410 (37.6),2757 (16.2),2224 (13.1)
+    911 Responder witnessed,5466 (12.1),2310 (42.3),2225 (40.7),1020 (18.7),826 (15.1)
+Bystander CPR*,,,,,
+    Bystander CPR,18234 (45.8),6166 (33.8),5341 (29.3),2264 (12.4),1840 (10.1)
+    No Bystander CPR,21579 (54.2),5982 (27.7),5291 (24.5),1618 (7.5),1182 (5.5)
+    Bystander CPR (excludes nursing home/healthcare facility events),13074 (39.0),4614 (35.3),4181 (32.0),1899 (14.5),1601 (12.2)
+    No Bystander CPR (excludes nursing home/healthcare facility events),20452 (61.0),5659 (27.7),5067 (24.8),1567 (7.7),1158 (5.7)
+Initial Arrest Rhythm,,,,,
+    Shockable,9211 (20.3),4515 (49.0),4399 (47.8),2702 (29.3),2351 (25.5)
+    Non-shockable,36072 (79.7),9944 (27.6),8459 (23.5),2200 (6.1),1497 (4.2)
+AED Use,,,,,
+    Bystander AED use*,2213 (5.6),891 (40.3),782 (35.3),419 (18.9),359 (16.2)
+    Bystander AED use* (excludes nursing home/healthcare facility events),790 (2.4),388 (49.1),373 (47.2),257 (32.5),238 (30.1)
+    Trained provider (First Responder) AED use,10035 (22.2),3238 (32.3),2682 (26.7),1039 (10.4),840 (8.4)
+Utstein,,,,,
+    Witnessed and shockable,6551 (14.5),3533 (53.9),3441 (52.5),2235 (34.1),1974 (30.1)
+    Bystander witnessed and shockable,5467 (12.1),2902 (53.1),2817 (51.5),1792 (32.8),1571 (28.7)
+Hypothermia,,,,,
+    Field hypothermia,5495 (12.1),3737 (68.0),2991 (54.4),1069 (19.5),784 (14.3)
+    In-hospital hypothermia (among admitted patients),5669 (44.1),--,--,1998 (35.2),1469 (25.9)

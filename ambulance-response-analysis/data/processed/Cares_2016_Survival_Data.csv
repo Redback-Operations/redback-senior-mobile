@@ -1,0 +1,28 @@
+ ,Total N (%),Sustained ROSC (%),Survival to hospital admission (%),Survival to hospital discharge (%),Survival to discharge with CPC 1 or 2 (%)
+Total,61523,19980 (32.5),17795 (28.9),6670 (10.8),5498 (8.9)
+Location of Arrest,,,,,
+    Home/Residence,42152 (68.5),13107 (31.1),11515 (27.3),3801 (9.0),3043 (7.2)
+    Nursing Home,6483 (10.5),1678 (25.9),1181 (18.2),283 (4.4),153 (2.4)
+    Public Setting,12887 (20.9),5195 (40.3),5099 (39.6),2586 (20.1),2302 (17.9)
+Arrest Witnessed Status,,,,,
+    Unwitnessed,31144 (50.6),6828 (21.9),5792 (18.6),1460 (4.7),1105 (3.5)
+    Bystander witnessed,22953 (37.3),9975 (43.5),8929 (38.9),3875 (16.9),3277 (14.3)
+    911 Responder witnessed,7424 (12.1),3177 (42.8),3073 (41.4),1334 (18.0),1115 (15.0)
+Bystander CPR*,,,,,
+    Bystander CPR,25044 (46.3),8574 (34.2),7472 (29.8),3169 (12.7),2657 (10.6)
+    No Bystander CPR,29046 (53.7),8227 (28.3),7246 (24.9),2164 (7.5),1724 (5.9)
+    Bystander CPR (excludes nursing home/healthcare facility events),18203 (39.9),6531 (35.9),5929 (32.6),2643 (14.5),2274 (12.5)
+    No Bystander CPR (excludes nursing home/healthcare facility events),27433 (60.1),7801 (28.4),6925 (25.2),2077 (7.6),1664 (6.1)
+Initial Arrest Rhythm,,,,,
+    Shockable,12172 (19.8),6157 (50.6),6032 (49.6),3594 (29.5),3216 (26.4)
+    Non-shockable,49344 (80.2),13818 (28.0),11757 (23.8),3070 (6.2),2276 (4.6)
+AED Use,,,,,
+    Bystander AED use*,3505 (6.5),1376 (39.3),1212 (34.6),683 (19.5),603 (17.2)
+    Bystander AED use* (excludes nursing home/healthcare facility events),1268 (2.8),612 (48.3),596 (47.0),407 (32.1),384 (30.3)
+    Trained provider (First Responder) AED use,14055 (22.8),4456 (31.7),3869 (27.5),1480 (10.5),1269 (9.0)
+Utstein,,,,,
+    Witnessed and shockable,8641 (14.1),4806 (55.6),4756 (55.0),3031 (35.1),2751 (31.8)
+    Bystander witnessed and shockable,7229 (11.8),4014 (55.5),3956 (54.7),2458 (34.0),2211 (30.6)
+Hypothermia,,,,,
+    Field hypothermia,3769 (6.1),2305 (61.2),1898 (50.4),673 (17.9),531 (14.1)
+    In-hospital hypothermia (among admitted patients),7937 (44.6),--,--,2672 (33.7),2107 (26.5)

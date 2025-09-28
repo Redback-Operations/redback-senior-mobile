@@ -1,0 +1,68 @@
+Data,National
+Data,N=35721
+Age ,N=35685
+  Mean,62.8
+  Median,65
+Gender (%),N=35717
+  Female,14016 (39.2)
+  Male,21701 (60.8)
+Race (%),N=35704
+  American-Indian/Alaskan,166 (0.5)
+  Asian,576 (1.6)
+  Black/African-American,6711 (18.8)
+  Hispanic/Latino,2201 (6.2)
+  Native Hawaiian/Pacific Islander,255 (0.7)
+  White,16504 (46.2)
+  Unknown,9291 (26.0)
+Location of Arrest (%),N=35721
+  Healthcare Facility,1655 (4.6)
+  Home/Residence,25036 (70.1)
+  Industrial Place,180 (0.5)
+  Nursing Home,3727 (10.4)
+  Other,285 (0.8)
+  Place of Recreation,594 (1.7)
+  Public/Commercial Building,2528 (7.1)
+  Street/Highway,1621 (4.5)
+  Transport Center,95 (0.3)
+Arrest witnessed (%),N=35714
+  Bystander Witnessed,13457 (37.7)
+  Witnessed by 911 Responder,4432 (12.4)
+  Unwitnessed,17825 (49.9)
+Who Initiated CPR? (%),N=35717
+  Not Applicable,48 (0.1)
+  Bystander,14121 (39.5)
+  First Responder,9428 (26.4)
+  Emergency Medical Services (EMS),12120 (33.9)
+Was an AED applied prior to EMS arrival? (%),N=35719
+  Yes,9176 (25.7)
+  No,26543 (74.3)
+Who first applied automated external defibrillator? (%),N=9172
+  Bystander,1563 (17.0)
+  First Responder,7605 (82.9)
+Who first defibrillated the patient?* (%),N=32839
+  Not Applicable,22054 (67.2)
+  Bystander,492 (1.5)
+  First Responder,1966 (6.0)
+  Responding EMS Personnel,8327 (25.4)
+First Arrest Rhythm (%),N=35716
+  Vfib/Vtach/Unknown Shockable Rhythm,7548 (21.1)
+  Asystole,16556 (46.4)
+  Idioventricular/PEA,7694 (21.5)
+  Unknown Unshockable Rhythm,3918 (11.0)
+Sustained ROSC (%),N=35688
+  Yes,11644 (32.6)
+  No,24044 (67.4)
+Was hypothermia care provided in the field? (%),N=35707
+  Yes,5418 (15.2)
+  No,30289 (84.8)
+Pre-hospital Outcome (%),N=35721
+  Pronounced in the Field,9598 (26.9)
+  Pronounced in ED,5875 (16.4)
+  Ongoing Resuscitation in ED,20248 (56.7)
+Overall Survival (%),N=35721
+  Overall Survival to Hospital Admission,10286 (28.8)
+  Overall Survival to Hospital Discharge,3901 (10.9)
+  With Good or Moderate Cerebral Performance,3050 (8.5)
+  Missing hospital outcome,190
+Utstein Survival %,N=4441
+Utstein Bystander Survival %,N=2526

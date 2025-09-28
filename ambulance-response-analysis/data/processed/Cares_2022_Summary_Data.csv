@@ -1,0 +1,63 @@
+Data,National
+Data,N=147736
+Age,N=147714
+  Mean,62.2
+  Median,65.0
+Gender (%),N=147735
+  Female,55091 (37.3)
+  Male,92606 (62.7)
+Race (%),N=147736
+  American-Indian/Alaskan,577 (0.4)
+  Asian,3811 (2.6)
+  Black/African-American,31303 (21.2)
+  Hispanic/Latino,12193 (8.3)
+  Native Hawaiian/Pacific Islander,677 (0.5)
+  White,74687 (50.6)
+  Multi-racial,584 (0.4)
+  Unknown,23904 (16.2)
+Location of Arrest (%),N=147736
+  Home/Residence,106953 (72.4)
+  Nursing Home,15247(10.3)
+  Public Setting,25536 (17.3)
+Arrest witnessed (%),N=147732
+  Bystander Witnessed,54887 (37.2)
+  Witnessed by 911 Responder,17085 (11.6)
+  Unwitnessed,75760 (51.3)
+Who Initiated CPR? (%),N=147733
+  Not Applicable,60 (0.0)
+  Bystander,60247 (40.8)
+  First Responder,47072 (31.9)
+  Emergency Medical Services (EMS),40354 (27.3)
+Was an AED applied prior to EMS arrival? (%),N=147734
+  Yes,43327 (29.3)
+  No,104407 (70.7)
+Who first applied automated external defibrillator? (%),N=43330
+  Bystander,8995 (20.8)
+  First Responder,34335 (79.2)
+Who first defibrillated the patient?* (%),N=147714
+  Not Applicable,104746 (70.9)
+  Bystander,2244 (1.5)
+  First Responder,9105 (6.2)
+  Responding EMS Personnel,31619 (21.4)
+First Arrest Rhythm (%),N=147703
+  Vfib/Vtach/Unknown Shockable Rhythm,25081 (17.0)
+  Asystole,77774 (52.7)
+  Idioventricular/PEA,32441 (22.0)
+  Unknown Unshockable Rhythm,12407 (8.4)
+Sustained ROSC (%),N=147704
+  Yes,39408 (26.7)
+  No,108296 (73.3)
+Was hypothermia care provided in the field? (%),N=147735
+  Yes,3703 (2.5)
+  No,144032 (97.5)
+Pre-hospital Outcome (%),N=147736
+  Pronounced in the Field,64995 (44.0)
+  Pronounced in ED,13764 (9.3)
+  Ongoing Resuscitation in ED,68977 (46.7)
+Overall Survival (%),N=147736
+  Overall Survival to Hospital Admission,36782 (24.9)
+  Overall Survival to Hospital Discharge,13794 (9.3)
+  With Good or Moderate Cerebral Performance,11110 (7.5)
+  Missing hospital outcome,331
+Utstein¹ Survival (%),N=15087
+Utstein Bystander² Survival (%),N=8856

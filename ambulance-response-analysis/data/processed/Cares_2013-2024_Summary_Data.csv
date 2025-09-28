@@ -1,0 +1,63 @@
+Data,National
+Data,N=1151845
+Age,N=1151484
+  Mean,62.3
+  Median,65.0
+Sex (%),N=1151759
+  Female,433479 (37.6)
+  Male,718280 (62.4)
+Race (%),N=1151602
+  American-Indian/Alaskan,4639 (0.4)
+  Asian,27651 (2.4)
+  Black/African-American,252653 (21.9)
+  Hispanic/Latino,87209 (7.6)
+  Native Hawaiian/Pacific Islander,5456 (0.5)
+  White,571333 (49.6)
+  Multi-racial,2418 (0.2)
+  Unknown,200243 (17.4)
+Location of Arrest (%),N=1151826
+  Home/Residence,823491 (71.5)
+  Nursing Home,121692(10.6)
+  Public Setting,206643 (17.9)
+Arrest witnessed (%),N=1151796
+  Bystander Witnessed,428910 (37.2)
+  Witnessed by 911 Responder,140580 (12.2)
+  Unwitnessed,582306 (50.6)
+Who Initiated CPR? (%),N=1151449
+  Not Applicable,629 (0.1)
+  Bystander,470010 (40.8)
+  First Responder,340888 (29.6)
+  Emergency Medical Services (EMS),339922 (29.5)
+Was an AED applied prior to EMS arrival? (%),N=1151819
+  Yes,326184 (28.3)
+  No,825635 (71.7)
+Who first applied automated external defibrillator? (%),N=326701
+  Bystander,68870 (21.1)
+  First Responder,257821 (78.9)
+Who first defibrillated the patient?* (%),N=1136009
+  Not Applicable,792527 (69.8)
+  Bystander,17647 (1.6)
+  First Responder,67791 (6.0)
+  Responding EMS Personnel,258044 (22.7)
+First Arrest Rhythm (%),N=1151682
+  Vfib/Vtach/Unknown Shockable Rhythm,207007 (18.0)
+  Asystole,584507 (50.8)
+  Idioventricular/PEA,253079 (22.0)
+  Unknown Unshockable Rhythm,107089 (9.3)
+Sustained ROSC (%),N=1151465
+  Yes,332164 (28.8)
+  No,819301 (71.2)
+Was hypothermia care provided in the field? (%),N=1151719
+  Yes,52288 (4.5)
+  No,1099431 (95.5)
+Pre-hospital Outcome (%),N=1151845
+  Pronounced in the Field,451796 (39.2)
+  Pronounced in ED,137645 (11.9)
+  Ongoing Resuscitation in ED,562404 (48.8)
+Overall Survival (%),N=1151845
+  Overall Survival to Hospital Admission,304916 (26.5)
+  Overall Survival to Hospital Discharge,116069 (10.1)
+  With Good or Moderate Cerebral Performance,92288 (8.0)
+  Missing hospital outcome,2461
+Utstein¹ Survival (%),N=123214
+Utstein Bystander² Survival (%),N=73494

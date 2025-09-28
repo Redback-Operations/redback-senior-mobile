@@ -1,0 +1,28 @@
+ ,Total N(%),Sustained ROSC (%),Survival to Hospital Admission (%),Survival to Hospital Discharge (%),Survived to Discharge with CPC 1 or 2 (%)
+Total,81702,25381 (31.1),23069 (28.2),8489 (10.4),6729 (8.2)
+Location of Arrest, ,,,,
+    Home/Residence,57377 (70.2),16842 (29.4),15118 (26.3),4870 (8.5),3767 (6.6)
+    Nursing Home,9111 (11.2),2304 (25.3),1690 (18.5),392 (4.3),175 (1.9)
+    Public Setting,15214 (18.6),6235 (41.0),6261 (41.2),3227 (21.2),2787 (18.3)
+Arrest Witnessed Status, ,,,,
+    Unwitnessed,40994 (50.2),8340 (20.3),7365 (18.0),1820 (4.4),1317 (3.2)
+    Bystander witnessed,30494 (37.3),12713 (41.7),11436 (37.5),4837 (15.9),3946 (12.9)
+    911 Responder witnessed,10212 (12.5),4327 (42.4),4268 (41.8),1832 (17.9),1466 (14.4)
+Bystander CPR*, ,,,,
+    Bystander CPR,32711 (45.8),10411 (31.8),9350 (28.6),3871 (11.8),3174 (9.7)
+    No Bystander CPR,38777 (54.2),10641 (27.4),9451 (24.4),2786 (7.2),2089 (5.4)
+    Bystander CPR (excludes nursing home/healthcare facility events),23764 (39.2),7873 (33.1),7382 (31.1),3235 (13.6),2758 (11.6)
+    No Bystander CPR (excludes nursing home/healthcare facility events),36839 (60.8),10114 (27.5),9066 (24.6),2693 (7.3),2030 (5.5)
+Initial Arrest Rhythm, ,,,,
+    Shockable,15040 (18.4),7325 (48.7),7271 (48.3),4431 (29.5),3905 (26.0)
+    Non-shockable,66650 (81.6),18045 (27.1),15788 (23.7),4049 (6.1),2815 (4.2)
+AED Use, ,,,,
+    Bystander AED use*,5194 (7.3),1847 (35.6),1593 (30.7),845 (16.3),713 (13.7)
+    Bystander AED use* (excludes nursing home/healthcare facility events),1376 (2.3),681 (49.5),667 (48.5),481 (35.0),452 (32.8)
+    Trained provider (First Responder) AED use,18849 (23.1),5583 (29.6),4904 (26.0),1817 (9.6),1501 (8.0)
+Utstein, ,,,,
+    Witnessed and shockable,10808 (13.2),5843 (54.1),5789 (53.6),3752 (34.7),3347 (31.0)
+    Bystander witnessed and shockable,9018 (11.0),4792 (53.1),4761 (52.8),3015 (33.4),2662 (29.5)
+Hypothermia, ,,,,
+    Field hypothermia,3404 (4.2),1965 (57.7),1626 (47.8),577 (17.0),451 (13.2)
+    In-hospital hypothermia (among admitted patients),10261 (44.5),--,--,3352 (32.7),2519 (24.5)

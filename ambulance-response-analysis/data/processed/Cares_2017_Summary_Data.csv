@@ -1,0 +1,62 @@
+Data,National
+Data,N=76215
+Age,N=76184
+  Mean,62.0
+  Median,64.0
+Gender (%),N=76210
+  Female,28962 (38.0)
+  Male,47248 (62.0)
+Race (%),N=76174
+  American-Indian/Alaskan,270 (0.4)
+  Asian,1518 (2.0)
+  Black/African-American,17307 (22.7)
+  Hispanic/Latino,4111 (5.4)
+  Native Hawaiian/Pacific Islander,304 (0.4)
+  White,36339 (47.7)
+  Unknown,16325 (21.4)
+Location of Arrest (%),N=76215
+  Home/Residence,53240 (69.9)
+  Nursing Home,8668(11.4)
+  Public Setting,14307 (18.8)
+Arrest witnessed (%),N=76215
+  Bystander Witnessed,27887 (36.6)
+  Witnessed by 911 Responder,9380 (12.3)
+  Unwitnessed,38948 (51.1)
+Who Initiated CPR? (%),N=76215
+  Not Applicable,48 (0.1)
+  Bystander,30063 (39.4)
+  First Responder,22309 (29.3)
+  Emergency Medical Services (EMS),23795 (31.2)
+Was an AED applied prior to EMS arrival? (%),N=76210
+  Yes,22056 (28.9)
+  No,54154 (71.1)
+Who first applied automated external defibrillator? (%),N=22036
+  Bystander,4595 (20.9)
+  First Responder,17441 (79.1)
+Who first defibrillated the patient?* (%),N=74891
+  Not Applicable,52196 (69.7)
+  Bystander,1178 (1.6)
+  First Responder,4244 (5.7)
+  Responding EMS Personnel,17273 (23.1)
+First Arrest Rhythm (%),N=76209
+  Vfib/Vtach/Unknown Shockable Rhythm,14019 (18.4)
+  Asystole,38237 (50.2)
+  Idioventricular/PEA,16146 (21.2)
+  Unknown Unshockable Rhythm,7807 (10.2)
+Sustained ROSC (%),N=76214
+  Yes,24249 (31.8)
+  No,51965 (68.2)
+Was hypothermia care provided in the field? (%),N=76214
+  Yes,3871 (5.1)
+  No,72343 (94.9)
+Pre-hospital Outcome (%),N=76215
+  Pronounced in the Field,27219 (35.7)
+  Pronounced in ED,11006 (14.4)
+  Ongoing Resuscitation in ED,37990 (49.8)
+Overall Survival (%),N=76215
+  Overall Survival to Hospital Admission,21414 (28.1)
+  Overall Survival to Hospital Discharge,7949 (10.4)
+  With Good or Moderate Cerebral Performance,6392 (8.4)
+  Missing hospital outcome,173
+Utstein¹ Survival (%),N=8380
+Utstein Bystander² Survival (%),N=4935

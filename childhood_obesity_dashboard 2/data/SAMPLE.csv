@@ -1,0 +1,95 @@
+    import pandas as pd
+
+# Sample services for Burwood VIC Melbourne area
+data = [
+    {
+        "name": "Burwood Community Health Centre",
+        "type": "GP Clinic",
+        "tags": "bulk-billing,family",
+        "address": "2 Warrigal Rd",
+        "suburb": "Burwood",
+        "postcode": 3125,
+        "state": "VIC",
+        "lat": -37.8497,
+        "lon": 145.1127,
+        "phone": "(03) 9800 1111",
+        "website": "https://www.burwoodhealth.org",
+        "hours": "Mon–Fri 8–6, Sat 9–1",
+        "cost": "Bulk-billing available",
+        "eligibility": "All ages, Medicare card"
+    },
+    {
+        "name": "Deakin University Health & Wellbeing",
+        "type": "Nutrition Workshop",
+        "tags": "students,free,workshop",
+        "address": "221 Burwood Hwy",
+        "suburb": "Burwood",
+        "postcode": 3125,
+        "state": "VIC",
+        "lat": -37.847,
+        "lon": 145.114,
+        "phone": "(03) 9244 6100",
+        "website": "https://www.deakin.edu.au",
+        "hours": "Mon–Fri 9–5",
+        "cost": "Free for students",
+        "eligibility": "Students & staff"
+    },
+    {
+        "name": "Burwood Neighbourhood House",
+        "type": "Activity Program",
+        "tags": "kids,after-school,community",
+        "address": "1 Church St",
+        "suburb": "Burwood",
+        "postcode": 3125,
+        "state": "VIC",
+        "lat": -37.852,
+        "lon": 145.099,
+        "phone": "(03) 9808 6292",
+        "website": "https://www.burwoodneighbourhoodhouse.org.au",
+        "hours": "Mon–Fri 9–6",
+        "cost": "Low-cost",
+        "eligibility": "Children & families"
+    },
+    {
+        "name": "Eastern Mental Health Service",
+        "type": "Mental Health",
+        "tags": "counselling,youth,adults",
+        "address": "34 Station St",
+        "suburb": "Burwood",
+        "postcode": 3125,
+        "state": "VIC",
+        "lat": -37.854,
+        "lon": 145.105,
+        "phone": "(03) 9887 1234",
+        "website": "https://www.easternhealth.org.au",
+        "hours": "24/7",
+        "cost": "Free",
+        "eligibility": "All residents"
+    },
+    {
+        "name": "Whitehorse Council Recreation Centre",
+        "type": "Council Recreation",
+        "tags": "sports,swimming,fitness",
+        "address": "42 Burwood Hwy",
+        "suburb": "Burwood",
+        "postcode": 3125,
+        "state": "VIC",
+        "lat": -37.85,
+        "lon": 145.12,
+        "phone": "(03) 9262 6333",
+        "website": "https://www.whitehorse.vic.gov.au",
+        "hours": "Mon–Sun 6–9",
+        "cost": "Membership fees",
+        "eligibility": "Open to all"
+    }
+]
+
+# Create DataFrame
+df = pd.DataFrame(data)
+
+# Save as CSV
+csv_path = "/mnt/data/burwood_services.csv"
+df.to_csv(csv_path, index=False)
+
+csv_path
+

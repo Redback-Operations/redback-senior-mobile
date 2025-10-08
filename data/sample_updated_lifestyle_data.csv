@@ -1,0 +1,8 @@
+screen_time,physical_activity,income,location,obesity_risk,screen_time_category,physical_activity_level
+4,3,Low,Urban,Medium,Medium,Medium
+6,1,Low,Regional,High,High,Low
+2,8,High,Urban,Low,Low,High
+5,2,Medium,Remote,Medium,Medium,Low
+3,5,High,Regional,Low,Medium,Medium
+7,0,Low,Remote,High,High,Low
+1,10,Medium,Urban,Low,Low,High

@@ -22,3 +22,5 @@ This is an **interactive Streamlit dashboard** that explores Australian GP out-o
 
 ## 🛠️ Tech
 - Streamlit, Plotly, Pandas, NumPy, Scikit-learn (Prophet optional)
+
+- for any query - yashpindersaini@gmail.com
